@@ -1,0 +1,13 @@
+name:Alexis BLANCHET
+email:Alexis.BLANCHET@IFF.com
+globaluserid:AXB4393
+deptname:Neuilly-sur-Seine cedex,France
+position:Consumer Science Researcher
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:CI
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR Global SCI Consumer Science

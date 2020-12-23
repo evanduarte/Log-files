@@ -1,0 +1,13 @@
+name:Florence CASTELLANI
+email:FLORENCE.CASTELLANI@IFF.COM
+globaluserid:FFC0539
+deptname:Neuilly-sur-Seine cedex,France
+position:Technical Manager
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR TAG FF1

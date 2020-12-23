@@ -1,0 +1,78 @@
+.launch-graph-button {
+    background-color: white;
+    color: black;
+    border: 2px solid #4C8AAF;
+    font-size: 12px;
+    border-radius: 10px;
+}
+
+.launch-graph-button:hover {background-color: #77b5fe;}
+
+.launch-graph-button:active {
+  background-color: #77b5fe;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+/*--------*/
+.zoom {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.zoom:hover {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+/*--------*/
+.light {
+	position: relative;
+}
+.light::before {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	z-index: 2;
+	display: block;
+	content: '';
+	width: 0;
+	height: 0;
+	background: rgba(255,255,255,.2);
+	border-radius: 100%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	opacity: 0;
+}
+.light:hover::before {
+	-webkit-animation: circle .75s;
+	animation: circle .75s;
+}
+@-webkit-keyframes circle {
+	0% {
+		opacity: 1;
+	}
+	40% {
+		opacity: 1;
+	}
+	100% {
+		width: 200%;
+		height: 200%;
+		opacity: 0;
+	}
+}
+@keyframes circle {
+	0% {
+		opacity: 1;
+	}
+	40% {
+		opacity: 1;
+	}
+	100% {
+		width: 200%;
+		height: 200%;
+		opacity: 0;
+	}
+}
+
+
+/*--------*/

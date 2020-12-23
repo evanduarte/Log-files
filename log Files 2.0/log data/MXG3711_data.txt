@@ -1,0 +1,13 @@
+name:Manon GILLES
+email:MANON.GILLES@IFF.COM
+globaluserid:MXG3711
+deptname:Neuilly-sur-Seine cedex,France
+position:Senior Scientist
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR EAME C&A FF Applications

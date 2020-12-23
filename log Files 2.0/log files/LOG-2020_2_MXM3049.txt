@@ -1,0 +1,81 @@
+26/02/2020 13:25:54: connexion of user: MXM3049 
+26/02/2020 13:27:04: 
+-------------- CPDN001014DZ BAKELITE ------------------
+0         BOMItemName BOMItemNumber Parts                      1  \
+1  ACETYL ISO EUGENOL         14696     5  4.5871559633027525E-2   
+2         AMBERMOR EX         14234   600     5.5045871559633035   
+
+0                    0.2  
+1  9.1743119266055051E-3  
+2     1.1009174311926606  
+0   BOMItemName BOMItemNumber Parts                  1                  0.2
+25  VELTOL PLUS        222199   400  3.669724770642202  0.73394495412844041
+----------------------------------------------------------- 
+26/02/2020 13:27:04: IPC manquant: 00221489 
+26/02/2020 13:27:10: Simple Analysis of the formula: CPDN001014DZ BAKELITE
+-------- OSIFF --------
+                      dosage
+Solvent            17.527523
+% low OSIFF        58.220183
+% medium OSIFF     10.688073
+% high OSIFF        9.701835
+% very high OSIFF   3.669725
+% OSIFF Not Found   0.192661
+--------- SGI ---------
+                  dosage
+Solvent        17.527523
+SGI 1           1.697248
+SGI 2           0.091743
+SGI 3           1.857798
+SGI 5           0.000000
+SGI 6          44.541284
+SGI 7          34.091743
+SGI Not Found   0.192661
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            85.467431
+% medium OSIFF         31.303211
+% high OSIFF           37.978303
+% very high OSIFF      21.064220
+% OSIFF Not Found       0.192661
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               4.238991
+SGI 2               0.140367
+SGI 3               2.595183
+SGI 5               0.000000
+SGI 6              77.320642
+SGI 7              91.517982
+SGI Not Found       0.192661
+----- SGI/OSIFF -------
+                     Solvent     SGI 1     SGI 2     SGI 3  SGI 5      SGI 6  \
+Solvent            17.527523  0.000000  0.000000  0.000000      0   0.000000   
+% low OSIFF         0.000000  0.183486  0.091743  1.834862      0  35.825688   
+% medium OSIFF      0.000000  1.513761  0.000000  0.000000      0   0.000000   
+% high OSIFF        0.000000  0.000000  0.000000  0.022936      0   8.715596   
+% very high OSIFF   0.000000  0.000000  0.000000  0.000000      0   0.000000   
+% OSIFF Not Found   0.000000  0.000000  0.000000  0.000000      0   0.000000   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000       0.000000            0.000000  
+% low OSIFF        20.284404       0.000000            5.688073  
+% medium OSIFF      9.174312       0.000000            1.513761  
+% high OSIFF        0.963303       0.000000            0.000000  
+% very high OSIFF   3.669725       0.000000            0.000000  
+% OSIFF Not Found   0.000000       0.192661            0.137615  
+------ Nat/Synth ------
+                         dosage
+Solvent               17.527523
+% Natural RMs          7.339450
+% Synthetic RMs       75.077982
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.055046
+Formula Price: 60.13 USD/Kg. (missing 0.1% of the volume) 
+26/02/2020 13:27:21: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+26/02/2020 13:27:26: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+26/02/2020 13:29:05: Sensory Prediction of the formula for sex F Using Sub set 
+26/02/2020 13:30:38: looking at the formula with columns: Name,parts,SGI,OSIFF,Push 
+26/02/2020 13:30:51: looking at the formula with columns: Name,parts,SGI,OSIFF,Push,Main Odour,Diff 
+26/02/2020 13:32:45: Comparaison of the formula to the following benches: ALIEN OUD MAJESTUEUX 30F27971(In Data Base),(Uploaded benches) 

@@ -1,0 +1,10 @@
+22/01/2020 07:04:01: Sensory Prediction of the formula for sex F,M Using Sub set 
+22/01/2020 07:06:17: Sensory Prediction of the formula for sex F Using Sub set 
+22/01/2020 07:17:14: Sensory Prediction of the formula for sex U Using Sub set 
+22/01/2020 07:17:27: Sensory Prediction of the formula for sex U,F Using Sub set 
+22/01/2020 07:17:35: Sensory Prediction of the formula for sex U Using Sub set 
+22/01/2020 07:17:36: Sensory Prediction of the formula for sex U Using Sub set 
+22/01/2020 07:17:37: Sensory Prediction of the formula for sex U Using Sub set 
+22/01/2020 07:17:59: Sensory Prediction of the formula for sex M,F Using Sub set 
+22/01/2020 07:18:16: Comparaison of the formula to the following benches: Top (9),HUGO BOSS(In Data Base),(Uploaded benches) 
+22/01/2020 10:25:42: Comparaison of the formula to the following benches: Top (9),HUGO BOSS(In Data Base),(Uploaded benches) 

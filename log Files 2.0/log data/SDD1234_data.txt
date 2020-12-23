@@ -1,0 +1,13 @@
+name:Stephanie WOIMANT
+email:STEPHANIE.WOIMANT@IFF.COM
+globaluserid:SDD1234
+deptname:Neuilly-sur-Seine cedex,France
+position:Technical Manager
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR FR FF TAG

@@ -1,0 +1,1786 @@
+14/01/2020 09:27:15: 
+-------------- TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA ------------------
+0            BOMItemName BOMItemNumber  Parts
+1  GALAXOLIDE 50 PCT IPM      00070302    152
+2      METH DH JASMONATE      00081900  100.2
+0   BOMItemName BOMItemNumber Parts
+148      THYMOL      00203904     0
+----------------------------------------------------------- 
+14/01/2020 09:27:15: IPC manquant: 00134880 
+14/01/2020 09:27:41: Sensory Prediction of the formula for sex F Using Sub set 
+14/01/2020 14:46:29: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:38:03: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:40:03: 
+-------------- RASASI | RUMZ AL RASASI 9495 | DUBAI | FF MEN 19% | LV.2 STANDARD *SEE COM CPA24700 ------------------
+0                  BOMItemName BOMItemNumber     Parts
+1  BERGAMOT OIL CP BERGAPTFREE      00021292  140.0000
+2            LINALOOL SYN TOCO      00124720   20.0000
+0         BOMItemName BOMItemNumber   Parts
+51  VETIVER OIL HAITI      00223188  5.5000
+----------------------------------------------------------- 
+15/01/2020 08:40:08: 
+-------------- RASASI | RUMZ AL RASASI 9495 | DUBAI | FF MEN 19% | LV.2 STANDARD *SEE COM CPA24700 ------------------
+0                  BOMItemName BOMItemNumber     Parts
+1  BERGAMOT OIL CP BERGAPTFREE      00021292  140.0000
+2            LINALOOL SYN TOCO      00124720   20.0000
+0         BOMItemName BOMItemNumber   Parts
+51  VETIVER OIL HAITI      00223188  5.5000
+----------------------------------------------------------- 
+15/01/2020 08:40:11: 
+-------------- MONTALE | BLACK AOUD | EDP MEN 38% | LV.2 REGULAR *SEE COMMENTS CPA24028 ------------------
+0       BOMItemName BOMItemNumber   Parts
+1           CETALOR      00031913  8.0000
+2  DAMASCENONE TOCO      00040046  1.0000
+0         BOMItemName BOMItemNumber   Parts
+58  OUD OIL LMR FFCAT      00150309  8.0000
+----------------------------------------------------------- 
+15/01/2020 08:40:20: 
+-------------- MONTALE | BLACK AOUD | EDP MEN 38% | LV.2 REGULAR *SEE COMMENTS CPA24028 ------------------
+0       BOMItemName BOMItemNumber   Parts
+1           CETALOR      00031913  8.0000
+2  DAMASCENONE TOCO      00040046  1.0000
+0         BOMItemName BOMItemNumber   Parts
+58  OUD OIL LMR FFCAT      00150309  8.0000
+----------------------------------------------------------- 
+15/01/2020 08:40:37: 
+-------------- RASASI | RUMZ AL RASASI 9495 | DUBAI | FF MEN 19% | LV.2 STANDARD *SEE COM CPA24700 ------------------
+0                  BOMItemName BOMItemNumber     Parts
+1  BERGAMOT OIL CP BERGAPTFREE      00021292  140.0000
+2            LINALOOL SYN TOCO      00124720   20.0000
+0         BOMItemName BOMItemNumber   Parts
+51  VETIVER OIL HAITI      00223188  5.5000
+----------------------------------------------------------- 
+15/01/2020 08:40:51: 
+-------------- CCXPER1461BB(YC) 4PXPER1001AA ------------------
+0                    BOMItemName BOMItemNumber   Parts
+1  NEROLI BLANC BLO TOCO 10% DPG      00141012  1.0000
+2      ALLYL AMYL GLYCOLATE TOCO      00011070  1.2000
+0  BOMItemName BOMItemNumber   Parts
+63    TRIMOFIX      00201737  5.0000
+----------------------------------------------------------- 
+15/01/2020 08:40:56: Simple Analysis of the formula: TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA
+-------- OSIFF --------
+                      dosage
+Solvent            13.785289
+% low OSIFF        75.612592
+% medium OSIFF      4.647499
+% high OSIFF        5.763932
+% very high OSIFF   0.094340
+% OSIFF Not Found   0.096349
+--------- SGI ---------
+                  dosage
+Solvent        13.785289
+SGI 1           1.920292
+SGI 2          13.836883
+SGI 3           1.952839
+SGI 5           6.341791
+SGI 6          48.929675
+SGI 7          13.136789
+SGI Not Found   0.096443
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.089083
+% medium OSIFF         12.707628
+% high OSIFF           20.709178
+% very high OSIFF       0.541509
+% OSIFF Not Found       0.096349
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.845572
+SGI 2              14.347428
+SGI 3               2.813042
+SGI 5               9.265227
+SGI 6              63.869523
+SGI 7              24.906691
+SGI Not Found       0.096264
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.785289  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.716990  13.662072  1.509434  5.661527   
+% medium OSIFF      0.000000  0.188679   0.000038  0.415104  0.028302   
+% high OSIFF        0.000000  0.014623   0.174707  0.028302  0.651962   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000066  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        44.713336  8.349054       0.000179            4.150942  
+% medium OSIFF      0.642736  3.372641       0.000000            0.274811  
+% high OSIFF        3.573584  1.320754       0.000000            1.799999  
+% very high OSIFF   0.000000  0.094340       0.000000            0.000000  
+% OSIFF Not Found   0.000019  0.000000       0.096264            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.785289
+% Natural RMs          6.225753
+% Synthetic RMs       79.610515
+% Base RMs             0.377358
+% Nat/Synt Not Found   0.001085
+price of formula: 42.56 USD/Kg. (missing 0.1% of the volume) 
+15/01/2020 08:40:57: Simple Analysis of the formula: TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA
+-------- OSIFF --------
+                      dosage
+Solvent            13.785289
+% low OSIFF        75.612592
+% medium OSIFF      4.647499
+% high OSIFF        5.763932
+% very high OSIFF   0.094340
+% OSIFF Not Found   0.096349
+--------- SGI ---------
+                  dosage
+Solvent        13.785289
+SGI 1           1.920292
+SGI 2          13.836883
+SGI 3           1.952839
+SGI 5           6.341791
+SGI 6          48.929675
+SGI 7          13.136789
+SGI Not Found   0.096443
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.089083
+% medium OSIFF         12.707628
+% high OSIFF           20.709178
+% very high OSIFF       0.541509
+% OSIFF Not Found       0.096349
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.845572
+SGI 2              14.347428
+SGI 3               2.813042
+SGI 5               9.265227
+SGI 6              63.869523
+SGI 7              24.906691
+SGI Not Found       0.096264
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.785289  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.716990  13.662072  1.509434  5.661527   
+% medium OSIFF      0.000000  0.188679   0.000038  0.415104  0.028302   
+% high OSIFF        0.000000  0.014623   0.174707  0.028302  0.651962   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000066  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        44.713336  8.349054       0.000179            4.150942  
+% medium OSIFF      0.642736  3.372641       0.000000            0.274811  
+% high OSIFF        3.573584  1.320754       0.000000            1.799999  
+% very high OSIFF   0.000000  0.094340       0.000000            0.000000  
+% OSIFF Not Found   0.000019  0.000000       0.096264            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.785289
+% Natural RMs          6.225753
+% Synthetic RMs       79.610515
+% Base RMs             0.377358
+% Nat/Synt Not Found   0.001085
+price of formula: 42.56 USD/Kg. (missing 0.1% of the volume) 
+15/01/2020 08:41:13: Simple Analysis of the formula: TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA
+-------- OSIFF --------
+                      dosage
+Solvent            13.785289
+% low OSIFF        75.612592
+% medium OSIFF      4.647499
+% high OSIFF        5.763932
+% very high OSIFF   0.094340
+% OSIFF Not Found   0.096349
+--------- SGI ---------
+                  dosage
+Solvent        13.785289
+SGI 1           1.920292
+SGI 2          13.836883
+SGI 3           1.952839
+SGI 5           6.341791
+SGI 6          48.929675
+SGI 7          13.136789
+SGI Not Found   0.096443
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.089083
+% medium OSIFF         12.707628
+% high OSIFF           20.709178
+% very high OSIFF       0.541509
+% OSIFF Not Found       0.096349
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.845572
+SGI 2              14.347428
+SGI 3               2.813042
+SGI 5               9.265227
+SGI 6              63.869523
+SGI 7              24.906691
+SGI Not Found       0.096264
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.785289  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.716990  13.662072  1.509434  5.661527   
+% medium OSIFF      0.000000  0.188679   0.000038  0.415104  0.028302   
+% high OSIFF        0.000000  0.014623   0.174707  0.028302  0.651962   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000066  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        44.713336  8.349054       0.000179            4.150942  
+% medium OSIFF      0.642736  3.372641       0.000000            0.274811  
+% high OSIFF        3.573584  1.320754       0.000000            1.799999  
+% very high OSIFF   0.000000  0.094340       0.000000            0.000000  
+% OSIFF Not Found   0.000019  0.000000       0.096264            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.785289
+% Natural RMs          6.225753
+% Synthetic RMs       79.610515
+% Base RMs             0.377358
+% Nat/Synt Not Found   0.001085
+price of formula: 42.56 USD/Kg. (missing 0.1% of the volume) 
+15/01/2020 08:41:22: 
+-------------- SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994 ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  FLOROSA (ELINCS)      00062178  15.0000
+2   CITRONELLOL 950      00034733   3.8000
+0     BOMItemName BOMItemNumber   Parts
+61  BENZ BENZOATE      00021200  2.5000
+----------------------------------------------------------- 
+15/01/2020 08:43:43: 
+-------------- CK WOMAN GLUCAM  CCXPER1523AA ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  DIHYDRO MYRCENOL      00044105  18.0000
+2     HEXENOL CIS-3      00080230   2.0000
+0               BOMItemName BOMItemNumber   Parts
+98  CUMINIC ALD TOCO 1% DPG      00037393  6.0000
+----------------------------------------------------------- 
+15/01/2020 08:43:48: Simple Analysis of the formula: TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA
+-------- OSIFF --------
+                      dosage
+Solvent            13.785289
+% low OSIFF        75.612592
+% medium OSIFF      4.647499
+% high OSIFF        5.763932
+% very high OSIFF   0.094340
+% OSIFF Not Found   0.096349
+--------- SGI ---------
+                  dosage
+Solvent        13.785289
+SGI 1           1.920292
+SGI 2          13.836883
+SGI 3           1.952839
+SGI 5           6.341791
+SGI 6          48.929675
+SGI 7          13.136789
+SGI Not Found   0.096443
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.089083
+% medium OSIFF         12.707628
+% high OSIFF           20.709178
+% very high OSIFF       0.541509
+% OSIFF Not Found       0.096349
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.845572
+SGI 2              14.347428
+SGI 3               2.813042
+SGI 5               9.265227
+SGI 6              63.869523
+SGI 7              24.906691
+SGI Not Found       0.096264
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.785289  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.716990  13.662072  1.509434  5.661527   
+% medium OSIFF      0.000000  0.188679   0.000038  0.415104  0.028302   
+% high OSIFF        0.000000  0.014623   0.174707  0.028302  0.651962   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000066  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        44.713336  8.349054       0.000179            4.150942  
+% medium OSIFF      0.642736  3.372641       0.000000            0.274811  
+% high OSIFF        3.573584  1.320754       0.000000            1.799999  
+% very high OSIFF   0.000000  0.094340       0.000000            0.000000  
+% OSIFF Not Found   0.000019  0.000000       0.096264            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.785289
+% Natural RMs          6.225753
+% Synthetic RMs       79.610515
+% Base RMs             0.377358
+% Nat/Synt Not Found   0.001085
+price of formula: 42.56 USD/Kg. (missing 0.1% of the volume) 
+15/01/2020 08:43:50: 
+-------------- CK WOMAN GLUCAM  CCXPER1523AA ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  DIHYDRO MYRCENOL      00044105  18.0000
+2     HEXENOL CIS-3      00080230   2.0000
+0               BOMItemName BOMItemNumber   Parts
+98  CUMINIC ALD TOCO 1% DPG      00037393  6.0000
+----------------------------------------------------------- 
+15/01/2020 08:44:24: 
+-------------- CHANEL | ALLURE HOMME SPORT | EDT 18% | CHANEL | GPI 30089 | LV.3 CLOSE COPY UPDATE 2015 *SEE COM CPA21428 ------------------
+0 BOMItemName BOMItemNumber   Parts
+1    BENZ SAL      00021540  4.0000
+2      CALONE      00030516  9.0000
+0                    BOMItemName BOMItemNumber   Parts
+65  VETIVERT ACET HAITI TOCO BLO      00223085  3.0000
+----------------------------------------------------------- 
+15/01/2020 08:51:44: Simple Analysis of the formula: TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA
+-------- OSIFF --------
+                      dosage
+Solvent            13.785289
+% low OSIFF        75.612592
+% medium OSIFF      4.647499
+% high OSIFF        5.763932
+% very high OSIFF   0.094340
+% OSIFF Not Found   0.096349
+--------- SGI ---------
+                  dosage
+Solvent        13.785289
+SGI 1           1.920292
+SGI 2          13.836883
+SGI 3           1.952839
+SGI 5           6.341791
+SGI 6          48.929675
+SGI 7          13.136789
+SGI Not Found   0.096443
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.089083
+% medium OSIFF         12.707628
+% high OSIFF           20.709178
+% very high OSIFF       0.541509
+% OSIFF Not Found       0.096349
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.845572
+SGI 2              14.347428
+SGI 3               2.813042
+SGI 5               9.265227
+SGI 6              63.869523
+SGI 7              24.906691
+SGI Not Found       0.096264
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.785289  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.716990  13.662072  1.509434  5.661527   
+% medium OSIFF      0.000000  0.188679   0.000038  0.415104  0.028302   
+% high OSIFF        0.000000  0.014623   0.174707  0.028302  0.651962   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000066  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        44.713336  8.349054       0.000179            4.150942  
+% medium OSIFF      0.642736  3.372641       0.000000            0.274811  
+% high OSIFF        3.573584  1.320754       0.000000            1.799999  
+% very high OSIFF   0.000000  0.094340       0.000000            0.000000  
+% OSIFF Not Found   0.000019  0.000000       0.096264            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.785289
+% Natural RMs          6.225753
+% Synthetic RMs       79.610515
+% Base RMs             0.377358
+% Nat/Synt Not Found   0.001085
+price of formula: 42.56 USD/Kg. (missing 0.1% of the volume) 
+15/01/2020 08:52:12: 
+-------------- AQUA DI GIO  EDT FOR MEN 10% CPA03113 ------------------
+0                       BOMItemName BOMItemNumber   Parts
+1        ALD AA TRIPLAL BHT 10% DPG      00013102  3.0000
+2  ALLYL AMYL GLYCOLATE BHT 10% DPG      00013832  6.0000
+0                   BOMItemName BOMItemNumber    Parts
+51  THYME OIL WHITE TYPE 1% DEP      00200453  72.0000
+----------------------------------------------------------- 
+15/01/2020 08:52:12: IPC manquant: 00187068 
+15/01/2020 08:52:12: IPC manquant: 00187050 
+15/01/2020 08:52:12: IPC manquant: 00093607 
+15/01/2020 08:52:12: IPC manquant: 00190526 
+15/01/2020 08:52:12: IPC manquant: 00158192 
+15/01/2020 08:52:12: IPC manquant: 00070718 
+15/01/2020 08:52:12: IPC manquant: 00200453 
+15/01/2020 08:52:12: IPC manquant: 00120567 
+15/01/2020 08:52:12: IPC manquant: 00120952 
+15/01/2020 08:52:12: IPC manquant: 00014653 
+15/01/2020 08:52:12: IPC manquant: 00203849 
+15/01/2020 08:52:24: 
+-------------- CHANEL | ALLURE HOMME SPORT | EDT 18% | CHANEL | GPI 30089 | LV.3 CLOSE COPY UPDATE 2015 *SEE COM CPA21428 ------------------
+0 BOMItemName BOMItemNumber   Parts
+1    BENZ SAL      00021540  4.0000
+2      CALONE      00030516  9.0000
+0                    BOMItemName BOMItemNumber   Parts
+65  VETIVERT ACET HAITI TOCO BLO      00223085  3.0000
+----------------------------------------------------------- 
+15/01/2020 08:52:28: Simple Analysis of the formula: CHANEL | ALLURE HOMME SPORT | EDT 18% | CHANEL | GPI 30089 | LV.3 CLOSE COPY UPDATE 2015 *SEE COM CPA21428
+-------- OSIFF --------
+                    dosage
+Solvent             1.6656
+% low OSIFF        93.4080
+% medium OSIFF      3.7140
+% high OSIFF        1.2124
+% very high OSIFF   0.0000
+% OSIFF Not Found   0.0000
+--------- SGI ---------
+                dosage
+Solvent         1.6656
+SGI 1           6.2500
+SGI 2          37.6750
+SGI 3           5.5440
+SGI 5           1.1830
+SGI 6          44.4820
+SGI 7           3.2004
+SGI Not Found   0.0000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            97.115060
+% medium OSIFF          9.330040
+% high OSIFF            4.589566
+% very high OSIFF       0.000000
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               8.215800
+SGI 2              38.110050
+SGI 3               5.796040
+SGI 5               2.012660
+SGI 6              49.924340
+SGI 7               6.975776
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5   SGI 6   SGI 7  \
+Solvent             1.6656   0.00   0.000  0.000  0.000   0.000  0.0000   
+% low OSIFF         0.0000   4.76  37.560  5.540  0.718  42.730  2.1000   
+% medium OSIFF      0.0000   1.49   0.040  0.004  0.330   1.650  0.2000   
+% high OSIFF        0.0000   0.00   0.075  0.000  0.135   0.102  0.9004   
+% very high OSIFF   0.0000   0.00   0.000  0.000  0.000   0.000  0.0000   
+% OSIFF Not Found   0.0000   0.00   0.000  0.000  0.000   0.000  0.0000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                        0               0.000  
+% low OSIFF                    0              18.260  
+% medium OSIFF                 0               1.704  
+% high OSIFF                   0               0.102  
+% very high OSIFF              0               0.000  
+% OSIFF Not Found              0               0.000  
+------ Nat/Synth ------
+                       dosage
+Solvent                1.6656
+% Natural RMs         20.0660
+% Synthetic RMs       78.2684
+% Base RMs             0.0000
+% Nat/Synt Not Found   0.0000
+price of formula: 59.4 USD/Kg. (missing 2.2% of the volume) 
+15/01/2020 08:52:33: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:52:34: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:54:32: 
+-------------- YVES SAINT LAURENT | BLACK OPIUM | EDP 23% | L'OREAL | LV.4 FUNDAMENTAL UPDATE 2017 *SEE COM D500021022BG ------------------
+0 BOMItemName BOMItemNumber   Parts
+1    ACET C-6      00011301  5.0000
+2    ALD C-18      00013566  0.7000
+0         BOMItemName BOMItemNumber   Parts
+82  VETIVER OIL HAITI      00223188  2.3000
+----------------------------------------------------------- 
+15/01/2020 08:54:32: IPC manquant: LV654321     
+15/01/2020 08:54:36: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:55:17: 
+-------------- GALAXIAL 1KQ 3Q00011662AA ------------------
+0                     BOMItemName BOMItemNumber     Parts
+1  ORANGE OIL NOVA DECOL TOCO LMR      00033278  200.0000
+2             GRAPEFRUIT OIL TOCO      00077351  150.0000
+0     BOMItemName BOMItemNumber     Parts
+66  STYRALYL ACET      00198605  450.0000
+----------------------------------------------------------- 
+15/01/2020 08:55:26: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:56:03: 
+-------------- CCXPER1461BB(YC) 4PXPER1001AA ------------------
+0                    BOMItemName BOMItemNumber   Parts
+1  NEROLI BLANC BLO TOCO 10% DPG      00141012  1.0000
+2      ALLYL AMYL GLYCOLATE TOCO      00011070  1.2000
+0  BOMItemName BOMItemNumber   Parts
+63    TRIMOFIX      00201737  5.0000
+----------------------------------------------------------- 
+15/01/2020 08:56:08: 
+-------------- CCXPER1461BB(YC) 4PXPER1001AA ------------------
+0                    BOMItemName BOMItemNumber   Parts
+1  NEROLI BLANC BLO TOCO 10% DPG      00141012  1.0000
+2      ALLYL AMYL GLYCOLATE TOCO      00011070  1.2000
+0  BOMItemName BOMItemNumber   Parts
+63    TRIMOFIX      00201737  5.0000
+----------------------------------------------------------- 
+15/01/2020 08:56:18: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 08:57:33: 
+-------------- CCWOOD1091DZ(CC) 4PWOOD1000AA ------------------
+0                 BOMItemName BOMItemNumber    Parts
+1           MYSANTOL (ELINCS)      00161647  10.0000
+2  OPERANIDE (ELINCS) 10% DPG      00151761  12.0000
+0      BOMItemName BOMItemNumber    Parts
+81  SANDALORE TOCO      00190259  16.0000
+----------------------------------------------------------- 
+15/01/2020 08:57:36: Sensory Prediction of the formula for sex F Using Sub set 
+15/01/2020 12:47:08: Sensory Prediction of the formula for sex F Using Sub set 
+16/01/2020 08:25:43: Sensory Prediction of the formula for sex F Using Sub set 
+16/01/2020 08:31:11: Sensory Prediction of the formula for sex F Using Sub set 
+16/01/2020 08:31:14: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+16/01/2020 08:31:29: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:31:42: 
+-------------- CHYPRE ULTRAROSE / 6AD +FRAIS 3Q00021138AA------------------
+0               BOMItemName BOMItemNumber   Parts
+1  OXANE 50 PCT TEC 10% DPG      00151243  1.0000
+2        ALD AA TRIPLAL BHT      00013090  1.0000
+0        BOMItemName BOMItemNumber    Parts
+34  DIHYDRO MYRCENOL      00044105  25.0000
+----------------------------------------------------------- 
+16/01/2020 08:31:53: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:31:58: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:32:15: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:32:36: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:34:31: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:39:09: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:59:16: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+16/01/2020 08:59:27: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 08:59:35: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+16/01/2020 08:59:36: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:19:10: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+16/01/2020 09:19:23: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:19:32: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+16/01/2020 09:21:02: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+16/01/2020 09:21:17: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:04: 
+-------------- CHYPRE ULTRAROSE / 6AD +FRAIS 3Q00021138AA------------------
+0               BOMItemName BOMItemNumber   Parts
+1  OXANE 50 PCT TEC 10% DPG      00151243  1.0000
+2        ALD AA TRIPLAL BHT      00013090  1.0000
+0        BOMItemName BOMItemNumber    Parts
+34  DIHYDRO MYRCENOL      00044105  25.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:04: 
+-------------- CHYPRE ULTRAROSE / 6AM -VERT 3Q00021125AA------------------
+0           BOMItemName BOMItemNumber    Parts
+1  ROSE ABS TURKISH LMR      00181165  50.0000
+2             BENZ ACET      00021005  15.0000
+0                BOMItemName BOMItemNumber   Parts
+30  OXANE 50 PCT TEC 10% DPG      00151243  5.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:05: 
+-------------- DOLCE GARDEN FREESIA BU ++ POIRE 3Q00021141AA------------------
+0          BOMItemName BOMItemNumber    Parts
+1             ACET C-6      00011301  10.0000
+2  DAMASCONE DELTA BHT      00043930   2.0000
+0                BOMItemName BOMItemNumber   Parts
+26  OXANE 50 PCT TEC 10% DPG      00151243  2.5000
+----------------------------------------------------------- 
+16/01/2020 09:23:05: 
+-------------- DOLCE GARDEN FREESIA DY +MUGUET 3Q00021142AA------------------
+0        BOMItemName BOMItemNumber     Parts
+1  LINALOOL SYN TOCO      00124720  169.0000
+2        VELTOL PLUS      00222199   30.0000
+0  BOMItemName BOMItemNumber    Parts
+30    CYCLEMAX      00033280  17.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:05: 
+-------------- DOLCE GARDEN FREESIA  EB+ ROSE + SANTAL 3Q00021143AA------------------
+0        BOMItemName BOMItemNumber     Parts
+1  LINALOOL SYN TOCO      00124720  169.0000
+2        VELTOL PLUS      00222199   30.0000
+0  BOMItemName BOMItemNumber    Parts
+30    CYCLEMAX      00033280  17.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:05: 
+-------------- FIDJI ISLAND  3Q00011663AA------------------
+0             BOMItemName BOMItemNumber    Parts
+1    ALD C-12 LAURIC TOCO      00013488  10.0000
+2  LITSEA CUBEBA OIL FILT      00125700  10.0000
+0  BOMItemName BOMItemNumber      Parts
+53    BENZ SAL      00021540  1920.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:06: 
+-------------- FIDJI ISLAND AI00052923AI    MOD  3Q00011664AA------------------
+0           BOMItemName BOMItemNumber     Parts
+1         STYRALYL ACET      00198605  400.0000
+2  PHEN ACETALD (MXDEA)      00163660   40.0000
+0                        BOMItemName BOMItemNumber      Parts
+32  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  1470.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:06: 
+-------------- FRACAS SCENT CO + OUVERT ROSE 3Q00021127AA------------------
+0                     BOMItemName BOMItemNumber    Parts
+1  RHODINOL EX GERANIUM CHINA LMR      00181116  30.0000
+2         LINALOOL PURE EX PINENE      00120525  51.0000
+0         BOMItemName BOMItemNumber    Parts
+24  HELVIMOR (ELINCS)      00081456  50.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:06: 
+-------------- IM BACK 3Q00011665AA------------------
+0              BOMItemName BOMItemNumber    Parts
+1     ALD C-12 LAURIC TOCO      00013488  10.0000
+2  NARCISSE ABS FRENCH LMR      00140138  10.0000
+0          BOMItemName BOMItemNumber    Parts
+28  TONKA BEAN ABS LMR      00201041  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:06: 
+-------------- LAVISH AMBER - FIG FOR ULTRASCENT 3Q00021130AA------------------
+0                  BOMItemName BOMItemNumber   Parts
+1  VALEROLACTONE,GAMMA 10% DPG      00220388  5.0000
+2       ETH ACET 98/99 UNDENAT      00058469  3.0000
+0                               BOMItemName BOMItemNumber   Parts
+33  VIOLET LEAF ABS MD 50 PCT BB LMR 1% DPG      00220268  1.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:07: 
+-------------- #LESSISMORE  AI00053033BL  MOD  3Q00011666AA------------------
+0         BOMItemName BOMItemNumber    Parts
+1  DIMETH SULFIDE NAT      00041590  15.0000
+2       HEXENOL CIS-3      00080230  10.0000
+0  BOMItemName BOMItemNumber      Parts
+30    TRIMOFIX      00201737  2425.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:07: 
+-------------- LOTUS - ULTRASCENT / AG +SOLAIRE 3Q00021133AA------------------
+0 BOMItemName BOMItemNumber   Parts
+1    ALD C-18      00013566  5.0000
+2    AUBEPINE      00012759  2.0000
+0              BOMItemName BOMItemNumber   Parts
+34  TUBEROSE ABS INDIA LMR      00208645  1.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:07: 
+-------------- LOTUS - ULTRASCENT / AD +FRESH GREEN 3Q00021135AA------------------
+0         BOMItemName BOMItemNumber    Parts
+1  ALD AA TRIPLAL BHT      00013090  10.0000
+2        MELONAL TOCO      00133449   5.0000
+0      BOMItemName BOMItemNumber    Parts
+29  LIFFAROME TOCO      00121792  30.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:07: 
+-------------- MANGO PATCH - ULTRASCENT / AV +IMPACT +JUTEUX 3Q00021137AA------------------
+0          BOMItemName BOMItemNumber     Parts
+1  KHARISMAL SUPER PRG      00110609  111.0000
+2       PINEAPPLE CMPD      00164907    0.5000
+0   BOMItemName BOMItemNumber    Parts
+28  HEALINGWOOD      00081215  40.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:08: 
+-------------- NINA RICCI | BELLA ROSE ULTRASCENT - BY + GREEN 3Q00021126AA------------------
+0              BOMItemName BOMItemNumber   Parts
+1  ETH-2-METH BUTY 10% DPG      00051858  1.0000
+2                MANZANATE      00051650  0.5000
+0               BOMItemName BOMItemNumber    Parts
+32  LINALOOL PURE EX PINENE      00120525  45.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:08: 
+-------------- PANDORA FOR ULTRASCENT 3Q00021140AA------------------
+0        BOMItemName BOMItemNumber    Parts
+1           ALD C-18      00013566  20.0000
+2  ETH LINALOOL TOCO      00059169  80.0000
+0    BOMItemName BOMItemNumber    Parts
+29  LINALYL ACET      00125057  50.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:08: 
+-------------- SAP FLOWER - ULTRASCENT /AF +MODERN 3Q00021134AA------------------
+0                       BOMItemName BOMItemNumber    Parts
+1                    LIFFAROME TOCO      00121792  10.0000
+2  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  50.0000
+0           BOMItemName BOMItemNumber    Parts
+21  PEPPER PINK CO2 LMR      00161752  30.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:08: 
+-------------- SAP FLOWER - ULTRASCENT /AK +DIFFUSIF 3Q00021136AA------------------
+0                       BOMItemName BOMItemNumber    Parts
+1                    LIFFAROME TOCO      00121792  10.0000
+2  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  50.0000
+0           BOMItemName BOMItemNumber    Parts
+22  PEPPER PINK CO2 LMR      00161752  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:09: 
+-------------- SAP FLOWER - ULTRASCENT /AM +IMPACT 3Q00021124AA------------------
+0                       BOMItemName BOMItemNumber    Parts
+1                    LIFFAROME TOCO      00121792  10.0000
+2  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  50.0000
+0           BOMItemName BOMItemNumber    Parts
+24  PEPPER PINK CO2 LMR      00161752  20.0000
+----------------------------------------------------------- 
+16/01/2020 09:23:09: 
+-------------- THE GIRLS OF SUMMER 3% (ULTRASCENT) 3Q00021128AA------------------
+0         BOMItemName BOMItemNumber    Parts
+1            ACET C-6      00011301  10.0000
+2  ALD AA TRIPLAL BHT      00013090  10.0000
+0                        BOMItemName BOMItemNumber    Parts
+30  PHEN ETH ALC BA ALC FREE (MXDEA)      00163538  70.0000
+----------------------------------------------------------- 
+16/01/2020 09:24:21: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB(Uploaded benches) 
+16/01/2020 10:35:29: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB(Uploaded benches) 
+16/01/2020 12:25:44: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB(Uploaded benches) 
+16/01/2020 12:25:59: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 12:26:05: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+16/01/2020 15:08:29: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+16/01/2020 15:09:34: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+16/01/2020 15:53:38: Comparaison of the formula to the following benches: NARCISO RODRIGUEZ ,CHANCE EAU TENDRE CPA21766,J'ADORE CPA08599,LA VIE EST BELLE 30F14954,GOOD GIRL,BLACK OPIUM CPA21228,COCO MADEMOISELLE,SI ARMANI CPA21245,CHLOE (In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+16/01/2020 15:54:47: Simple Analysis of the formula: "BLOOM" FOR ULTRASCENT 3Q00021139AA
+-------- OSIFF --------
+                      dosage
+Solvent             0.391304
+% low OSIFF        65.032609
+% medium OSIFF     13.750000
+% high OSIFF       12.086957
+% very high OSIFF   0.043478
+% OSIFF Not Found   8.695652
+--------- SGI ---------
+                  dosage
+Solvent         0.391304
+SGI 1           0.000000
+SGI 2          12.086957
+SGI 3           3.217391
+SGI 5           0.869565
+SGI 6          54.260870
+SGI 7          20.478261
+SGI Not Found   8.695652
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            68.833804
+% medium OSIFF         36.705435
+% high OSIFF           37.954783
+% very high OSIFF       0.304348
+% OSIFF Not Found       8.695652
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2              14.189565
+SGI 3               4.178261
+SGI 5               1.878261
+SGI 6              88.949565
+SGI 7              34.602717
+SGI Not Found       8.695652
+----- SGI/OSIFF -------
+                    Solvent  SGI 1      SGI 2     SGI 3     SGI 5      SGI 6  \
+Solvent            0.391304      0   0.000000  0.000000  0.000000   0.000000   
+% low OSIFF        0.000000      0  10.869565  2.782609  0.000000  36.000000   
+% medium OSIFF     0.000000      0   0.869565  0.000000  0.869565   9.565217   
+% high OSIFF       0.000000      0   0.347826  0.434783  0.000000   8.695652   
+% very high OSIFF  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+% OSIFF Not Found  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000       0.000000            0.000000  
+% low OSIFF        15.380435       0.000000            0.869565  
+% medium OSIFF      2.445652       0.000000            1.739130  
+% high OSIFF        2.608696       0.000000            0.434783  
+% very high OSIFF   0.043478       0.000000            0.000000  
+% OSIFF Not Found   0.000000       8.695652            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                0.391304
+% Natural RMs          3.043478
+% Synthetic RMs       96.565217
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 163.99 USD/Kg. (missing 0.0% of the volume) 
+16/01/2020 15:59:56: Sensory Prediction of the formula for sex F Using Sub set 
+16/01/2020 16:01:28: 
+-------------- "BLOOM" FOR ULTRASCENT 3Q00021139AA ------------------
+0           BOMItemName BOMItemNumber     Parts
+1     ETH LINALOOL TOCO      00059169  100.0000
+2  ROSE ABS TURKISH LMR      00181165    5.0000
+0  BOMItemName BOMItemNumber    Parts
+22    CYCLEMAX      00033280  20.0000
+----------------------------------------------------------- 
+16/01/2020 16:02:41: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+16/01/2020 16:13:02: looking at the formula with columns: Name,parts,SGI,OSIFF 
+21/01/2020 08:41:33: Simple Analysis of the formula: "BLOOM" FOR ULTRASCENT 3Q00021139AA
+-------- OSIFF --------
+                      dosage
+Solvent             0.391304
+% low OSIFF        65.032609
+% medium OSIFF     13.750000
+% high OSIFF       12.086957
+% very high OSIFF   0.043478
+% OSIFF Not Found   8.695652
+--------- SGI ---------
+                  dosage
+Solvent         0.391304
+SGI 1           0.000000
+SGI 2          12.086957
+SGI 3           3.217391
+SGI 5           0.869565
+SGI 6          54.260870
+SGI 7          20.478261
+SGI Not Found   8.695652
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            68.833804
+% medium OSIFF         36.705435
+% high OSIFF           37.954783
+% very high OSIFF       0.304348
+% OSIFF Not Found       8.695652
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2              14.189565
+SGI 3               4.178261
+SGI 5               1.878261
+SGI 6              88.949565
+SGI 7              34.602717
+SGI Not Found       8.695652
+----- SGI/OSIFF -------
+                    Solvent  SGI 1      SGI 2     SGI 3     SGI 5      SGI 6  \
+Solvent            0.391304      0   0.000000  0.000000  0.000000   0.000000   
+% low OSIFF        0.000000      0  10.869565  2.782609  0.000000  36.000000   
+% medium OSIFF     0.000000      0   0.869565  0.000000  0.869565   9.565217   
+% high OSIFF       0.000000      0   0.347826  0.434783  0.000000   8.695652   
+% very high OSIFF  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+% OSIFF Not Found  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000       0.000000            0.000000  
+% low OSIFF        15.380435       0.000000            0.869565  
+% medium OSIFF      2.445652       0.000000            1.739130  
+% high OSIFF        2.608696       0.000000            0.434783  
+% very high OSIFF   0.043478       0.000000            0.000000  
+% OSIFF Not Found   0.000000       8.695652            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                0.391304
+% Natural RMs          3.043478
+% Synthetic RMs       96.565217
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 163.99 USD/Kg. (missing 0.0% of the volume) 
+21/01/2020 09:51:53: Simple Analysis of the formula: "BLOOM" FOR ULTRASCENT 3Q00021139AA
+-------- OSIFF --------
+                      dosage
+Solvent             0.391304
+% low OSIFF        65.032609
+% medium OSIFF     13.750000
+% high OSIFF       12.086957
+% very high OSIFF   0.043478
+% OSIFF Not Found   8.695652
+--------- SGI ---------
+                  dosage
+Solvent         0.391304
+SGI 1           0.000000
+SGI 2          12.086957
+SGI 3           3.217391
+SGI 5           0.869565
+SGI 6          54.260870
+SGI 7          20.478261
+SGI Not Found   8.695652
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            68.833804
+% medium OSIFF         36.705435
+% high OSIFF           37.954783
+% very high OSIFF       0.304348
+% OSIFF Not Found       8.695652
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2              14.189565
+SGI 3               4.178261
+SGI 5               1.878261
+SGI 6              88.949565
+SGI 7              34.602717
+SGI Not Found       8.695652
+----- SGI/OSIFF -------
+                    Solvent  SGI 1      SGI 2     SGI 3     SGI 5      SGI 6  \
+Solvent            0.391304      0   0.000000  0.000000  0.000000   0.000000   
+% low OSIFF        0.000000      0  10.869565  2.782609  0.000000  36.000000   
+% medium OSIFF     0.000000      0   0.869565  0.000000  0.869565   9.565217   
+% high OSIFF       0.000000      0   0.347826  0.434783  0.000000   8.695652   
+% very high OSIFF  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+% OSIFF Not Found  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000       0.000000            0.000000  
+% low OSIFF        15.380435       0.000000            0.869565  
+% medium OSIFF      2.445652       0.000000            1.739130  
+% high OSIFF        2.608696       0.000000            0.434783  
+% very high OSIFF   0.043478       0.000000            0.000000  
+% OSIFF Not Found   0.000000       8.695652            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                0.391304
+% Natural RMs          3.043478
+% Synthetic RMs       96.565217
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 163.99 USD/Kg. (missing 0.0% of the volume) 
+21/01/2020 09:55:23: Simple Analysis of the formula: "BLOOM" FOR ULTRASCENT 3Q00021139AA
+-------- OSIFF --------
+                      dosage
+Solvent             0.391304
+% low OSIFF        65.032609
+% medium OSIFF     13.750000
+% high OSIFF       12.086957
+% very high OSIFF   0.043478
+% OSIFF Not Found   8.695652
+--------- SGI ---------
+                  dosage
+Solvent         0.391304
+SGI 1           0.000000
+SGI 2          12.086957
+SGI 3           3.217391
+SGI 5           0.869565
+SGI 6          54.260870
+SGI 7          20.478261
+SGI Not Found   8.695652
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            68.833804
+% medium OSIFF         36.705435
+% high OSIFF           37.954783
+% very high OSIFF       0.304348
+% OSIFF Not Found       8.695652
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2              14.189565
+SGI 3               4.178261
+SGI 5               1.878261
+SGI 6              88.949565
+SGI 7              34.602717
+SGI Not Found       8.695652
+----- SGI/OSIFF -------
+                    Solvent  SGI 1      SGI 2     SGI 3     SGI 5      SGI 6  \
+Solvent            0.391304      0   0.000000  0.000000  0.000000   0.000000   
+% low OSIFF        0.000000      0  10.869565  2.782609  0.000000  36.000000   
+% medium OSIFF     0.000000      0   0.869565  0.000000  0.869565   9.565217   
+% high OSIFF       0.000000      0   0.347826  0.434783  0.000000   8.695652   
+% very high OSIFF  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+% OSIFF Not Found  0.000000      0   0.000000  0.000000  0.000000   0.000000   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000       0.000000            0.000000  
+% low OSIFF        15.380435       0.000000            0.869565  
+% medium OSIFF      2.445652       0.000000            1.739130  
+% high OSIFF        2.608696       0.000000            0.434783  
+% very high OSIFF   0.043478       0.000000            0.000000  
+% OSIFF Not Found   0.000000       8.695652            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                0.391304
+% Natural RMs          3.043478
+% Synthetic RMs       96.565217
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 163.99 USD/Kg. (missing 0.0% of the volume) 
+21/01/2020 10:01:15: 
+-------------- SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994 ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  FLOROSA (ELINCS)      00062178  15.0000
+2   CITRONELLOL 950      00034733   3.8000
+0     BOMItemName BOMItemNumber   Parts
+61  BENZ BENZOATE      00021200  2.5000
+----------------------------------------------------------- 
+21/01/2020 10:01:15: IPC manquant: 00251120 
+21/01/2020 10:02:02: Simple Analysis of the formula: SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994
+-------- OSIFF --------
+                      dosage
+Solvent            13.831643
+% low OSIFF        75.804260
+% medium OSIFF      1.773834
+% high OSIFF        5.040568
+% very high OSIFF   0.000000
+% OSIFF Not Found   3.549696
+--------- SGI ---------
+                  dosage
+Solvent        13.831643
+SGI 1           4.532454
+SGI 2          10.055781
+SGI 3           1.713996
+SGI 5           7.339757
+SGI 6          49.722110
+SGI 7          11.282961
+SGI Not Found   1.521298
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.002535
+% low OSIFF            82.367556
+% medium OSIFF          5.107404
+% high OSIFF           17.832556
+% very high OSIFF       0.000000
+% OSIFF Not Found       3.549696
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.002535
+SGI 1               4.120690
+SGI 2              10.354817
+SGI 3               2.419168
+SGI 5              15.139970
+SGI 6              62.574442
+SGI 7              12.726826
+SGI Not Found       1.521298
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.831643  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  4.513185  10.020284  1.359026  4.753550   
+% medium OSIFF      0.000000  0.019270   0.000000  0.354970  0.000000   
+% high OSIFF        0.000000  0.000000   0.035497  0.000000  2.586207   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        44.144016  11.014199       0.000000            5.070994  
+% medium OSIFF      1.217039   0.182556       0.000000            0.354970  
+% high OSIFF        2.332657   0.086207       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000000       0.000000            0.000000  
+% OSIFF Not Found   2.028398   0.000000       1.521298            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.831643
+% Natural RMs          5.425963
+% Synthetic RMs       79.221095
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.521298
+price of formula: 44.18 USD/Kg. (missing 10.6% of the volume) 
+21/01/2020 10:02:18: Sensory Prediction of the formula for sex F Using Sub set 
+21/01/2020 10:04:17: Sensory Prediction of the formula for sex F not Using Sub set 
+21/01/2020 10:04:38: Sensory Prediction of the formula for sex F Using Sub set 
+21/01/2020 10:04:44: Sensory Prediction of the formula for sex F not Using Sub set 
+21/01/2020 10:04:47: Sensory Prediction of the formula for sex F not Using Sub set 
+21/01/2020 10:09:59: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+24/01/2020 14:18:24: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+24/01/2020 14:18:42: looking at the Benchmarks with columns: T0,T4,Slope 
+24/01/2020 14:24:02: looking at the Benchmarks with columns: T0,T4,Slope 
+24/01/2020 14:46:27: Simple Analysis of the formula: SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994
+-------- OSIFF --------
+                      dosage
+Solvent            13.831643
+% low OSIFF        75.804260
+% medium OSIFF      1.773834
+% high OSIFF        5.040568
+% very high OSIFF   0.000000
+% OSIFF Not Found   3.549696
+--------- SGI ---------
+                  dosage
+Solvent        13.831643
+SGI 1           4.532454
+SGI 2          10.055781
+SGI 3           1.713996
+SGI 5           7.339757
+SGI 6          49.722110
+SGI 7          11.282961
+SGI Not Found   1.521298
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.002535
+% low OSIFF            82.367556
+% medium OSIFF          5.107404
+% high OSIFF           17.832556
+% very high OSIFF       0.000000
+% OSIFF Not Found       3.549696
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.002535
+SGI 1               4.120690
+SGI 2              10.354817
+SGI 3               2.419168
+SGI 5              15.139970
+SGI 6              62.574442
+SGI 7              12.726826
+SGI Not Found       1.521298
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.831643  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  4.513185  10.020284  1.359026  4.753550   
+% medium OSIFF      0.000000  0.019270   0.000000  0.354970  0.000000   
+% high OSIFF        0.000000  0.000000   0.035497  0.000000  2.586207   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        44.144016  11.014199       0.000000            5.070994  
+% medium OSIFF      1.217039   0.182556       0.000000            0.354970  
+% high OSIFF        2.332657   0.086207       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000000       0.000000            0.000000  
+% OSIFF Not Found   2.028398   0.000000       1.521298            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.831643
+% Natural RMs          5.425963
+% Synthetic RMs       79.221095
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.521298
+price of formula: 44.18 USD/Kg. (missing 10.6% of the volume) 
+24/01/2020 14:46:31: looking at the Benchmarks with columns: T0,T4,Slope 
+24/01/2020 14:52:53: Simple Analysis of the formula: SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994
+-------- OSIFF --------
+                      dosage
+Solvent            13.831643
+% low OSIFF        75.804260
+% medium OSIFF      1.773834
+% high OSIFF        5.040568
+% very high OSIFF   0.000000
+% OSIFF Not Found   3.549696
+--------- SGI ---------
+                  dosage
+Solvent        13.831643
+SGI 1           4.532454
+SGI 2          10.055781
+SGI 3           1.713996
+SGI 5           7.339757
+SGI 6          49.722110
+SGI 7          11.282961
+SGI Not Found   1.521298
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.002535
+% low OSIFF            82.367556
+% medium OSIFF          5.107404
+% high OSIFF           17.832556
+% very high OSIFF       0.000000
+% OSIFF Not Found       3.549696
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.002535
+SGI 1               4.120690
+SGI 2              10.354817
+SGI 3               2.419168
+SGI 5              15.139970
+SGI 6              62.574442
+SGI 7              12.726826
+SGI Not Found       1.521298
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.831643  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  4.513185  10.020284  1.359026  4.753550   
+% medium OSIFF      0.000000  0.019270   0.000000  0.354970  0.000000   
+% high OSIFF        0.000000  0.000000   0.035497  0.000000  2.586207   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        44.144016  11.014199       0.000000            5.070994  
+% medium OSIFF      1.217039   0.182556       0.000000            0.354970  
+% high OSIFF        2.332657   0.086207       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000000       0.000000            0.000000  
+% OSIFF Not Found   2.028398   0.000000       1.521298            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.831643
+% Natural RMs          5.425963
+% Synthetic RMs       79.221095
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.521298
+price of formula: 44.18 USD/Kg. (missing 10.6% of the volume) 
+24/01/2020 14:53:06: looking at the Benchmarks with columns: T0,T4,Slope 
+27/01/2020 12:35:32: Simple Analysis of the formula: SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994
+-------- OSIFF --------
+                      dosage
+Solvent            13.831643
+% low OSIFF        75.804260
+% medium OSIFF      1.773834
+% high OSIFF        5.040568
+% very high OSIFF   0.000000
+% OSIFF Not Found   3.549696
+--------- SGI ---------
+                  dosage
+Solvent        13.831643
+SGI 1           4.532454
+SGI 2          10.055781
+SGI 3           1.713996
+SGI 5           7.339757
+SGI 6          49.722110
+SGI 7          11.282961
+SGI Not Found   1.521298
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.002535
+% low OSIFF            82.367556
+% medium OSIFF          5.107404
+% high OSIFF           17.832556
+% very high OSIFF       0.000000
+% OSIFF Not Found       3.549696
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.002535
+SGI 1               4.120690
+SGI 2              10.354817
+SGI 3               2.419168
+SGI 5              15.139970
+SGI 6              62.574442
+SGI 7              12.726826
+SGI Not Found       1.521298
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            13.831643  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  4.513185  10.020284  1.359026  4.753550   
+% medium OSIFF      0.000000  0.019270   0.000000  0.354970  0.000000   
+% high OSIFF        0.000000  0.000000   0.035497  0.000000  2.586207   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        44.144016  11.014199       0.000000            5.070994  
+% medium OSIFF      1.217039   0.182556       0.000000            0.354970  
+% high OSIFF        2.332657   0.086207       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000000       0.000000            0.000000  
+% OSIFF Not Found   2.028398   0.000000       1.521298            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               13.831643
+% Natural RMs          5.425963
+% Synthetic RMs       79.221095
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.521298
+price of formula: 44.18 USD/Kg. (missing 10.6% of the volume) 
+27/01/2020 12:35:54: 
+-------------- AQUA DI GIO  EDT FOR MEN 10% CPA03113 ------------------
+0                       BOMItemName BOMItemNumber   Parts
+1        ALD AA TRIPLAL BHT 10% DPG      00013102  3.0000
+2  ALLYL AMYL GLYCOLATE BHT 10% DPG      00013832  6.0000
+0                   BOMItemName BOMItemNumber    Parts
+51  THYME OIL WHITE TYPE 1% DEP      00200453  72.0000
+----------------------------------------------------------- 
+27/01/2020 12:35:54: IPC manquant: 00187068 
+27/01/2020 12:35:54: IPC manquant: 00190526 
+27/01/2020 12:35:54: IPC manquant: 00187050 
+27/01/2020 12:35:54: IPC manquant: 00158192 
+27/01/2020 12:35:54: IPC manquant: 00203849 
+27/01/2020 12:35:54: IPC manquant: 00200453 
+27/01/2020 12:35:54: IPC manquant: 00070718 
+27/01/2020 12:35:54: IPC manquant: 00120952 
+27/01/2020 12:35:54: IPC manquant: 00120567 
+27/01/2020 12:35:54: IPC manquant: 00014653 
+27/01/2020 12:35:54: IPC manquant: 00093607 
+27/01/2020 12:35:59: 
+-------------- CCXPER1127BN 4QXPER1003AA ------------------
+0      BOMItemName BOMItemNumber   Parts
+1   EUCALYPTOL USP      00050307  1.0000
+2  AMBER XTREME TM      00012425  8.0000
+0     BOMItemName BOMItemNumber    Parts
+98  TONALID ASPAC      00202059  20.0000
+----------------------------------------------------------- 
+27/01/2020 12:36:06: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI(Uploaded benches) 
+27/01/2020 12:36:18: 
+-------------- GALAXIAL 1KQ 3Q00011662AA------------------
+0                     BOMItemName BOMItemNumber     Parts
+1  ORANGE OIL NOVA DECOL TOCO LMR      00033278  200.0000
+2             GRAPEFRUIT OIL TOCO      00077351  150.0000
+0     BOMItemName BOMItemNumber     Parts
+66  STYRALYL ACET      00198605  450.0000
+----------------------------------------------------------- 
+27/01/2020 12:36:19: 
+-------------- ARABIAN OUD WOODY  EDP 22%WW MO PROJECT 857940  CPA20908------------------
+0                             BOMItemName BOMItemNumber   Parts
+1             BERGAMOT OIL CP BERGAPTFREE      00021292  7.5000
+2  JUNIPER BERRY OIL BALKANS RECT BHT LMR      00100060  1.3000
+0                       BOMItemName BOMItemNumber   Parts
+73  LABDANUM CISTE ESS DIST 10% DPG      00120913  3.0000
+----------------------------------------------------------- 
+27/01/2020 12:36:19: IPC manquant: 00220414 
+27/01/2020 12:36:19: IPC manquant: 00200526 
+27/01/2020 12:36:19: IPC manquant: 00079010 
+27/01/2020 12:36:19: IPC manquant: 00050981 
+27/01/2020 12:36:19: IPC manquant: 00162806 
+27/01/2020 12:36:19: IPC manquant: 00181123 
+27/01/2020 12:36:19: IPC manquant: 00190004 
+27/01/2020 12:36:19: 
+-------------- SOSPIRO | ACCENTO | EDP WOMEN 27% | LEV.2 REGULAR *SEE COM CPA21994------------------
+0       BOMItemName BOMItemNumber    Parts
+1  FLOROSA (ELINCS)      00062178  15.0000
+2   CITRONELLOL 950      00034733   3.8000
+0     BOMItemName BOMItemNumber   Parts
+61  BENZ BENZOATE      00021200  2.5000
+----------------------------------------------------------- 
+27/01/2020 12:36:19: IPC manquant: 00251120 
+27/01/2020 12:36:19: 
+-------------- NASOMATTO | BLACK AFGANO | EDP 20% | LV.2 REGULAR CPA22267------------------
+0    BOMItemName BOMItemNumber    Parts
+1        CETALOR      00031913  30.0000
+2  BACDANOL TOCO      00021326  28.0000
+0               BOMItemName BOMItemNumber   Parts
+45  LABDANUM CISTE ESS DIST      00120105  0.8000
+----------------------------------------------------------- 
+27/01/2020 12:36:19: IPC manquant: 00079010 
+27/01/2020 12:36:19: IPC manquant: 00091877 
+27/01/2020 12:36:20: 
+-------------- MONTALE | BLACK AOUD | EDP MEN 38% | LV.2 REGULAR *SEE COMMENTS CPA24028------------------
+0       BOMItemName BOMItemNumber   Parts
+1           CETALOR      00031913  8.0000
+2  DAMASCENONE TOCO      00040046  1.0000
+0         BOMItemName BOMItemNumber   Parts
+58  OUD OIL LMR FFCAT      00150309  8.0000
+----------------------------------------------------------- 
+27/01/2020 12:36:20: IPC manquant: 30797395 
+27/01/2020 12:36:20: IPC manquant: 00079010 
+27/01/2020 12:36:20: IPC manquant: 00133519 
+27/01/2020 12:36:20: IPC manquant: 00150309 
+27/01/2020 12:36:20: 
+-------------- RASASI | RUMZ AL RASASI 9495 | DUBAI | FF MEN 19% | LV.2 STANDARD *SEE COM CPA24700------------------
+0                  BOMItemName BOMItemNumber     Parts
+1  BERGAMOT OIL CP BERGAPTFREE      00021292  140.0000
+2            LINALOOL SYN TOCO      00124720   20.0000
+0         BOMItemName BOMItemNumber   Parts
+51  VETIVER OIL HAITI      00223188  5.5000
+----------------------------------------------------------- 
+27/01/2020 12:36:20: IPC manquant: C92000005 
+27/01/2020 12:36:20: IPC manquant: 00010638 
+27/01/2020 12:36:20: 
+-------------- YVES SAINT LAURENT | BLACK OPIUM | EDP 23% | L'OREAL | LV.4 FUNDAMENTAL UPDATE 2017 *SEE COM D500021022BG------------------
+0 BOMItemName BOMItemNumber   Parts
+1    ACET C-6      00011301  5.0000
+2    ALD C-18      00013566  0.7000
+0         BOMItemName BOMItemNumber   Parts
+82  VETIVER OIL HAITI      00223188  2.3000
+----------------------------------------------------------- 
+27/01/2020 12:36:20: IPC manquant: LV654321     
+27/01/2020 12:36:21: 
+-------------- TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA------------------
+0            BOMItemName BOMItemNumber  Parts
+1  GALAXOLIDE 50 PCT IPM      00070302    152
+2      METH DH JASMONATE      00081900  100.2
+0   BOMItemName BOMItemNumber Parts
+148      THYMOL      00203904     0
+----------------------------------------------------------- 
+27/01/2020 12:36:21: IPC manquant: 00134880 
+27/01/2020 12:36:28: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI,FormulaExportExcelGalaxial1KQ DN00092480KQ,CPA20908 Woody Arabian Oud,CPA21994 Accento,CPA22267 Black Afgano,CPA24028 Black Aoud,CPA24700 Rumz Al Rasasi,D500021022BG Black Opium EDP,FormulaExportExcel Mickael Kors TangoHavane SL00101176KW(Uploaded benches) 
+27/01/2020 12:37:00: looking at the Benchmarks with columns: T0,T4,Slope 
+27/01/2020 12:37:10: looking at the formula with columns: Name,parts,SGI,OSIFF,log P 
+27/01/2020 12:37:20: looking at the formula with columns: Name,parts,SGI,OSIFF,log P,SVP (mmHg) 
+27/01/2020 12:37:25: looking at the formula with columns: Name,parts,SGI,OSIFF,SVP (mmHg),MW (g/mol) 
+27/01/2020 12:39:01: Sensory Prediction of the formula for sex F Using Sub set 
+27/01/2020 12:39:03: Sensory Prediction of the formula for sex F Using Sub set 
+27/01/2020 16:02:58: Simple Analysis of the formula: CCXPER1127BN 4QXPER1003AA
+-------- OSIFF --------
+                      dosage
+Solvent             3.897753
+% low OSIFF        82.693216
+% medium OSIFF      8.724229
+% high OSIFF        4.448018
+% very high OSIFF   0.110132
+% OSIFF Not Found   0.126652
+--------- SGI ---------
+                  dosage
+Solvent         3.897753
+SGI 1           9.722467
+SGI 2          20.644934
+SGI 3           5.053128
+SGI 5          11.546256
+SGI 6          44.190529
+SGI 7           4.834802
+SGI Not Found   0.110132
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            92.838084
+% medium OSIFF         20.371348
+% high OSIFF           16.997062
+% very high OSIFF       0.632159
+% OSIFF Not Found       0.126652
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              15.695154
+SGI 2              24.893520
+SGI 3               6.294383
+SGI 5              21.389956
+SGI 6              53.499449
+SGI 7               9.082709
+SGI Not Found       0.110132
+----- SGI/OSIFF -------
+                    Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            3.897753  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  6.352423  19.895595  4.326256  8.881057   
+% medium OSIFF     0.000000  2.962555   0.078855  0.715859  0.022026   
+% high OSIFF       0.000000  0.407489   0.670485  0.011013  2.643172   
+% very high OSIFF  0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        39.273128  3.964758       0.000000            7.213656  
+% medium OSIFF      4.735683  0.209251       0.000000            2.797357  
+% high OSIFF        0.165198  0.550661       0.000000            0.000000  
+% very high OSIFF   0.000000  0.110132       0.000000            0.000000  
+% OSIFF Not Found   0.016520  0.000000       0.110132            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                3.897753
+% Natural RMs         10.011013
+% Synthetic RMs       86.091233
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 20.09 USD/Kg. (missing 0.0% of the volume) 
+27/01/2020 16:02:58: Sensory Prediction of the formula for sex F Using Sub set 
+27/01/2020 16:03:21: 
+-------------- RASASI | RUMZ AL RASASI 9495 | DUBAI | FF MEN 19% | LV.2 STANDARD *SEE COM CPA24700 ------------------
+0                  BOMItemName BOMItemNumber     Parts
+1  BERGAMOT OIL CP BERGAPTFREE      00021292  140.0000
+2            LINALOOL SYN TOCO      00124720   20.0000
+0         BOMItemName BOMItemNumber   Parts
+51  VETIVER OIL HAITI      00223188  5.5000
+----------------------------------------------------------- 
+27/01/2020 16:03:21: IPC manquant: C92000005 
+27/01/2020 16:03:21: IPC manquant: 00010638 
+27/01/2020 16:03:24: Sensory Prediction of the formula for sex F Using Sub set 
+27/01/2020 16:03:27: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:03:30: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:03:48: 
+-------------- TANGOHAVANE AUSL001037AJ DEVELOPPEE 3Q00011639AA ------------------
+0            BOMItemName BOMItemNumber  Parts
+1  GALAXOLIDE 50 PCT IPM      00070302    152
+2      METH DH JASMONATE      00081900  100.2
+0   BOMItemName BOMItemNumber Parts
+148      THYMOL      00203904     0
+----------------------------------------------------------- 
+27/01/2020 16:03:48: IPC manquant: 00134880 
+27/01/2020 16:03:51: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:03:56: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:04:07: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:04:31: 
+-------------- MONTALE | BLACK AOUD | EDP MEN 38% | LV.2 REGULAR *SEE COMMENTS CPA24028 ------------------
+0       BOMItemName BOMItemNumber   Parts
+1           CETALOR      00031913  8.0000
+2  DAMASCENONE TOCO      00040046  1.0000
+0         BOMItemName BOMItemNumber   Parts
+58  OUD OIL LMR FFCAT      00150309  8.0000
+----------------------------------------------------------- 
+27/01/2020 16:04:31: IPC manquant: 30797395 
+27/01/2020 16:04:31: IPC manquant: 00079010 
+27/01/2020 16:04:31: IPC manquant: 00133519 
+27/01/2020 16:04:31: IPC manquant: 00150309 
+27/01/2020 16:04:35: 
+-------------- ARABIAN OUD WOODY  EDP 22%WW MO PROJECT 857940  CPA20908 ------------------
+0                             BOMItemName BOMItemNumber   Parts
+1             BERGAMOT OIL CP BERGAPTFREE      00021292  7.5000
+2  JUNIPER BERRY OIL BALKANS RECT BHT LMR      00100060  1.3000
+0                       BOMItemName BOMItemNumber   Parts
+73  LABDANUM CISTE ESS DIST 10% DPG      00120913  3.0000
+----------------------------------------------------------- 
+27/01/2020 16:04:35: IPC manquant: 00220414 
+27/01/2020 16:04:35: IPC manquant: 00200526 
+27/01/2020 16:04:35: IPC manquant: 00079010 
+27/01/2020 16:04:35: IPC manquant: 00050981 
+27/01/2020 16:04:35: IPC manquant: 00162806 
+27/01/2020 16:04:35: IPC manquant: 00181123 
+27/01/2020 16:04:35: IPC manquant: 00190004 
+27/01/2020 16:04:40: 
+-------------- CK WOMAN GLUCAM  CCXPER1523AA ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  DIHYDRO MYRCENOL      00044105  18.0000
+2     HEXENOL CIS-3      00080230   2.0000
+0               BOMItemName BOMItemNumber   Parts
+98  CUMINIC ALD TOCO 1% DPG      00037393  6.0000
+----------------------------------------------------------- 
+27/01/2020 16:04:43: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:04:59: 
+-------------- GALAXIAL 1KQ 3Q00011662AA ------------------
+0                     BOMItemName BOMItemNumber     Parts
+1  ORANGE OIL NOVA DECOL TOCO LMR      00033278  200.0000
+2             GRAPEFRUIT OIL TOCO      00077351  150.0000
+0     BOMItemName BOMItemNumber     Parts
+66  STYRALYL ACET      00198605  450.0000
+----------------------------------------------------------- 
+27/01/2020 16:05:04: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:08:37: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:08:39: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:08:48: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:08:56: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:09:05: Sensory Prediction of the formula for sex F not Using Sub set 
+27/01/2020 16:09:08: Sensory Prediction of the formula for sex F not Using Sub set 
+29/01/2020 10:03:45: Simple Analysis of the formula: GALAXIAL 1KQ 3Q00011662AA
+-------- OSIFF --------
+                      dosage
+Solvent             1.483740
+% low OSIFF        89.800813
+% medium OSIFF      2.983740
+% high OSIFF        3.821138
+% very high OSIFF   1.097561
+% OSIFF Not Found   0.813008
+--------- SGI ---------
+                  dosage
+Solvent         1.483740
+SGI 1           3.963415
+SGI 2          31.772358
+SGI 3          11.993902
+SGI 5           6.117886
+SGI 6          34.479675
+SGI 7          10.189024
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            97.740407
+% medium OSIFF          7.496829
+% high OSIFF           15.027703
+% very high OSIFF       6.300000
+% OSIFF Not Found       0.813008
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               4.586992
+SGI 2              36.098211
+SGI 3              12.538598
+SGI 5              11.461301
+SGI 6              43.263008
+SGI 7              19.429837
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                   Solvent     SGI 1      SGI 2      SGI 3     SGI 5  \
+Solvent            1.48374  0.000000   0.000000   0.000000  0.000000   
+% low OSIFF        0.00000  3.658537  31.308943  11.910569  3.471545   
+% medium OSIFF     0.00000  0.243902   0.008130   0.081301  2.032520   
+% high OSIFF       0.00000  0.060976   0.455285   0.002033  0.613821   
+% very high OSIFF  0.00000  0.000000   0.000000   0.000000  0.000000   
+% OSIFF Not Found  0.00000  0.000000   0.000000   0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        31.158537  8.292683              0           21.016260  
+% medium OSIFF      0.081301  0.536585              0            1.626016  
+% high OSIFF        2.426829  0.262195              0            0.170732  
+% very high OSIFF   0.000000  1.097561              0            0.000000  
+% OSIFF Not Found   0.813008  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                1.483740
+% Natural RMs         22.813008
+% Synthetic RMs       75.703252
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 36.31 USD/Kg. (missing 0.0% of the volume) 
+29/01/2020 10:03:45: Sensory Prediction of the formula for sex F Using Sub set 
+29/01/2020 10:04:24: 
+-------------- CCXPER1461BB(YC) 4PXPER1001AA ------------------
+0                    BOMItemName BOMItemNumber   Parts
+1  NEROLI BLANC BLO TOCO 10% DPG      00141012  1.0000
+2      ALLYL AMYL GLYCOLATE TOCO      00011070  1.2000
+0  BOMItemName BOMItemNumber   Parts
+63    TRIMOFIX      00201737  5.0000
+----------------------------------------------------------- 
+29/01/2020 10:04:33: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI,FormulaExportExcelGalaxial1KQ DN00092480KQ,CPA20908 Woody Arabian Oud,CPA21994 Accento,CPA22267 Black Afgano,CPA24028 Black Aoud,CPA24700 Rumz Al Rasasi,D500021022BG Black Opium EDP,FormulaExportExcel Mickael Kors TangoHavane SL00101176KW(Uploaded benches) 
+29/01/2020 10:04:55: Comparaison of the formula to the following benches: SI ARMANI CPA21245,LA VIE EST BELLE 30F14954,J'ADORE CPA08599,Top (9)(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI,FormulaExportExcelGalaxial1KQ DN00092480KQ,CPA20908 Woody Arabian Oud,CPA21994 Accento,CPA22267 Black Afgano,CPA24028 Black Aoud,CPA24700 Rumz Al Rasasi,D500021022BG Black Opium EDP,FormulaExportExcel Mickael Kors TangoHavane SL00101176KW(Uploaded benches) 
+29/01/2020 10:07:20: Comparaison of the formula to the following benches: LA VIE EST BELLE 30F14954(In Data Base),FormulaExportExcel ChypreUltraRose26AE NE00023726AE,FormulaExportExcel ChypreUltraRose26AN,FormulaExportExcel DolceGardenFreesia13BY IF00001313BY,FormulaExportExcel DolceGardenFreesia13EB IF00001313EB,FormulaExportExcel DolceGardenFreesia13ED IF00001313ED,FormulaExportExcel FidjiIsland23AI AI00052923AI,FormulaExportExcel FidjiIsland23BT AI00052923BT,FormulaExportExcel FracasScent76CP IF00001376CP,FormulaExportExcel IMBack22AP AI00052922AP,FormulaExportExcel LavishAmber61AA RYXPER1161AA,FormulaExportExcel LessIsMore33BX AI00053033BX,FormulaExportExcel Lotus24AJ NE00023724AJ,FormulaExportExcel Lotus24AT NE00023724AT,FormulaExportExcel MangoPatch25AZ NE00023725AZ,FormulaExportExcel NinaRicci BellaRose25CA IF00001325CA,FormulaExportExcel PandoraForUS32QJ PNAI001032QJ,FormulaExportExcel SapFlower23AK NE00023723AK,FormulaExportExcel SapFlower23AM NE00023723AM,FormulaExportExcel SapFlower23AP NE00023723AP,FormulaExportExcel TheGirlsOfSummer38AB PNGRFL1038AB,FormulaExportExcel Bloom06CI PN00771006CI,FormulaExportExcelGalaxial1KQ DN00092480KQ,CPA20908 Woody Arabian Oud,CPA21994 Accento,CPA22267 Black Afgano,CPA24028 Black Aoud,CPA24700 Rumz Al Rasasi,D500021022BG Black Opium EDP,FormulaExportExcel Mickael Kors TangoHavane SL00101176KW(Uploaded benches) 
+29/01/2020 10:10:31: Sensory Prediction of the formula for sex F not Using Sub set 
+29/01/2020 10:10:58: Sensory Prediction of the formula for sex F Using Sub set 
+29/01/2020 10:12:17: looking at the formula with columns: Name,parts,SGI,OSIFF,SVP (mmHg),MW (g/mol) 
+29/01/2020 10:12:28: looking at the formula with columns: Name,parts,SGI,OSIFF 
+29/01/2020 10:12:34: looking at the Benchmarks with columns: T0,T4,Slope 
+30/01/2020 16:01:28: Simple Analysis of the formula: CCXPER1461BB(YC) 4PXPER1001AA
+-------- OSIFF --------
+                      dosage
+Solvent             8.050769
+% low OSIFF        77.489231
+% medium OSIFF     11.364103
+% high OSIFF        3.013846
+% very high OSIFF   0.051282
+% OSIFF Not Found   0.030769
+--------- SGI ---------
+                  dosage
+Solvent         8.050769
+SGI 1           8.000000
+SGI 2          20.984615
+SGI 3           8.061538
+SGI 5          10.334359
+SGI 6          38.168718
+SGI 7           6.400000
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            85.211692
+% medium OSIFF         28.538256
+% high OSIFF           11.518708
+% very high OSIFF       0.294359
+% OSIFF Not Found       0.030769
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              10.454359
+SGI 2              24.047590
+SGI 3               9.981949
+SGI 5              15.436246
+SGI 6              50.987692
+SGI 7              14.685949
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                    Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            8.050769  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  6.461538  20.533333  7.805128  9.148718   
+% medium OSIFF     0.000000  1.538462   0.020513  0.256410  0.000000   
+% high OSIFF       0.000000  0.000000   0.430769  0.000000  1.185641   
+% very high OSIFF  0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        30.617436  2.923077              0           15.087179  
+% medium OSIFF      6.276923  3.271795              0            2.061538  
+% high OSIFF        1.243590  0.153846              0            0.512821  
+% very high OSIFF   0.000000  0.051282              0            0.000000  
+% OSIFF Not Found   0.030769  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                8.050769
+% Natural RMs         17.661538
+% Synthetic RMs       74.287692
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 28.99 USD/Kg. (missing 0.0% of the volume) 
+31/01/2020 15:04:42: Simple Analysis of the formula: CCXPER1461BB(YC) 4PXPER1001AA
+-------- OSIFF --------
+                      dosage
+Solvent             8.050769
+% low OSIFF        77.489231
+% medium OSIFF     11.364103
+% high OSIFF        3.013846
+% very high OSIFF   0.051282
+% OSIFF Not Found   0.030769
+--------- SGI ---------
+                  dosage
+Solvent         8.050769
+SGI 1           8.000000
+SGI 2          20.984615
+SGI 3           8.061538
+SGI 5          10.334359
+SGI 6          38.168718
+SGI 7           6.400000
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            85.211692
+% medium OSIFF         28.538256
+% high OSIFF           11.518708
+% very high OSIFF       0.294359
+% OSIFF Not Found       0.030769
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              10.454359
+SGI 2              24.047590
+SGI 3               9.981949
+SGI 5              15.436246
+SGI 6              50.987692
+SGI 7              14.685949
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                    Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            8.050769  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  6.461538  20.533333  7.805128  9.148718   
+% medium OSIFF     0.000000  1.538462   0.020513  0.256410  0.000000   
+% high OSIFF       0.000000  0.000000   0.430769  0.000000  1.185641   
+% very high OSIFF  0.000000  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        30.617436  2.923077              0           15.087179  
+% medium OSIFF      6.276923  3.271795              0            2.061538  
+% high OSIFF        1.243590  0.153846              0            0.512821  
+% very high OSIFF   0.000000  0.051282              0            0.000000  
+% OSIFF Not Found   0.030769  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                8.050769
+% Natural RMs         17.661538
+% Synthetic RMs       74.287692
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 28.99 USD/Kg. (missing 0.0% of the volume) 

@@ -1,0 +1,172 @@
+24/02/2020 14:03:48: connexion of user: CXM6334 
+24/02/2020 14:19:10: 
+-------------- DELINA LATTAFA VANILLA TABAC = AC VANILLA TABAC C1TEST1002AA ------------------
+0            BOMItemName BOMItemNumber    Parts
+1  CEDARWOOD LIGHT TEXAS      00032712  20.0000
+2     ALD AA TRIPLAL BHT      00013090  15.0000
+0   BOMItemName BOMItemNumber     Parts
+41  VELTOL PLUS      00222199  300.0000
+----------------------------------------------------------- 
+24/02/2020 14:19:10: IPC manquant: 00164016 
+24/02/2020 14:23:59: Simple Analysis of the formula: DELINA LATTAFA VANILLA TABAC = AC VANILLA TABAC C1TEST1002AA
+-------- OSIFF --------
+                      dosage
+Solvent             5.200000
+% low OSIFF        75.267857
+% medium OSIFF     15.816964
+% high OSIFF        0.411607
+% very high OSIFF   2.678571
+% OSIFF Not Found   0.625000
+--------- SGI ---------
+                  dosage
+Solvent         5.200000
+SGI 1           1.857143
+SGI 2           7.236607
+SGI 3           2.321429
+SGI 5           4.330357
+SGI 6          58.781250
+SGI 7          19.648214
+SGI Not Found   0.625000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            84.371429
+% medium OSIFF         44.777277
+% high OSIFF            1.440571
+% very high OSIFF      15.375000
+% OSIFF Not Found       0.625000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               2.780000
+SGI 2               8.231205
+SGI 3               2.541071
+SGI 5               6.122321
+SGI 6              79.543571
+SGI 7              46.746107
+SGI Not Found       0.625000
+----- SGI/OSIFF -------
+                   Solvent     SGI 1     SGI 2     SGI 3     SGI 5      SGI 6  \
+Solvent                5.2  0.000000  0.000000  0.000000  0.000000   0.000000   
+% low OSIFF            0.0  1.696429  7.008929  2.232143  4.241071  50.267857   
+% medium OSIFF         0.0  0.160714  0.004464  0.000000  0.000000   8.508929   
+% high OSIFF           0.0  0.000000  0.223214  0.089286  0.089286   0.004464   
+% very high OSIFF      0.0  0.000000  0.000000  0.000000  0.000000   0.000000   
+% OSIFF Not Found      0.0  0.000000  0.000000  0.000000  0.000000   0.000000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000          0.000            0.000000  
+% low OSIFF        9.821429          0.000            5.535714  
+% medium OSIFF     7.142857          0.000            0.053571  
+% high OSIFF       0.005357          0.000            0.093750  
+% very high OSIFF  2.678571          0.000            0.000000  
+% OSIFF Not Found  0.000000          0.625            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                5.200000
+% Natural RMs          5.683036
+% Synthetic RMs       88.491964
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.625000
+Formula Price: 31.06 USD/Kg. (missing 0.6% of the volume) 
+24/02/2020 14:31:24: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+24/02/2020 14:52:23: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 14:58:38: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 15:20:34: looking at the formula with columns: Name,parts,SGI,OSIFF,log P 
+24/02/2020 15:24:17: looking at the formula with columns: Name,parts,SGI,OSIFF,log P,Main Odour,Push 
+24/02/2020 15:25:13: looking at the Ingredients with columns: IPC,Name,SGI,OSIFF,Nat/Synth 
+24/02/2020 15:27:07: looking at the Benchmarks with columns: Solvent,SGI 1,SGI 2,SGI 3,SGI 5,SGI 6,SGI 7,SGI Not Found,Solvent,% low OSIFF,% medium OSIFF,% high OSIFF,% very high OSIFF,% OSIFF Not Found 
+24/02/2020 15:27:15: looking at the Benchmarks with columns: Solvent,SGI 1,SGI 2,SGI 3,SGI 5,SGI 6,SGI 7,SGI Not Found,Solvent,% low OSIFF,% medium OSIFF,% high OSIFF,% very high OSIFF,% OSIFF Not Found 
+24/02/2020 15:29:49: looking at the Benchmarks with columns: T0,T4,Slope 
+24/02/2020 15:31:50: looking for ingredients with SGI in: 5 and OSIFF in: high with price range: 0-10000 
+24/02/2020 15:36:38: looking for ingredients with SGI in:  and OSIFF in:  with Main odour in: fruit 
+24/02/2020 15:36:58: looking for ingredients with SGI in: 2 and OSIFF in: low,medium with Main odour in: fruit 
+24/02/2020 16:46:18: 
+-------------- STERLING PARFUMS - ARMAF | CLUB DE NUIT INTENSE | FF MEN 23% | LV.2 STANDARD *SEE COM CPA24612 ------------------
+0               BOMItemName BOMItemNumber     Parts
+1          ISO E SUPER TOCO      00091841  168.7000
+2  ALLYL HEPTANOATE 10% DPG      00013890    1.7000
+0                BOMItemName BOMItemNumber   Parts
+28  ROSEMARY OIL TUNISIA LMR      00181113  1.8000
+----------------------------------------------------------- 
+24/02/2020 16:46:18: IPC manquant: 00037753 
+24/02/2020 16:46:34: 
+-------------- ROBERTO CAVALLI | LA NOTTE UOMO | UAE | EDT MEN 12% | LV.2 REGULAR *SEE COM CPA23701 ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  DIHYDRO MYRCENOL      00044105  51.0000
+2     BACDANOL TOCO      00021326   5.3000
+0                      BOMItemName BOMItemNumber    Parts
+42  PATCHOULI OIL INDONESIA MD LMR      00161015  34.4000
+----------------------------------------------------------- 
+24/02/2020 16:46:34: IPC manquant: FIRM0046     
+24/02/2020 16:47:12: 
+-------------- ROBERTO CAVALLI | LA NOTTE UOMO | UAE | EDT MEN 12% | LV.2 REGULAR *SEE COM CPA23701 ------------------
+0       BOMItemName BOMItemNumber    Parts
+1  DIHYDRO MYRCENOL      00044105  51.0000
+2     BACDANOL TOCO      00021326   5.3000
+0                      BOMItemName BOMItemNumber    Parts
+42  PATCHOULI OIL INDONESIA MD LMR      00161015  34.4000
+----------------------------------------------------------- 
+24/02/2020 16:47:12: IPC manquant: FIRM0046     
+24/02/2020 16:47:23: Simple Analysis of the formula: ROBERTO CAVALLI | LA NOTTE UOMO | UAE | EDT MEN 12% | LV.2 REGULAR *SEE COM CPA23701
+-------- OSIFF --------
+                   dosage
+Solvent             2.709
+% low OSIFF        91.770
+% medium OSIFF      3.256
+% high OSIFF        0.265
+% very high OSIFF   0.000
+% OSIFF Not Found   2.000
+--------- SGI ---------
+               dosage
+Solvent         2.709
+SGI 1           1.625
+SGI 2          19.770
+SGI 3           5.395
+SGI 5           2.926
+SGI 6          61.990
+SGI 7           3.585
+SGI Not Found   2.000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF            100.70880
+% medium OSIFF           8.76843
+% high OSIFF             1.14015
+% very high OSIFF        0.00000
+% OSIFF Not Found        2.00000
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                1.68290
+SGI 2               21.85990
+SGI 3                6.43135
+SGI 5                3.53028
+SGI 6               69.11080
+SGI 7                8.00215
+SGI Not Found        2.00000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              2.709  0.000   0.00  0.000  0.000   0.00  0.000   
+% low OSIFF          0.000  1.600  19.47  4.640  2.730  61.68  1.650   
+% medium OSIFF       0.000  0.005   0.30  0.740  0.126   0.15  1.935   
+% high OSIFF         0.000  0.020   0.00  0.015  0.070   0.16  0.000   
+% very high OSIFF    0.000  0.000   0.00  0.000  0.000   0.00  0.000   
+% OSIFF Not Found    0.000  0.000   0.00  0.000  0.000   0.00  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0                7.40  
+% medium OSIFF               0.0                0.86  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            2.0                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent                2.709
+% Natural RMs          8.260
+% Synthetic RMs       87.031
+% Base RMs             0.000
+% Nat/Synt Not Found   2.000
+Formula Price: 15.16 USD/Kg. (missing 10.0% of the volume) 
+24/02/2020 16:48:31: Comparaison of the formula to the following benches: Y YSL 30F24021 (In Data Base),(Uploaded benches) 

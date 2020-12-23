@@ -1,0 +1,19 @@
+25/02/2020 09:30:13: connexion of user: NJB1411 
+25/02/2020 09:31:55: 
+-------------- NE00021062AA ------------------
+Empty DataFrame
+Columns: [Unnamed: 0, Unnamed: 2, This document contains confidential information which is a trade secret and the exclusive property of International Flavors and Fragrances Inc., Unnamed: 5, Unnamed: 6, Unnamed: 8, Unnamed: 12, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 22, Unnamed: 24, Unnamed: 25, Unnamed: 27, Unnamed: 29, Unnamed: 33]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, Unnamed: 2, This document contains confidential information which is a trade secret and the exclusive property of International Flavors and Fragrances Inc., Unnamed: 5, Unnamed: 6, Unnamed: 8, Unnamed: 12, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 22, Unnamed: 24, Unnamed: 25, Unnamed: 27, Unnamed: 29, Unnamed: 33]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 09:32:37: 
+-------------- NE00021071AC ------------------
+Empty DataFrame
+Columns: [Unnamed: 0, Unnamed: 2, This document contains confidential information which is a trade secret and the exclusive property of International Flavors and Fragrances Inc., Unnamed: 5, Unnamed: 6, Unnamed: 8, Unnamed: 12, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 22, Unnamed: 24, Unnamed: 25, Unnamed: 27, Unnamed: 29, Unnamed: 33]
+Index: []
+Empty DataFrame
+Columns: [Unnamed: 0, Unnamed: 2, This document contains confidential information which is a trade secret and the exclusive property of International Flavors and Fragrances Inc., Unnamed: 5, Unnamed: 6, Unnamed: 8, Unnamed: 12, Unnamed: 14, Unnamed: 15, Unnamed: 16, Unnamed: 22, Unnamed: 24, Unnamed: 25, Unnamed: 27, Unnamed: 29, Unnamed: 33]
+Index: []
+----------------------------------------------------------- 

@@ -1,0 +1,141 @@
+25/02/2020 15:42:02: connexion of user: NBB1199 
+25/02/2020 15:42:03: connexion of user: NBB1199 
+25/02/2020 15:42:04: connexion of user: NBB1199 
+25/02/2020 15:59:02: 
+-------------- AI00053291CY ------------------
+0                     BOMItemName BOMItemNumber     Parts
+1                        COUMARIN      00036603   30.0000
+2  LEMON OIL ITALY WG DECOL CAPUA      00120998  150.0000
+0             BOMItemName BOMItemNumber     Parts
+144  TRIETHYL CITRATE RNW      00202113  735.0000
+----------------------------------------------------------- 
+25/02/2020 15:59:02: IPC manquant: 00023157 
+25/02/2020 15:59:02: IPC manquant: 00140767 
+25/02/2020 16:00:37: Simple Analysis of the formula: AI00053291CY
+-------- OSIFF --------
+                      dosage
+Solvent             6.023348
+% low OSIFF        87.961739
+% medium OSIFF      4.166304
+% high OSIFF        1.656522
+% very high OSIFF   0.160348
+% OSIFF Not Found   0.031739
+--------- SGI ---------
+                  dosage
+Solvent         6.023348
+SGI 1           3.864478
+SGI 2          19.500217
+SGI 3           1.519130
+SGI 5           4.122609
+SGI 6          58.668696
+SGI 7           6.269783
+SGI Not Found   0.031739
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            90.079778
+% medium OSIFF         10.554478
+% high OSIFF            5.538598
+% very high OSIFF       0.920862
+% OSIFF Not Found       0.031739
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               5.832238
+SGI 2              20.841237
+SGI 3               1.764265
+SGI 5               5.987593
+SGI 6              62.489657
+SGI 7              10.178726
+SGI Not Found       0.031739
+----- SGI/OSIFF -------
+                    Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            6.023348  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  2.717391  19.119565  1.358696  3.642174   
+% medium OSIFF     0.000000  1.117391   0.023913  0.152174  0.231522   
+% high OSIFF       0.000000  0.029565   0.356522  0.008261  0.248913   
+% very high OSIFF  0.000000  0.000130   0.000217  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        56.252174  4.871739       0.000000           10.782609  
+% medium OSIFF      1.760870  0.880435       0.000000            1.227174  
+% high OSIFF        0.655652  0.357609       0.000000            0.016522  
+% very high OSIFF   0.000000  0.160000       0.000000            0.000130  
+% OSIFF Not Found   0.000000  0.000000       0.031739            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                6.023348
+% Natural RMs         12.026435
+% Synthetic RMs       81.919783
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.030435
+Formula Price: 24.68 USD/Kg. (missing 2.4% of the volume) 
+25/02/2020 16:00:39: Simple Analysis of the formula: AI00053291CY
+-------- OSIFF --------
+                      dosage
+Solvent             6.023348
+% low OSIFF        87.961739
+% medium OSIFF      4.166304
+% high OSIFF        1.656522
+% very high OSIFF   0.160348
+% OSIFF Not Found   0.031739
+--------- SGI ---------
+                  dosage
+Solvent         6.023348
+SGI 1           3.864478
+SGI 2          19.500217
+SGI 3           1.519130
+SGI 5           4.122609
+SGI 6          58.668696
+SGI 7           6.269783
+SGI Not Found   0.031739
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            90.079778
+% medium OSIFF         10.554478
+% high OSIFF            5.538598
+% very high OSIFF       0.920862
+% OSIFF Not Found       0.031739
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               5.832238
+SGI 2              20.841237
+SGI 3               1.764265
+SGI 5               5.987593
+SGI 6              62.489657
+SGI 7              10.178726
+SGI Not Found       0.031739
+----- SGI/OSIFF -------
+                    Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            6.023348  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  2.717391  19.119565  1.358696  3.642174   
+% medium OSIFF     0.000000  1.117391   0.023913  0.152174  0.231522   
+% high OSIFF       0.000000  0.029565   0.356522  0.008261  0.248913   
+% very high OSIFF  0.000000  0.000130   0.000217  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        56.252174  4.871739       0.000000           10.782609  
+% medium OSIFF      1.760870  0.880435       0.000000            1.227174  
+% high OSIFF        0.655652  0.357609       0.000000            0.016522  
+% very high OSIFF   0.000000  0.160000       0.000000            0.000130  
+% OSIFF Not Found   0.000000  0.000000       0.031739            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                6.023348
+% Natural RMs         12.026435
+% Synthetic RMs       81.919783
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.030435
+Formula Price: 24.68 USD/Kg. (missing 2.4% of the volume) 
+25/02/2020 16:05:01: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 16:06:56: Comparaison of the formula to the following benches: Top (9),HUGO BOSS(In Data Base),(Uploaded benches) 
+25/02/2020 16:11:54: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 16:16:01: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 16:17:14: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 16:39:23: looking at the Ingredients with columns: IPC,Name,SGI,OSIFF,Main Odour,Sec Odour 

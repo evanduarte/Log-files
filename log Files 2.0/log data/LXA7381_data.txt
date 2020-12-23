@@ -1,0 +1,13 @@
+name:Linda DIALLO
+email:LINDA.DIALLO@IFF.COM
+globaluserid:LXA7381
+deptname:Neuilly-sur-Seine cedex,France
+position:Scientist I
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR FR C&A FF Applications

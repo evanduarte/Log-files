@@ -1,0 +1,440 @@
+25/02/2020 14:11:22: connexion of user: VXD9510 
+25/02/2020 14:16:46: 
+-------------- 30F22877 ------------------
+0          BOMItemName BOMItemNumber Parts
+1         ACETATE C-06         11301     1
+2  ADOXAL TOCO 10% DPG         11638     4
+0   BOMItemName BOMItemNumber Parts
+55  VELTOL PLUS        222199    43
+----------------------------------------------------------- 
+25/02/2020 14:16:46: IPC manquant: 30774770 
+25/02/2020 14:18:21: 
+-------------- SATIN FLEUR ------------------
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 14:18:30: 
+-------------- SATIN FLEUR ------------------
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 14:19:53: 
+-------------- 30F22696 ------------------
+0           BOMItemName BOMItemNumber Parts
+1          ACETATE C-06         11301   100
+2  ALD C-12 LAURIC TOCO         13488     1
+0  BOMItemName BOMItemNumber Parts
+41   VERTOLIFF        201058    40
+----------------------------------------------------------- 
+25/02/2020 14:19:58: 
+-------------- 30F22877 ------------------
+0          BOMItemName BOMItemNumber Parts
+1         ACETATE C-06         11301     1
+2  ADOXAL TOCO 10% DPG         11638     4
+0   BOMItemName BOMItemNumber Parts
+55  VELTOL PLUS        222199    43
+----------------------------------------------------------- 
+25/02/2020 14:19:58: IPC manquant: 30774770 
+25/02/2020 14:21:44: Simple Analysis of the formula: 30F22877
+-------- OSIFF --------
+                      dosage
+Solvent             2.250000
+% low OSIFF        79.739796
+% medium OSIFF      9.275510
+% high OSIFF        3.836735
+% very high OSIFF   4.387755
+% OSIFF Not Found   0.510204
+--------- SGI ---------
+                  dosage
+Solvent         2.250000
+SGI 1           2.367347
+SGI 2          15.408163
+SGI 3           2.153061
+SGI 5           4.683673
+SGI 6          49.964286
+SGI 7          22.663265
+SGI Not Found   0.510204
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            86.680357
+% medium OSIFF         25.511327
+% high OSIFF           12.636020
+% very high OSIFF      25.185714
+% OSIFF Not Found       0.510204
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               5.323061
+SGI 2              16.496939
+SGI 3               2.187449
+SGI 5               5.335612
+SGI 6              55.097908
+SGI 7              65.572449
+SGI Not Found       0.510204
+----- SGI/OSIFF -------
+                   Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent               2.25  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF           0.00  0.918367  15.204082  2.142857  4.438776   
+% medium OSIFF        0.00  0.612245   0.000000  0.010204  0.030612   
+% high OSIFF          0.00  0.836735   0.204082  0.000000  0.214286   
+% very high OSIFF     0.00  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found     0.00  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        49.250000  7.785714       0.000000            0.969388  
+% medium OSIFF      0.000000  8.622449       0.000000            0.000000  
+% high OSIFF        0.714286  1.867347       0.000000            0.000000  
+% very high OSIFF   0.000000  4.387755       0.000000            0.000000  
+% OSIFF Not Found   0.000000  0.000000       0.510204            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                2.250000
+% Natural RMs          0.969388
+% Synthetic RMs       96.270408
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.510204
+Formula Price: 9.24 USD/Kg. (missing 0.5% of the volume) 
+25/02/2020 14:22:09: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 14:25:18: Comparaison of the formula to the following benches: Top (6)(In Data Base),(Uploaded benches) 
+25/02/2020 14:26:25: Comparaison of the formula to the following benches: ONE MILLION,HUGO BOSS(In Data Base),(Uploaded benches) 
+25/02/2020 14:26:46: Comparaison of the formula to the following benches: LA VIE EST BELLE 30F14954(In Data Base),(Uploaded benches) 
+25/02/2020 14:31:11: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:31:31: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:31:33: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:31:39: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:31:47: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:32:53: Comparaison of the formula to the following benches: OLYMPEA 30F18538(In Data Base),(Uploaded benches) 
+25/02/2020 14:33:57: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:39:47: 
+-------------- 3ZDY001007AA------------------
+0           BOMItemName BOMItemNumber                Parts  \
+1          ACETATE C-06      00011301  0.86040000000000005   
+3  ALD C-12 LAURIC TOCO      00013488                 0.01   
+
+0                 I.E      autre nom  
+1                6.15  hexyl acetate  
+3  10.119999999999999      dodecanal  
+0                  BOMItemName BOMItemNumber Parts    I.E         autre nom
+142  HAY ABS MD 50 PCT TEC LMR      00080188     0  12.47  triethyl citrate
+----------------------------------------------------------- 
+25/02/2020 14:39:47: IPC manquant: 00221185 
+25/02/2020 14:40:05: Comparaison of the formula to the following benches: (In Data Base),Angelica(Uploaded benches) 
+25/02/2020 14:40:54: 
+-------------- 3ZDY001007AA ------------------
+0           BOMItemName BOMItemNumber                Parts  \
+1          ACETATE C-06      00011301  0.86040000000000005   
+3  ALD C-12 LAURIC TOCO      00013488                 0.01   
+
+0                 I.E      autre nom  
+1                6.15  hexyl acetate  
+3  10.119999999999999      dodecanal  
+0                  BOMItemName BOMItemNumber Parts    I.E         autre nom
+142  HAY ABS MD 50 PCT TEC LMR      00080188     0  12.47  triethyl citrate
+----------------------------------------------------------- 
+25/02/2020 14:40:54: IPC manquant: 00221185 
+25/02/2020 14:41:05: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:42:57: 
+-------------- 30790468 ------------------
+0         BOMItemName BOMItemNumber Parts                    Jet Set
+1  ALD AA TRIPLAL BHT         13090     2                   ACET C-6
+2       BACDANOL TOCO         21326    35  ALLYL AMYL GLYCOLATE TOCO
+0                  BOMItemName BOMItemNumber Parts              Jet Set
+41  PHEN ETH PHEN ACET (USDEA)        164287    20  YARA YARA EXTRA PRG
+----------------------------------------------------------- 
+25/02/2020 14:42:57: IPC manquant: 30219247 
+25/02/2020 14:42:57: IPC manquant: 30774770 
+25/02/2020 14:43:20: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:45:22: 
+-------------- 30F19340 ------------------
+0   BOMItemName BOMItemNumber Parts AP SPRAY AP RO Main Odour\nALMANAC  \
+1   ACALEA TBHQ         12211    50        1     1              violet   
+2  ACETATE C-06         11301     1        2     1               fruit   
+
+0 Secondary odour\nALMANAC  
+1                   mimosa  
+2                     pear  
+0  BOMItemName BOMItemNumber Parts AP SPRAY AP RO Main Odour\nALMANAC  \
+50    ZENOLIDE        263015    50        1     1              animal   
+
+0  Secondary odour\nALMANAC  
+50                     musk  
+----------------------------------------------------------- 
+25/02/2020 14:45:22: IPC manquant: 00012211 
+25/02/2020 14:45:32: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:47:16: 
+-------------- 30F22696 ------------------
+0           BOMItemName BOMItemNumber Parts
+1          ACETATE C-06         11301   100
+2  ALD C-12 LAURIC TOCO         13488     1
+0  BOMItemName BOMItemNumber Parts
+41   VERTOLIFF        201058    40
+----------------------------------------------------------- 
+25/02/2020 14:47:22: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:49:02: 
+-------------- SATIN FLEUR ------------------
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 14:49:26: 
+-------------- SATIN FLEUR ------------------
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 14:50:01: 
+-------------- Jet Set ------------------
+   11301               ACETATE C-06  50
+0  11070  ALLYL AMYL GLYCOLATE TOCO  40
+1  13862      ALLYL CYCLOHEXYL PROP  20
+     11301         ACETATE C-06  50
+39  250322  YARA YARA EXTRA PRG   3
+----------------------------------------------------------- 
+25/02/2020 14:50:01: IPC manquant: 0CETALOR 
+25/02/2020 14:50:01: IPC manquant: BICYCLONONALACTONE 
+25/02/2020 14:50:01: IPC manquant: METH DH JASMONATE 
+25/02/2020 14:50:01: IPC manquant: UNDECAVERTOL TOCO 
+25/02/2020 14:50:01: IPC manquant: DAMASCONE DELTA BHT 
+25/02/2020 14:50:01: IPC manquant: ROSE OXIDE PRG TOCO 
+25/02/2020 14:50:01: IPC manquant: ISO AMYL BUTY 
+25/02/2020 14:50:01: IPC manquant: ISO EUGENOL 
+25/02/2020 14:50:01: IPC manquant: DECALACTONE. GAMMA 
+25/02/2020 14:50:01: IPC manquant: DIHYDRO MYRCENOL 
+25/02/2020 14:50:01: IPC manquant: ALLYL AMYL GLYCOLATE TOCO 
+25/02/2020 14:50:01: IPC manquant: BELLANONE 
+25/02/2020 14:50:01: IPC manquant: LEMONILE 
+25/02/2020 14:50:01: IPC manquant: CARVONE SPECIAL L- 
+25/02/2020 14:50:01: IPC manquant: AMBER XTREME TM 
+25/02/2020 14:50:01: IPC manquant: STYRALYL ACET 
+25/02/2020 14:50:01: IPC manquant: FLORALOZONE 
+25/02/2020 14:50:01: IPC manquant: TIMBEROL 
+25/02/2020 14:50:01: IPC manquant: MANZANATE 
+25/02/2020 14:50:01: IPC manquant: ISO GAMMA SUPER TOCO 
+25/02/2020 14:50:01: IPC manquant: TERPINYL ACET JAX 
+25/02/2020 14:50:01: IPC manquant: LIMONENE D TOCO 
+25/02/2020 14:50:01: IPC manquant: PRECYCLEMONE B BHT 
+25/02/2020 14:50:01: IPC manquant: ALLYL HEPTANOATE 
+25/02/2020 14:50:01: IPC manquant: HEXYL ISO BUTYRATE 
+25/02/2020 14:50:01: IPC manquant: YARA YARA EXTRA PRG 
+25/02/2020 14:50:01: IPC manquant: EUCALYPTOL USP 
+25/02/2020 14:50:01: IPC manquant: CYCLAPROP 
+25/02/2020 14:50:01: IPC manquant: ALLYL CYCLOHEXYL PROP 
+25/02/2020 14:50:01: IPC manquant: CAMPHOR PWD SYN 
+25/02/2020 14:50:01: IPC manquant: 00VERDOX 
+25/02/2020 14:50:01: IPC manquant: BEAUVERTATE 
+25/02/2020 14:50:01: IPC manquant: CYCLACET DIHYDRO 
+25/02/2020 14:50:01: IPC manquant: GALBASCONE PRG BHT 
+25/02/2020 14:50:01: IPC manquant: VERANIOSS 
+25/02/2020 14:50:01: IPC manquant: CYCLOGALBANATE TOCO 
+25/02/2020 14:50:01: IPC manquant: VERTENEX 
+25/02/2020 14:50:01: IPC manquant: EBANOL BHT 
+25/02/2020 14:50:01: IPC manquant: AQUAFLORA TOCO 
+25/02/2020 14:50:01: IPC manquant: VERTOLIFF 
+25/02/2020 14:50:10: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:50:19: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:50:21: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:50:23: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:50:24: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:51:47: 
+-------------- Frozen ------------------
+   11301               ACETATE C-06   100
+0  11070  ALLYL AMYL GLYCOLATE TOCO  20.0
+1  13338             ALLYL CAPROATE  30.0
+     11301          ACETATE C-06  100
+40  220576  VIOLIFF BHT (ELINCS)  6.0
+----------------------------------------------------------- 
+25/02/2020 14:51:47: IPC manquant: PINO ACETALD TOCO 
+25/02/2020 14:51:47: IPC manquant: ROSE OXIDE TOCO 
+25/02/2020 14:51:47: IPC manquant: NERYL ACET A 
+25/02/2020 14:51:47: IPC manquant: HEXENYL CIS-3 CAPROATE TOCO 
+25/02/2020 14:51:47: IPC manquant: 1v1ANZANATE 
+25/02/2020 14:51:47: IPC manquant: DANIASCONE DELTA BHT 
+25/02/2020 14:51:47: IPC manquant: MELONAL TOCO 
+25/02/2020 14:51:47: IPC manquant: VIOLIFF BHT (ELINCS) 
+25/02/2020 14:51:47: IPC manquant: VERDURAL B EXTRA 
+25/02/2020 14:51:47: IPC manquant: ISO AMYL BUTY 
+25/02/2020 14:51:47: IPC manquant: IONONE ALPHA BHT 
+25/02/2020 14:51:47: IPC manquant: ETH CAPRYLATE 
+25/02/2020 14:51:47: IPC manquant: ALLYL CAPROATE 
+25/02/2020 14:51:47: IPC manquant: DECALACTONE. GAMMA 
+25/02/2020 14:51:47: IPC manquant: OXASPIRANE-819 
+25/02/2020 14:51:47: IPC manquant: ALLYL AMYL GLYCOLATE TOCO 
+25/02/2020 14:51:47: IPC manquant: UNDECALACTONE GAMMA COEUR 
+25/02/2020 14:51:47: IPC manquant: BELLANONE 
+25/02/2020 14:51:47: IPC manquant: LEMONILE 
+25/02/2020 14:51:47: IPC manquant: VANDOR B BHT 
+25/02/2020 14:51:47: IPC manquant: CITROLATE 
+25/02/2020 14:51:47: IPC manquant: AMBER XTREME TM 
+25/02/2020 14:51:47: IPC manquant: STYRALYL ACET 
+25/02/2020 14:51:47: IPC manquant: GERANYL ACET PURE 
+25/02/2020 14:51:47: IPC manquant: HEXYL ISO BUTYRATE 
+25/02/2020 14:51:47: IPC manquant: EUCALYPTOL USP 
+25/02/2020 14:51:47: IPC manquant: CYCLAPROP 
+25/02/2020 14:51:47: IPC manquant: ALLYL CYCLOHEXYL PROP 
+25/02/2020 14:51:47: IPC manquant: 0VANORIS 
+25/02/2020 14:51:47: IPC manquant: PHENOXY ETHYL ISO BUTYRATE 
+25/02/2020 14:51:47: IPC manquant: HEXYL CINN ALD TBHQ 
+25/02/2020 14:51:47: IPC manquant: GALBASCONE PRG BHT 
+25/02/2020 14:51:47: IPC manquant: VERANIOSS 
+25/02/2020 14:51:47: IPC manquant: CYCLOGALBANATE TOCO 
+25/02/2020 14:51:47: IPC manquant: FRAGARONE 
+25/02/2020 14:51:47: IPC manquant: ISO PROPYL-2-METH BUTY 
+25/02/2020 14:51:47: IPC manquant: METH CEDRYL KETONE 
+25/02/2020 14:51:47: IPC manquant: TETRAHYDRO LINALOOL 
+25/02/2020 14:51:47: IPC manquant: VERTENEX 
+25/02/2020 14:51:47: IPC manquant: CYCLACET 
+25/02/2020 14:51:47: IPC manquant: VERTOLIFF 
+25/02/2020 14:52:01: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:52:35: 
+-------------- Graffiti ------------------
+  Graffiti Unnamed: 1 Unnamed: 2  Unnamed: 3 Unnamed: 4
+1        #       Name   Ret Time  Clémentine    Vanessa
+  Graffiti Unnamed: 1 Unnamed: 2  Unnamed: 3 Unnamed: 4
+1        #       Name   Ret Time  Clémentine    Vanessa
+----------------------------------------------------------- 
+25/02/2020 14:53:11: 
+-------------- Graffiti ------------------
+  Graffiti Unnamed: 1 Unnamed: 2  Unnamed: 3 Unnamed: 4
+1        #       Name   Ret Time  Clémentine    Vanessa
+  Graffiti Unnamed: 1 Unnamed: 2  Unnamed: 3 Unnamed: 4
+1        #       Name   Ret Time  Clémentine    Vanessa
+----------------------------------------------------------- 
+25/02/2020 14:55:02: 
+-------------- SATIN FLEUR ------------------
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+Empty DataFrame
+Columns: [Satin fleur, Unnamed: 1, Unnamed: 2, Unnamed: 3, Unnamed: 4, Unnamed: 5, Unnamed: 8, Unnamed: 11, Unnamed: 12, Unnamed: 16, Unnamed: 19, Unnamed: 20]
+Index: []
+----------------------------------------------------------- 
+25/02/2020 14:56:18: 
+-------------- Frozen ------------------
+   11301               ACETATE C-06   100
+0  11070  ALLYL AMYL GLYCOLATE TOCO  20.0
+1  13338             ALLYL CAPROATE  30.0
+     11301          ACETATE C-06  100
+40  220576  VIOLIFF BHT (ELINCS)  6.0
+----------------------------------------------------------- 
+25/02/2020 14:56:18: IPC manquant: PINO ACETALD TOCO 
+25/02/2020 14:56:18: IPC manquant: ROSE OXIDE TOCO 
+25/02/2020 14:56:18: IPC manquant: NERYL ACET A 
+25/02/2020 14:56:18: IPC manquant: HEXENYL CIS-3 CAPROATE TOCO 
+25/02/2020 14:56:18: IPC manquant: 1v1ANZANATE 
+25/02/2020 14:56:18: IPC manquant: DANIASCONE DELTA BHT 
+25/02/2020 14:56:18: IPC manquant: MELONAL TOCO 
+25/02/2020 14:56:18: IPC manquant: VIOLIFF BHT (ELINCS) 
+25/02/2020 14:56:18: IPC manquant: VERDURAL B EXTRA 
+25/02/2020 14:56:18: IPC manquant: ISO AMYL BUTY 
+25/02/2020 14:56:18: IPC manquant: IONONE ALPHA BHT 
+25/02/2020 14:56:18: IPC manquant: ETH CAPRYLATE 
+25/02/2020 14:56:18: IPC manquant: ALLYL CAPROATE 
+25/02/2020 14:56:18: IPC manquant: DECALACTONE. GAMMA 
+25/02/2020 14:56:18: IPC manquant: OXASPIRANE-819 
+25/02/2020 14:56:18: IPC manquant: ALLYL AMYL GLYCOLATE TOCO 
+25/02/2020 14:56:18: IPC manquant: UNDECALACTONE GAMMA COEUR 
+25/02/2020 14:56:18: IPC manquant: BELLANONE 
+25/02/2020 14:56:18: IPC manquant: LEMONILE 
+25/02/2020 14:56:18: IPC manquant: VANDOR B BHT 
+25/02/2020 14:56:18: IPC manquant: CITROLATE 
+25/02/2020 14:56:18: IPC manquant: AMBER XTREME TM 
+25/02/2020 14:56:18: IPC manquant: STYRALYL ACET 
+25/02/2020 14:56:18: IPC manquant: GERANYL ACET PURE 
+25/02/2020 14:56:18: IPC manquant: HEXYL ISO BUTYRATE 
+25/02/2020 14:56:18: IPC manquant: EUCALYPTOL USP 
+25/02/2020 14:56:18: IPC manquant: CYCLAPROP 
+25/02/2020 14:56:18: IPC manquant: ALLYL CYCLOHEXYL PROP 
+25/02/2020 14:56:18: IPC manquant: 0VANORIS 
+25/02/2020 14:56:18: IPC manquant: PHENOXY ETHYL ISO BUTYRATE 
+25/02/2020 14:56:18: IPC manquant: HEXYL CINN ALD TBHQ 
+25/02/2020 14:56:18: IPC manquant: GALBASCONE PRG BHT 
+25/02/2020 14:56:18: IPC manquant: VERANIOSS 
+25/02/2020 14:56:18: IPC manquant: CYCLOGALBANATE TOCO 
+25/02/2020 14:56:18: IPC manquant: FRAGARONE 
+25/02/2020 14:56:18: IPC manquant: ISO PROPYL-2-METH BUTY 
+25/02/2020 14:56:18: IPC manquant: METH CEDRYL KETONE 
+25/02/2020 14:56:18: IPC manquant: TETRAHYDRO LINALOOL 
+25/02/2020 14:56:18: IPC manquant: VERTENEX 
+25/02/2020 14:56:18: IPC manquant: CYCLACET 
+25/02/2020 14:56:18: IPC manquant: VERTOLIFF 
+25/02/2020 14:56:50: 
+-------------- 30F19340 ------------------
+0   BOMItemName BOMItemNumber Parts AP SPRAY AP RO Main Odour\nALMANAC  \
+1   ACALEA TBHQ         12211    50        1     1              violet   
+2  ACETATE C-06         11301     1        2     1               fruit   
+
+0 Secondary odour\nALMANAC  
+1                   mimosa  
+2                     pear  
+0  BOMItemName BOMItemNumber Parts AP SPRAY AP RO Main Odour\nALMANAC  \
+50    ZENOLIDE        263015    50        1     1              animal   
+
+0  Secondary odour\nALMANAC  
+50                     musk  
+----------------------------------------------------------- 
+25/02/2020 14:56:50: IPC manquant: 00012211 
+25/02/2020 14:57:02: 
+-------------- Frozen ------------------
+   11301               ACETATE C-06   100
+0  11070  ALLYL AMYL GLYCOLATE TOCO  20.0
+1  13338             ALLYL CAPROATE  30.0
+     11301          ACETATE C-06  100
+40  220576  VIOLIFF BHT (ELINCS)  6.0
+----------------------------------------------------------- 
+25/02/2020 14:57:02: IPC manquant: PINO ACETALD TOCO 
+25/02/2020 14:57:02: IPC manquant: ROSE OXIDE TOCO 
+25/02/2020 14:57:02: IPC manquant: NERYL ACET A 
+25/02/2020 14:57:02: IPC manquant: HEXENYL CIS-3 CAPROATE TOCO 
+25/02/2020 14:57:02: IPC manquant: 1v1ANZANATE 
+25/02/2020 14:57:02: IPC manquant: DANIASCONE DELTA BHT 
+25/02/2020 14:57:02: IPC manquant: MELONAL TOCO 
+25/02/2020 14:57:02: IPC manquant: VIOLIFF BHT (ELINCS) 
+25/02/2020 14:57:02: IPC manquant: VERDURAL B EXTRA 
+25/02/2020 14:57:02: IPC manquant: ISO AMYL BUTY 
+25/02/2020 14:57:02: IPC manquant: IONONE ALPHA BHT 
+25/02/2020 14:57:02: IPC manquant: ETH CAPRYLATE 
+25/02/2020 14:57:02: IPC manquant: ALLYL CAPROATE 
+25/02/2020 14:57:02: IPC manquant: DECALACTONE. GAMMA 
+25/02/2020 14:57:02: IPC manquant: OXASPIRANE-819 
+25/02/2020 14:57:02: IPC manquant: ALLYL AMYL GLYCOLATE TOCO 
+25/02/2020 14:57:02: IPC manquant: UNDECALACTONE GAMMA COEUR 
+25/02/2020 14:57:02: IPC manquant: BELLANONE 
+25/02/2020 14:57:02: IPC manquant: LEMONILE 
+25/02/2020 14:57:02: IPC manquant: VANDOR B BHT 
+25/02/2020 14:57:02: IPC manquant: CITROLATE 
+25/02/2020 14:57:02: IPC manquant: AMBER XTREME TM 
+25/02/2020 14:57:02: IPC manquant: STYRALYL ACET 
+25/02/2020 14:57:02: IPC manquant: GERANYL ACET PURE 
+25/02/2020 14:57:02: IPC manquant: HEXYL ISO BUTYRATE 
+25/02/2020 14:57:02: IPC manquant: EUCALYPTOL USP 
+25/02/2020 14:57:02: IPC manquant: CYCLAPROP 
+25/02/2020 14:57:02: IPC manquant: ALLYL CYCLOHEXYL PROP 
+25/02/2020 14:57:02: IPC manquant: 0VANORIS 
+25/02/2020 14:57:02: IPC manquant: PHENOXY ETHYL ISO BUTYRATE 
+25/02/2020 14:57:02: IPC manquant: HEXYL CINN ALD TBHQ 
+25/02/2020 14:57:02: IPC manquant: GALBASCONE PRG BHT 
+25/02/2020 14:57:02: IPC manquant: VERANIOSS 
+25/02/2020 14:57:02: IPC manquant: CYCLOGALBANATE TOCO 
+25/02/2020 14:57:02: IPC manquant: FRAGARONE 
+25/02/2020 14:57:02: IPC manquant: ISO PROPYL-2-METH BUTY 
+25/02/2020 14:57:02: IPC manquant: METH CEDRYL KETONE 
+25/02/2020 14:57:02: IPC manquant: TETRAHYDRO LINALOOL 
+25/02/2020 14:57:02: IPC manquant: VERTENEX 
+25/02/2020 14:57:02: IPC manquant: CYCLACET 
+25/02/2020 14:57:02: IPC manquant: VERTOLIFF 

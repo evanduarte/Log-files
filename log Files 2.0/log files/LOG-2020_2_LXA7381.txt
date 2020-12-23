@@ -1,0 +1,1110 @@
+06/02/2020 13:44:03: connexion of user: LXA7381 
+06/02/2020 13:44:05: Simple Analysis of the formula: 34388421 IFRA 44 MR10 3Q00011657AA
+-------- OSIFF --------
+                      dosage
+Solvent            10.351842
+% low OSIFF        85.433915
+% medium OSIFF      2.635690
+% high OSIFF        0.245810
+% very high OSIFF   0.000023
+% OSIFF Not Found   1.332720
+--------- SGI ---------
+                  dosage
+Solvent        10.351842
+SGI 1          23.602000
+SGI 2          21.009791
+SGI 3          17.928490
+SGI 5           5.689985
+SGI 6          15.231420
+SGI 7           4.853752
+SGI Not Found   1.332720
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.037850
+% low OSIFF            93.609089
+% medium OSIFF          6.735566
+% high OSIFF            1.034683
+% very high OSIFF       0.000184
+% OSIFF Not Found       1.332720
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.037850
+SGI 1              24.939590
+SGI 2              21.420876
+SGI 3              21.683100
+SGI 5               6.028239
+SGI 6              19.970883
+SGI 7               7.336833
+SGI Not Found       1.332720
+----- SGI/OSIFF -------
+                     Solvent   SGI 1      SGI 2     SGI 3     SGI 5     SGI 6  \
+Solvent            10.351842   0.000   0.000000   0.00000  0.000000   0.00000   
+% low OSIFF         0.000000  23.121  20.885790  16.90849  5.679645  14.40546   
+% medium OSIFF      0.000000   0.470   0.110000   1.02000  0.000330   0.64616   
+% high OSIFF        0.000000   0.011   0.014000   0.00000  0.010010   0.17980   
+% very high OSIFF   0.000000   0.000   0.000001   0.00000  0.000000   0.00000   
+% OSIFF Not Found   0.000000   0.000   0.000000   0.00000  0.000000   0.00000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000        0.00000             0.00000  
+% low OSIFF        4.433530        0.00000            32.42379  
+% medium OSIFF     0.389200        0.00000             0.91033  
+% high OSIFF       0.031000        0.00000             0.03981  
+% very high OSIFF  0.000022        0.00000             0.00000  
+% OSIFF Not Found  0.000000        1.33272             0.00136  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.351842
+% Natural RMs         33.375290
+% Synthetic RMs       54.941508
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.331360
+price of formula: 10.13 USD/Kg. (missing 20.7% of the volume) 
+06/02/2020 13:44:05: Simple Analysis of the formula: 34388421 IFRA 44 MR10 3Q00011657AA
+-------- OSIFF --------
+                      dosage
+Solvent            10.351842
+% low OSIFF        85.433915
+% medium OSIFF      2.635690
+% high OSIFF        0.245810
+% very high OSIFF   0.000023
+% OSIFF Not Found   1.332720
+--------- SGI ---------
+                  dosage
+Solvent        10.351842
+SGI 1          23.602000
+SGI 2          21.009791
+SGI 3          17.928490
+SGI 5           5.689985
+SGI 6          15.231420
+SGI 7           4.853752
+SGI Not Found   1.332720
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.037850
+% low OSIFF            93.609089
+% medium OSIFF          6.735566
+% high OSIFF            1.034683
+% very high OSIFF       0.000184
+% OSIFF Not Found       1.332720
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.037850
+SGI 1              24.939590
+SGI 2              21.420876
+SGI 3              21.683100
+SGI 5               6.028239
+SGI 6              19.970883
+SGI 7               7.336833
+SGI Not Found       1.332720
+----- SGI/OSIFF -------
+                     Solvent   SGI 1      SGI 2     SGI 3     SGI 5     SGI 6  \
+Solvent            10.351842   0.000   0.000000   0.00000  0.000000   0.00000   
+% low OSIFF         0.000000  23.121  20.885790  16.90849  5.679645  14.40546   
+% medium OSIFF      0.000000   0.470   0.110000   1.02000  0.000330   0.64616   
+% high OSIFF        0.000000   0.011   0.014000   0.00000  0.010010   0.17980   
+% very high OSIFF   0.000000   0.000   0.000001   0.00000  0.000000   0.00000   
+% OSIFF Not Found   0.000000   0.000   0.000000   0.00000  0.000000   0.00000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000        0.00000             0.00000  
+% low OSIFF        4.433530        0.00000            32.42379  
+% medium OSIFF     0.389200        0.00000             0.91033  
+% high OSIFF       0.031000        0.00000             0.03981  
+% very high OSIFF  0.000022        0.00000             0.00000  
+% OSIFF Not Found  0.000000        1.33272             0.00136  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.351842
+% Natural RMs         33.375290
+% Synthetic RMs       54.941508
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.331360
+price of formula: 10.13 USD/Kg. (missing 20.7% of the volume) 
+06/02/2020 13:44:49: 
+-------------- 30F15954 LaVieEstBelleEDP ------------------
+0        BOMItemName BOMItemNumber    Parts
+1             VERDOX      00222496  10.0000
+2  METH DH JASMONATE      00081900  60.0000
+0             BOMItemName BOMItemNumber   Parts
+72  VERIDIAN 10% IPM (MB)      00220042  0.7000
+----------------------------------------------------------- 
+06/02/2020 13:45:17: 
+-------------- 30F15954 LaVieEstBelleEDP ------------------
+0        BOMItemName BOMItemNumber    Parts
+1             VERDOX      00222496  10.0000
+2  METH DH JASMONATE      00081900  60.0000
+0             BOMItemName BOMItemNumber   Parts
+72  VERIDIAN 10% IPM (MB)      00220042  0.7000
+----------------------------------------------------------- 
+06/02/2020 13:45:30: Simple Analysis of the formula: 30F15954 LaVieEstBelleEDP
+-------- OSIFF --------
+                      dosage
+Solvent            18.181026
+% low OSIFF        78.532667
+% medium OSIFF      1.564256
+% high OSIFF        1.710769
+% very high OSIFF   0.011282
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent        18.181026
+SGI 1           1.823641
+SGI 2          33.847385
+SGI 3           1.770256
+SGI 5           4.832821
+SGI 6          29.423077
+SGI 7          10.121795
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            82.131098
+% medium OSIFF          3.642032
+% high OSIFF            5.715156
+% very high OSIFF       0.072164
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               3.250887
+SGI 2              36.518033
+SGI 3               2.040843
+SGI 5               4.753059
+SGI 6              31.975128
+SGI 7              13.022500
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            18.181026  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  1.373128  32.630821  1.577949  4.617436   
+% medium OSIFF      0.000000  0.320513   0.166821  0.192308  0.083333   
+% high OSIFF        0.000000  0.130000   1.038462  0.000000  0.132051   
+% very high OSIFF   0.000000  0.000000   0.011282  0.000000  0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        29.102564  9.230769              0            0.899282  
+% medium OSIFF      0.230769  0.570513              0            0.025641  
+% high OSIFF        0.089744  0.320513              0            0.051282  
+% very high OSIFF   0.000000  0.000000              0            0.000000  
+% OSIFF Not Found   0.000000  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               18.181026
+% Natural RMs          0.976205
+% Synthetic RMs       80.842769
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 8.12 USD/Kg. (missing 0.3% of the volume) 
+06/02/2020 13:46:45: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+06/02/2020 13:47:31: Comparaison of the formula to the following benches: Top (9),LA VIE EST BELLE 30F14954(In Data Base),(Uploaded benches) 
+06/02/2020 14:46:13: Comparaison of the formula to the following benches: LA VIE EST BELLE 30F14954(In Data Base),(Uploaded benches) 
+06/02/2020 14:47:02: 
+-------------- 30F11542 TRIMOFIX O TT RPD 3Q00011516AA ------------------
+0                        BOMItemName BOMItemNumber      Parts
+1  ORANGE SWEETOIL DECOL TAROCCO CAP      00151302   500.0000
+2                KHARISMAL SUPER PRG      00110609  3730.0000
+0     BOMItemName BOMItemNumber     Parts
+130  MUSKALACTONE      00134890  350.0000
+----------------------------------------------------------- 
+06/02/2020 14:47:11: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+06/02/2020 14:47:26: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+06/02/2020 14:47:37: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+06/02/2020 14:47:51: Comparaison of the formula to the following benches: (In Data Base),(Uploaded benches) 
+14/02/2020 16:34:36: connexion of user: LXA7381 
+14/02/2020 16:34:37: Simple Analysis of the formula: 30F11542 TRIMOFIX O TT RPD 3Q00011516AA
+-------- OSIFF --------
+                      dosage
+Solvent             2.913246
+% low OSIFF        81.624882
+% medium OSIFF     10.199768
+% high OSIFF        1.567079
+% very high OSIFF   3.695026
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent         2.913246
+SGI 1           3.556787
+SGI 2          17.281798
+SGI 3           6.731758
+SGI 5           4.557312
+SGI 6          53.116507
+SGI 7          11.842592
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            92.800423
+% medium OSIFF         24.756276
+% high OSIFF            5.542285
+% very high OSIFF      21.210334
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               7.724271
+SGI 2              18.283904
+SGI 3               6.826288
+SGI 5               5.791343
+SGI 6              70.690176
+SGI 7              34.993337
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                    Solvent         SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            2.913246  0.000000e+00   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  7.390025e-01  17.069569  6.721850  4.039621   
+% medium OSIFF     0.000000  2.817784e+00   0.014778  0.000043  0.344852   
+% high OSIFF       0.000000  2.463054e-07   0.197056  0.009865  0.172839   
+% very high OSIFF  0.000000  0.000000e+00   0.000394  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000e+00   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        45.468547  7.586293              0            5.933709  
+% medium OSIFF      6.633079  0.389231              0            2.807962  
+% high OSIFF        1.014881  0.172436              0            0.128485  
+% very high OSIFF   0.000000  3.694632              0            0.000000  
+% OSIFF Not Found   0.000000  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                2.913246
+% Natural RMs          8.870156
+% Synthetic RMs       88.216585
+% Base RMs             0.000012
+% Nat/Synt Not Found   0.000000
+price of formula: 34.25 USD/Kg. (missing 3.9% of the volume) 
+14/02/2020 16:34:38: Simple Analysis of the formula: 30F11542 TRIMOFIX O TT RPD 3Q00011516AA
+-------- OSIFF --------
+                      dosage
+Solvent             2.913246
+% low OSIFF        81.624882
+% medium OSIFF     10.199768
+% high OSIFF        1.567079
+% very high OSIFF   3.695026
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent         2.913246
+SGI 1           3.556787
+SGI 2          17.281798
+SGI 3           6.731758
+SGI 5           4.557312
+SGI 6          53.116507
+SGI 7          11.842592
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            92.800423
+% medium OSIFF         24.756276
+% high OSIFF            5.542285
+% very high OSIFF      21.210334
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               7.724271
+SGI 2              18.283904
+SGI 3               6.826288
+SGI 5               5.791343
+SGI 6              70.690176
+SGI 7              34.993337
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                    Solvent         SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent            2.913246  0.000000e+00   0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  7.390025e-01  17.069569  6.721850  4.039621   
+% medium OSIFF     0.000000  2.817784e+00   0.014778  0.000043  0.344852   
+% high OSIFF       0.000000  2.463054e-07   0.197056  0.009865  0.172839   
+% very high OSIFF  0.000000  0.000000e+00   0.000394  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000e+00   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        45.468547  7.586293              0            5.933709  
+% medium OSIFF      6.633079  0.389231              0            2.807962  
+% high OSIFF        1.014881  0.172436              0            0.128485  
+% very high OSIFF   0.000000  3.694632              0            0.000000  
+% OSIFF Not Found   0.000000  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent                2.913246
+% Natural RMs          8.870156
+% Synthetic RMs       88.216585
+% Base RMs             0.000012
+% Nat/Synt Not Found   0.000000
+price of formula: 34.25 USD/Kg. (missing 3.9% of the volume) 
+14/02/2020 16:36:37: 
+-------------- 34388421 IFRA 44 MR10 3Q00011657AA ------------------
+0 BOMItemName BOMItemNumber    Parts
+1    AUBEPINE      00012759   0.4000
+2   BENZ ACET      00021005  82.0000
+0              BOMItemName BOMItemNumber   Parts
+117  CADE OIL RECT 10% DPG      00030347  2.9800
+----------------------------------------------------------- 
+14/02/2020 16:36:37: IPC manquant: 00125377 
+14/02/2020 16:36:37: IPC manquant: 00023157 
+14/02/2020 16:36:37: IPC manquant: 00099496 
+14/02/2020 16:36:37: IPC manquant: 30214467 
+14/02/2020 16:36:44: Simple Analysis of the formula: 34388421 IFRA 44 MR10 3Q00011657AA
+-------- OSIFF --------
+                      dosage
+Solvent            10.351842
+% low OSIFF        85.433915
+% medium OSIFF      2.635690
+% high OSIFF        0.245810
+% very high OSIFF   0.000023
+% OSIFF Not Found   1.332720
+--------- SGI ---------
+                  dosage
+Solvent        10.351842
+SGI 1          23.602000
+SGI 2          21.009791
+SGI 3          17.928490
+SGI 5           5.689985
+SGI 6          15.231420
+SGI 7           4.853752
+SGI Not Found   1.332720
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.037850
+% low OSIFF            93.609089
+% medium OSIFF          6.735566
+% high OSIFF            1.034683
+% very high OSIFF       0.000184
+% OSIFF Not Found       1.332720
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.037850
+SGI 1              24.939590
+SGI 2              21.420876
+SGI 3              21.683100
+SGI 5               6.028239
+SGI 6              19.970883
+SGI 7               7.336833
+SGI Not Found       1.332720
+----- SGI/OSIFF -------
+                     Solvent   SGI 1      SGI 2     SGI 3     SGI 5     SGI 6  \
+Solvent            10.351842   0.000   0.000000   0.00000  0.000000   0.00000   
+% low OSIFF         0.000000  23.121  20.885790  16.90849  5.679645  14.40546   
+% medium OSIFF      0.000000   0.470   0.110000   1.02000  0.000330   0.64616   
+% high OSIFF        0.000000   0.011   0.014000   0.00000  0.010010   0.17980   
+% very high OSIFF   0.000000   0.000   0.000001   0.00000  0.000000   0.00000   
+% OSIFF Not Found   0.000000   0.000   0.000000   0.00000  0.000000   0.00000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000        0.00000             0.00000  
+% low OSIFF        4.433530        0.00000            32.42379  
+% medium OSIFF     0.389200        0.00000             0.91033  
+% high OSIFF       0.031000        0.00000             0.03981  
+% very high OSIFF  0.000022        0.00000             0.00000  
+% OSIFF Not Found  0.000000        1.33272             0.00136  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.351842
+% Natural RMs         33.375290
+% Synthetic RMs       54.941508
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.331360
+price of formula: 10.13 USD/Kg. (missing 20.7% of the volume) 
+24/02/2020 10:06:27: connexion of user: LXA7381 
+24/02/2020 10:07:57: 
+-------------- DN00091071FE 30F11059 ------------------
+0                   BOMItemName BOMItemNumber  Parts
+1   LEMON OIL SFUMAT PRIMOFIORE      00121450   50.0
+2  ORANGE BIGDE OIL MD SCFC LMR      00151420  100.0
+0  BOMItemName BOMItemNumber Parts
+51    IONOL CP      00094006  30.0
+----------------------------------------------------------- 
+24/02/2020 10:07:57: IPC manquant: 30F28858 
+24/02/2020 10:07:57: IPC manquant: 30799571 
+24/02/2020 10:07:57: IPC manquant: 00037138 
+24/02/2020 10:08:30: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+24/02/2020 14:31:26: connexion of user: LXA7381 
+24/02/2020 14:31:27: Simple Analysis of the formula: DN00091071FE 30F11059
+-------- OSIFF --------
+                      dosage
+Solvent             0.334459
+% low OSIFF        74.459459
+% medium OSIFF     11.824324
+% high OSIFF        4.212838
+% very high OSIFF   0.013514
+% OSIFF Not Found   9.155405
+--------- SGI ---------
+                  dosage
+Solvent         0.334459
+SGI 1           1.121622
+SGI 2           8.864865
+SGI 3           2.668919
+SGI 5          12.300676
+SGI 6          61.425676
+SGI 7           4.128378
+SGI Not Found   9.155405
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            87.821959
+% medium OSIFF         26.384459
+% high OSIFF           16.531520
+% very high OSIFF       0.086216
+% OSIFF Not Found       9.155405
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               1.894324
+SGI 2               9.581824
+SGI 3               3.116216
+SGI 5              20.403277
+SGI 6              88.840000
+SGI 7               6.988514
+SGI Not Found       9.155405
+----- SGI/OSIFF -------
+                    Solvent     SGI 1     SGI 2     SGI 3     SGI 5  \
+Solvent            0.334459  0.000000  0.000000  0.000000  0.000000   
+% low OSIFF        0.000000  1.114865  8.817568  2.398649  9.662162   
+% medium OSIFF     0.000000  0.000000  0.000000  0.270270  0.000000   
+% high OSIFF       0.000000  0.006757  0.033784  0.000000  2.638514   
+% very high OSIFF  0.000000  0.000000  0.013514  0.000000  0.000000   
+% OSIFF Not Found  0.000000  0.000000  0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        48.750000  3.716216       0.000000           14.662162  
+% medium OSIFF     11.486486  0.067568       0.000000            0.337838  
+% high OSIFF        1.189189  0.344595       0.000000            0.175676  
+% very high OSIFF   0.000000  0.000000       0.000000            0.000000  
+% OSIFF Not Found   0.000000  0.000000       9.155405            0.168919  
+------ Nat/Synth ------
+                         dosage
+Solvent                0.334459
+% Natural RMs         15.344595
+% Synthetic RMs       75.334459
+% Base RMs             0.000000
+% Nat/Synt Not Found   8.986486
+Formula Price: 23.55 USD/Kg. (missing 9.9% of the volume) 
+24/02/2020 14:31:37: 
+-------------- SO OUD | NUR | DUBAI | EDP WOMEN 11% | LV.2 REGULAR *SEE COM D500061019AA ------------------
+0           BOMItemName BOMItemNumber    Parts
+1  ALD C-11 ULENIC TOCO      00013440   2.0000
+2           AMBERMOR EX      00014234  20.0000
+0                  BOMItemName BOMItemNumber   Parts
+66  ETH GUAIACOL,4,FLG 10% DPG      00050012  0.8000
+----------------------------------------------------------- 
+24/02/2020 14:31:37: IPC manquant: D52000056 
+24/02/2020 14:31:37: IPC manquant: 00139410 
+24/02/2020 14:31:37: IPC manquant: 30775158 
+24/02/2020 14:31:37: IPC manquant: 00050012 
+24/02/2020 14:31:37: IPC manquant: 00050180 
+24/02/2020 14:32:01: Simple Analysis of the formula: SO OUD | NUR | DUBAI | EDP WOMEN 11% | LV.2 REGULAR *SEE COM D500061019AA
+-------- OSIFF --------
+                   dosage
+Solvent            18.844
+% low OSIFF        67.888
+% medium OSIFF      2.928
+% high OSIFF        3.820
+% very high OSIFF   5.500
+% OSIFF Not Found   1.020
+--------- SGI ---------
+               dosage
+Solvent        18.844
+SGI 1           2.570
+SGI 2           8.641
+SGI 3           2.406
+SGI 5          13.910
+SGI 6          43.780
+SGI 7           8.829
+SGI Not Found   1.020
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             78.96815
+% medium OSIFF           8.14124
+% high OSIFF            15.21190
+% very high OSIFF       31.57000
+% OSIFF Not Found        1.02000
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                3.04080
+SGI 2               11.70197
+SGI 3                6.71084
+SGI 5               19.75940
+SGI 6               56.65700
+SGI 7               36.02128
+SGI Not Found        1.02000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent             18.844   0.00  0.000  0.000   0.00   0.00  0.000   
+% low OSIFF          0.000   2.35  7.518  0.200  13.26  41.45  3.110   
+% medium OSIFF       0.000   0.22  0.014  2.200   0.03   0.30  0.164   
+% high OSIFF         0.000   0.00  1.109  0.006   0.62   2.03  0.055   
+% very high OSIFF    0.000   0.00  0.000  0.000   0.00   0.00  5.500   
+% OSIFF Not Found    0.000   0.00  0.000  0.000   0.00   0.00  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                     0.00               0.000  
+% low OSIFF                 0.00              14.050  
+% medium OSIFF              0.00               2.200  
+% high OSIFF                0.00               0.876  
+% very high OSIFF           0.00               0.000  
+% OSIFF Not Found           1.02               0.000  
+------ Nat/Synth ------
+                      dosage
+Solvent               18.844
+% Natural RMs         17.126
+% Synthetic RMs       60.810
+% Base RMs             2.200
+% Nat/Synt Not Found   1.020
+Formula Price: 29.54 USD/Kg. (missing 21.7% of the volume) 
+24/02/2020 14:32:06: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+24/02/2020 14:52:20: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 14:53:42: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 14:55:51: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 15:19:52: looking at the formula with columns: Name,parts,SGI,OSIFF,Main Odour 
+24/02/2020 15:20:18: looking at the formula with columns: Name,parts,SGI,OSIFF,Push 
+24/02/2020 15:24:33: looking at the formula with columns: Name,parts,SGI,OSIFF,Main Odour 
+24/02/2020 15:25:31: looking for ingredients with SGI in: 1,2,3,5,6,7 and OSIFF in: low,medium,high,very high 
+24/02/2020 15:28:39: looking at the Benchmarks with columns: Main Odour 
+24/02/2020 15:28:51: looking at the Benchmarks with columns: Solvent,SGI 1,SGI 2,SGI 3,SGI 5,SGI 6,SGI 7,SGI Not Found,Solvent,% low OSIFF,% medium OSIFF,% high OSIFF,% very high OSIFF,% OSIFF Not Found 
+24/02/2020 15:32:32: looking for ingredients with SGI in: 2 and OSIFF in: high with price range: 0-100 
+24/02/2020 15:33:31: looking for ingredients with SGI in: 2 and OSIFF in: high with price range: 0-100 
+24/02/2020 15:35:52: looking for ingredients with SGI in: 2 and OSIFF in: high with price range: 0-100 with Main odour in: fruit 
+24/02/2020 15:36:57: looking for ingredients with SGI in:  and OSIFF in:  with price range: 0-100 
+24/02/2020 15:37:06: looking for ingredients with SGI in:  and OSIFF in:  with price range: 0-100 
+25/02/2020 13:08:34: connexion of user: LXA7381 
+25/02/2020 13:09:23: 
+-------------- USAIN VP00001092AE ------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:10:14: Simple Analysis of the formula: USAIN VP00001092AE
+-------- OSIFF --------
+                      dosage
+Solvent            42.500000
+% low OSIFF        54.306748
+% medium OSIFF      2.355828
+% high OSIFF        0.466258
+% very high OSIFF   0.003067
+% OSIFF Not Found   0.368098
+--------- SGI ---------
+                  dosage
+Solvent        42.500000
+SGI 1           5.245399
+SGI 2          12.822086
+SGI 3           2.361963
+SGI 5           2.754601
+SGI 6          30.613497
+SGI 7           3.334356
+SGI Not Found   0.368098
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            56.500000
+% medium OSIFF          5.440491
+% high OSIFF            1.689877
+% very high OSIFF       0.021472
+% OSIFF Not Found       0.368098
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               5.857055
+SGI 2              14.019325
+SGI 3               2.584969
+SGI 5               3.488098
+SGI 6              33.168098
+SGI 7               4.534294
+SGI Not Found       0.368098
+----- SGI/OSIFF -------
+                   Solvent     SGI 1      SGI 2     SGI 3     SGI 5  \
+Solvent               42.5  0.000000   0.000000  0.000000  0.000000   
+% low OSIFF            0.0  5.214724  12.343558  2.208589  2.453988   
+% medium OSIFF         0.0  0.030675   0.417178  0.153374  0.024540   
+% high OSIFF           0.0  0.000000   0.061350  0.000000  0.276074   
+% very high OSIFF      0.0  0.000000   0.000000  0.000000  0.000000   
+% OSIFF Not Found      0.0  0.000000   0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000       0.000000            0.000000  
+% low OSIFF        28.957055  3.128834       0.000000            7.128834  
+% medium OSIFF      1.656442  0.073620       0.000000            0.441718  
+% high OSIFF        0.000000  0.128834       0.000000            0.000000  
+% very high OSIFF   0.000000  0.003067       0.000000            0.000000  
+% OSIFF Not Found   0.000000  0.000000       0.368098            0.368098  
+------ Nat/Synth ------
+                        dosage
+Solvent               42.50000
+% Natural RMs          7.93865
+% Synthetic RMs       49.56135
+% Base RMs             0.00000
+% Nat/Synt Not Found   0.00000
+Formula Price: 8.04 USD/Kg. (missing 0.0% of the volume) 
+25/02/2020 13:10:49: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 13:11:20: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 13:11:20: IPC manquant: 00041035 
+25/02/2020 13:11:21: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 13:11:21: 
+-------------- FOUGERE ECLECTICA VP00001716AG------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  30.0000
+2  STYRALYL ACET      00198605  20.0000
+0  BOMItemName BOMItemNumber    Parts
+99    ACET C-6      00011301  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:11:21: IPC manquant: 30R33656 
+25/02/2020 13:11:21: IPC manquant: 30779818 
+25/02/2020 13:11:21: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 13:11:36: Comparaison of the formula to the following benches: (In Data Base),VP00001497AO,VP00001542AJ,VP00001716AG,VP00001454AJ(Uploaded benches) 
+25/02/2020 13:24:35: connexion of user: LXA7381 
+25/02/2020 13:24:52: 
+-------------- DN00091227JN 4N00091062AA ------------------
+0         BOMItemName BOMItemNumber     Parts
+1  DIPROPYLENE GLYCOL      00045655  496.0000
+2            VERAMOSS      00222200    5.0000
+0  BOMItemName BOMItemNumber     Parts
+66    TRIMOFIX      00201737  240.0000
+----------------------------------------------------------- 
+25/02/2020 13:24:59: Simple Analysis of the formula: DN00091227JN 4N00091062AA
+-------- OSIFF --------
+                      dosage
+Solvent            12.487123
+% low OSIFF        50.431507
+% medium OSIFF      6.471233
+% high OSIFF       28.636986
+% very high OSIFF   0.603288
+% OSIFF Not Found   1.369863
+--------- SGI ---------
+                  dosage
+Solvent        12.487123
+SGI 1           4.315068
+SGI 2          10.704110
+SGI 3           1.863014
+SGI 5          15.698630
+SGI 6          53.767123
+SGI 7           1.164932
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            63.746781
+% medium OSIFF         17.125205
+% high OSIFF          118.756027
+% very high OSIFF       4.647534
+% OSIFF Not Found       1.369863
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               9.605479
+SGI 2              12.727397
+SGI 3               3.107808
+SGI 5              29.488219
+SGI 6             147.694521
+SGI 7               3.021986
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            12.487123  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  1.986301  10.205479  1.438356  13.315068   
+% medium OSIFF      0.000000  2.191781   0.156164  0.013699   0.000000   
+% high OSIFF        0.000000  0.136986   0.342466  0.410959   2.109589   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.273973   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        22.739726  0.746575              0           22.061644  
+% medium OSIFF      4.041096  0.068493              0            2.739726  
+% high OSIFF       25.616438  0.020548              0            4.130137  
+% very high OSIFF   0.000000  0.329315              0            0.000000  
+% OSIFF Not Found   1.369863  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               12.487123
+% Natural RMs         28.931507
+% Synthetic RMs       58.581370
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+Formula Price: 248.67 USD/Kg. (missing 1.9% of the volume) 
+25/02/2020 13:25:10: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:25:13: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 13:34:26: 
+-------------- DN00091227JN 4N00091062AA ------------------
+0         BOMItemName BOMItemNumber     Parts
+1  DIPROPYLENE GLYCOL      00045655  496.0000
+2            VERAMOSS      00222200    5.0000
+0  BOMItemName BOMItemNumber     Parts
+66    TRIMOFIX      00201737  240.0000
+----------------------------------------------------------- 
+25/02/2020 13:34:32: Simple Analysis of the formula: DN00091227JN 4N00091062AA
+-------- OSIFF --------
+                      dosage
+Solvent            12.487123
+% low OSIFF        50.431507
+% medium OSIFF      6.471233
+% high OSIFF       28.636986
+% very high OSIFF   0.603288
+% OSIFF Not Found   1.369863
+--------- SGI ---------
+                  dosage
+Solvent        12.487123
+SGI 1           4.315068
+SGI 2          10.704110
+SGI 3           1.863014
+SGI 5          15.698630
+SGI 6          53.767123
+SGI 7           1.164932
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            63.746781
+% medium OSIFF         17.125205
+% high OSIFF          118.756027
+% very high OSIFF       4.647534
+% OSIFF Not Found       1.369863
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               9.605479
+SGI 2              12.727397
+SGI 3               3.107808
+SGI 5              29.488219
+SGI 6             147.694521
+SGI 7               3.021986
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            12.487123  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  1.986301  10.205479  1.438356  13.315068   
+% medium OSIFF      0.000000  2.191781   0.156164  0.013699   0.000000   
+% high OSIFF        0.000000  0.136986   0.342466  0.410959   2.109589   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.273973   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000              0            0.000000  
+% low OSIFF        22.739726  0.746575              0           22.061644  
+% medium OSIFF      4.041096  0.068493              0            2.739726  
+% high OSIFF       25.616438  0.020548              0            4.130137  
+% very high OSIFF   0.000000  0.329315              0            0.000000  
+% OSIFF Not Found   1.369863  0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               12.487123
+% Natural RMs         28.931507
+% Synthetic RMs       58.581370
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+Formula Price: 248.67 USD/Kg. (missing 1.9% of the volume) 
+25/02/2020 13:34:48: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 13:34:48: IPC manquant: 00041035 
+25/02/2020 13:34:48: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 13:34:48: 
+-------------- FOUGERE ECLECTICA VP00001716AG------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  30.0000
+2  STYRALYL ACET      00198605  20.0000
+0  BOMItemName BOMItemNumber    Parts
+99    ACET C-6      00011301  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:34:48: IPC manquant: 30R33656 
+25/02/2020 13:34:48: IPC manquant: 30779818 
+25/02/2020 13:34:49: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:34:49: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 13:35:29: Comparaison of the formula to the following benches: (In Data Base),VP00001497AO,VP00001542AJ,VP00001716AG,VP00001092AE,VP00001454AJ(Uploaded benches) 
+25/02/2020 13:40:14: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:40:31: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 13:40:58: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:41:09: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 13:41:12: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 13:41:12: IPC manquant: 00041035 
+25/02/2020 13:41:18: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 13:41:21: 
+-------------- FOUGERE ECLECTICA VP00001716AG------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  30.0000
+2  STYRALYL ACET      00198605  20.0000
+0  BOMItemName BOMItemNumber    Parts
+99    ACET C-6      00011301  20.0000
+----------------------------------------------------------- 
+25/02/2020 13:41:21: IPC manquant: 30R33656 
+25/02/2020 13:41:21: IPC manquant: 30779818 
+25/02/2020 13:41:24: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE,VP00001454AJ,VP00001497AO,VP00001542AJ,VP00001716AG(Uploaded benches) 
+25/02/2020 14:42:27: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE,VP00001454AJ,VP00001497AO,VP00001542AJ,VP00001716AG(Uploaded benches) 
+25/02/2020 14:43:05: connexion of user: LXA7381 
+25/02/2020 14:43:16: 
+-------------- DN00091227JN 4N00091062AA ------------------
+0         BOMItemName BOMItemNumber     Parts
+1  DIPROPYLENE GLYCOL      00045655  496.0000
+2            VERAMOSS      00222200    5.0000
+0  BOMItemName BOMItemNumber     Parts
+66    TRIMOFIX      00201737  240.0000
+----------------------------------------------------------- 
+25/02/2020 14:43:30: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 14:43:36: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 14:50:14: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 14:50:16: Comparaison of the formula to the following benches: (In Data Base),VP00001454AJ(Uploaded benches) 
+25/02/2020 14:52:23: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 14:52:23: IPC manquant: 00041035 
+25/02/2020 14:52:26: Comparaison of the formula to the following benches: (In Data Base),VP00001497AO(Uploaded benches) 
+25/02/2020 14:53:28: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 14:53:33: Comparaison of the formula to the following benches: (In Data Base),VP00001542AJ(Uploaded benches) 
+25/02/2020 14:55:21: 
+-------------- FOUGERE ECLECTICA VP00001716AG------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  30.0000
+2  STYRALYL ACET      00198605  20.0000
+0  BOMItemName BOMItemNumber    Parts
+99    ACET C-6      00011301  20.0000
+----------------------------------------------------------- 
+25/02/2020 14:55:21: IPC manquant: 30R33656 
+25/02/2020 14:55:21: IPC manquant: 30779818 
+25/02/2020 14:55:24: Comparaison of the formula to the following benches: (In Data Base),VP00001716AG(Uploaded benches) 
+25/02/2020 15:19:55: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 15:19:57: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 16:02:01: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 16:02:09: 
+-------------- RQ00002363AD 3Q00011658AA ------------------
+0                         BOMItemName BOMItemNumber    Parts
+1                          AMYRIS OIL      00014563  14.0000
+2  YLANG EXTRA COMMERCIAL REPL 256088      30R32651   1.5000
+0          BOMItemName BOMItemNumber     Parts
+45  DIPROPYLENE GLYCOL      00045655  224.3000
+----------------------------------------------------------- 
+25/02/2020 16:02:09: IPC manquant: 30R32651 
+25/02/2020 16:02:12: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 16:08:08: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 16:08:14: Comparaison of the formula to the following benches: (In Data Base),VP00001454AJ(Uploaded benches) 
+25/02/2020 16:12:30: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 16:12:33: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 
+25/02/2020 16:14:25: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 16:14:25: IPC manquant: 00041035 
+25/02/2020 16:14:28: Comparaison of the formula to the following benches: (In Data Base),VP00001497AO(Uploaded benches) 
+25/02/2020 16:16:15: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 16:16:17: Comparaison of the formula to the following benches: (In Data Base),VP00001542AJ(Uploaded benches) 
+25/02/2020 16:18:35: 
+-------------- FOUGERE ECLECTICA VP00001716AG------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  30.0000
+2  STYRALYL ACET      00198605  20.0000
+0  BOMItemName BOMItemNumber    Parts
+99    ACET C-6      00011301  20.0000
+----------------------------------------------------------- 
+25/02/2020 16:18:35: IPC manquant: 30R33656 
+25/02/2020 16:18:35: IPC manquant: 30779818 
+25/02/2020 16:18:52: Comparaison of the formula to the following benches: (In Data Base),VP00001716AG(Uploaded benches) 
+25/02/2020 16:30:37: looking for ingredients with SGI in: 3 and OSIFF in: medium,high,very high with price range: 0-100 
+25/02/2020 16:30:48: looking for ingredients with SGI in: 3 and OSIFF in: medium,high,very high with price range: 0-50 
+25/02/2020 16:31:23: looking for ingredients with SGI in: 3 and OSIFF in: medium,high,very high with price range: 0-30 
+25/02/2020 16:31:29: looking for ingredients with SGI in: 3 and OSIFF in: medium,high,very high with price range: 0-40 
+25/02/2020 16:38:37: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 16:38:42: Comparaison of the formula to the following benches: (In Data Base),VP00001542AJ(Uploaded benches) 
+25/02/2020 16:45:19: 
+-------------- OUD TWIST  VP00001497AO------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+25/02/2020 16:45:19: IPC manquant: 00041035 
+25/02/2020 16:45:22: Comparaison of the formula to the following benches: (In Data Base),VP00001497AO(Uploaded benches) 
+25/02/2020 16:56:20: 
+-------------- PINK MOON VP00001542AJ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 
+25/02/2020 16:56:23: Comparaison of the formula to the following benches: (In Data Base),VP00001542AJ(Uploaded benches) 
+25/02/2020 17:03:42: 
+-------------- DESENSE VP00001454AJ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+25/02/2020 17:03:45: Comparaison of the formula to the following benches: (In Data Base),VP00001454AJ(Uploaded benches) 
+25/02/2020 17:05:30: 
+-------------- USAIN VP00001092AE------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+25/02/2020 17:05:32: Comparaison of the formula to the following benches: (In Data Base),VP00001092AE(Uploaded benches) 

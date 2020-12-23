@@ -1,0 +1,13 @@
+name:Evan CAO
+email:EVAN.CAO@IFF.COM
+globaluserid:EXC9959
+deptname:Neuilly-sur-Seine cedex,France
+position:Intern
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:RD
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR EAME C&A FF Applications

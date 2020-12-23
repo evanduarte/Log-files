@@ -1,0 +1,134 @@
+21/01/2020 10:02:50: 
+-------------- 34388421 IFRA 44 MR10 3Q00011657AA ------------------
+0 BOMItemName BOMItemNumber    Parts
+1    AUBEPINE      00012759   0.4000
+2   BENZ ACET      00021005  82.0000
+0              BOMItemName BOMItemNumber   Parts
+117  CADE OIL RECT 10% DPG      00030347  2.9800
+----------------------------------------------------------- 
+21/01/2020 10:02:50: IPC manquant: 00125377 
+21/01/2020 10:02:50: IPC manquant: 00099496 
+21/01/2020 10:02:50: IPC manquant: 00023157 
+21/01/2020 10:02:50: IPC manquant: 30214467 
+21/01/2020 10:02:58: Simple Analysis of the formula: 34388421 IFRA 44 MR10 3Q00011657AA
+-------- OSIFF --------
+                      dosage
+Solvent            10.351842
+% low OSIFF        85.433915
+% medium OSIFF      2.635690
+% high OSIFF        0.245810
+% very high OSIFF   0.000024
+% OSIFF Not Found   1.332720
+--------- SGI ---------
+                  dosage
+Solvent        10.351842
+SGI 1          23.602000
+SGI 2          21.009791
+SGI 3          17.928490
+SGI 5           5.689985
+SGI 6          15.231420
+SGI 7           4.853752
+SGI Not Found   1.332720
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.037850
+% low OSIFF            93.609089
+% medium OSIFF          6.735566
+% high OSIFF            1.034683
+% very high OSIFF       0.000184
+% OSIFF Not Found       1.332720
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.037850
+SGI 1              24.939590
+SGI 2              21.420876
+SGI 3              21.683100
+SGI 5               6.028239
+SGI 6              19.970883
+SGI 7               7.336833
+SGI Not Found       1.332720
+----- SGI/OSIFF -------
+                     Solvent   SGI 1      SGI 2     SGI 3     SGI 5     SGI 6  \
+Solvent            10.351842   0.000   0.000000   0.00000  0.000000   0.00000   
+% low OSIFF         0.000000  23.121  20.885790  16.90849  5.679645  14.40546   
+% medium OSIFF      0.000000   0.470   0.110000   1.02000  0.000330   0.64616   
+% high OSIFF        0.000000   0.011   0.014000   0.00000  0.010010   0.17980   
+% very high OSIFF   0.000000   0.000   0.000001   0.00000  0.000000   0.00000   
+% OSIFF Not Found   0.000000   0.000   0.000000   0.00000  0.000000   0.00000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000        0.00000             0.00000  
+% low OSIFF        4.433530        0.00000            32.42379  
+% medium OSIFF     0.389200        0.00000             0.91033  
+% high OSIFF       0.031000        0.00000             0.03981  
+% very high OSIFF  0.000022        0.00000             0.00000  
+% OSIFF Not Found  0.000000        1.33272             0.00136  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.351842
+% Natural RMs         33.375290
+% Synthetic RMs       54.941508
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.331360
+price of formula: 10.13 USD/Kg. (missing 20.7% of the volume) 
+21/01/2020 10:03:00: Simple Analysis of the formula: 34388421 IFRA 44 MR10 3Q00011657AA
+-------- OSIFF --------
+                      dosage
+Solvent            10.351842
+% low OSIFF        85.433915
+% medium OSIFF      2.635690
+% high OSIFF        0.245810
+% very high OSIFF   0.000024
+% OSIFF Not Found   1.332720
+--------- SGI ---------
+                  dosage
+Solvent        10.351842
+SGI 1          23.602000
+SGI 2          21.009791
+SGI 3          17.928490
+SGI 5           5.689985
+SGI 6          15.231420
+SGI 7           4.853752
+SGI Not Found   1.332720
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.037850
+% low OSIFF            93.609089
+% medium OSIFF          6.735566
+% high OSIFF            1.034683
+% very high OSIFF       0.000184
+% OSIFF Not Found       1.332720
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.037850
+SGI 1              24.939590
+SGI 2              21.420876
+SGI 3              21.683100
+SGI 5               6.028239
+SGI 6              19.970883
+SGI 7               7.336833
+SGI Not Found       1.332720
+----- SGI/OSIFF -------
+                     Solvent   SGI 1      SGI 2     SGI 3     SGI 5     SGI 6  \
+Solvent            10.351842   0.000   0.000000   0.00000  0.000000   0.00000   
+% low OSIFF         0.000000  23.121  20.885790  16.90849  5.679645  14.40546   
+% medium OSIFF      0.000000   0.470   0.110000   1.02000  0.000330   0.64616   
+% high OSIFF        0.000000   0.011   0.014000   0.00000  0.010010   0.17980   
+% very high OSIFF   0.000000   0.000   0.000001   0.00000  0.000000   0.00000   
+% OSIFF Not Found   0.000000   0.000   0.000000   0.00000  0.000000   0.00000   
+
+                      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            0.000000        0.00000             0.00000  
+% low OSIFF        4.433530        0.00000            32.42379  
+% medium OSIFF     0.389200        0.00000             0.91033  
+% high OSIFF       0.031000        0.00000             0.03981  
+% very high OSIFF  0.000022        0.00000             0.00000  
+% OSIFF Not Found  0.000000        1.33272             0.00136  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.351842
+% Natural RMs         33.375290
+% Synthetic RMs       54.941508
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.331360
+price of formula: 10.13 USD/Kg. (missing 20.7% of the volume) 

@@ -1,0 +1,13 @@
+name:Patrick Perrella
+email:PATRICK.PERRELLA@IFF.COM
+globaluserid:PPP2080
+deptname:Union Beach, NJ (R&D),USA
+position:Sr. Systems Analyst
+jobfamily:None
+divisionname:Corporate
+countrycode:US
+countryname:USA
+employeecatcode:IT
+regioncode:NA
+regionname:North America
+orgunitname:IT App Delivery-FL

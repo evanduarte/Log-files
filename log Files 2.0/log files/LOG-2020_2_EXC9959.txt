@@ -1,0 +1,235 @@
+19/02/2020 10:49:55: connexion of user: EXC9959 
+25/02/2020 14:38:51: connexion of user: EXC9959 
+25/02/2020 14:44:23: 
+-------------- RCTEST1222CL(RC) 30227310 ------------------
+0       BOMItemName BOMItemNumber Parts
+1   CITRONELLOL 950      00034733  60.0
+2  DIHYDRO MYRCENOL      00044105  60.0
+0  BOMItemName BOMItemNumber Parts
+26   VERTOLIFF      00201058  10.0
+----------------------------------------------------------- 
+25/02/2020 14:44:27: Simple Analysis of the formula: RCTEST1222CL(RC) 30227310
+-------- OSIFF --------
+                   dosage
+Solvent             0.099
+% low OSIFF        91.850
+% medium OSIFF      5.350
+% high OSIFF        1.700
+% very high OSIFF   0.000
+% OSIFF Not Found   1.001
+--------- SGI ---------
+               dosage
+Solvent         0.099
+SGI 1           0.000
+SGI 2          16.801
+SGI 3           6.400
+SGI 5          22.650
+SGI 6          48.250
+SGI 7           4.800
+SGI Not Found   1.000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                   0.0000
+% low OSIFF             103.5275
+% medium OSIFF           13.3315
+% high OSIFF              6.2970
+% very high OSIFF         0.0000
+% OSIFF Not Found         1.0010
+---- Impact SGI -------
+               dosage/Impact
+Solvent               0.0000
+SGI 1                 0.0000
+SGI 2                18.0400
+SGI 3                 6.5840
+SGI 5                26.4805
+SGI 6                60.1845
+SGI 7                11.8680
+SGI Not Found         1.0000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              0.099      0   0.000    0.0   0.00   0.00    0.0   
+% low OSIFF          0.000      0  16.300    6.4  22.15  46.60    0.4   
+% medium OSIFF       0.000      0   0.500    0.0   0.40   0.05    4.4   
+% high OSIFF         0.000      0   0.000    0.0   0.10   1.60    0.0   
+% very high OSIFF    0.000      0   0.000    0.0   0.00   0.00    0.0   
+% OSIFF Not Found    0.000      0   0.001    0.0   0.00   0.00    0.0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                 0.0  
+% low OSIFF                  0.0                 1.4  
+% medium OSIFF               0.0                 0.2  
+% high OSIFF                 0.0                 0.0  
+% very high OSIFF            0.0                 0.0  
+% OSIFF Not Found            1.0                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                0.099
+% Natural RMs          1.600
+% Synthetic RMs       98.301
+% Base RMs             0.000
+% Nat/Synt Not Found   0.000
+Formula Price: 12.8 USD/Kg. (missing 0.0% of the volume) 
+25/02/2020 14:44:29: Simple Analysis of the formula: RCTEST1222CL(RC) 30227310
+-------- OSIFF --------
+                   dosage
+Solvent             0.099
+% low OSIFF        91.850
+% medium OSIFF      5.350
+% high OSIFF        1.700
+% very high OSIFF   0.000
+% OSIFF Not Found   1.001
+--------- SGI ---------
+               dosage
+Solvent         0.099
+SGI 1           0.000
+SGI 2          16.801
+SGI 3           6.400
+SGI 5          22.650
+SGI 6          48.250
+SGI 7           4.800
+SGI Not Found   1.000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                   0.0000
+% low OSIFF             103.5275
+% medium OSIFF           13.3315
+% high OSIFF              6.2970
+% very high OSIFF         0.0000
+% OSIFF Not Found         1.0010
+---- Impact SGI -------
+               dosage/Impact
+Solvent               0.0000
+SGI 1                 0.0000
+SGI 2                18.0400
+SGI 3                 6.5840
+SGI 5                26.4805
+SGI 6                60.1845
+SGI 7                11.8680
+SGI Not Found         1.0000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              0.099      0   0.000    0.0   0.00   0.00    0.0   
+% low OSIFF          0.000      0  16.300    6.4  22.15  46.60    0.4   
+% medium OSIFF       0.000      0   0.500    0.0   0.40   0.05    4.4   
+% high OSIFF         0.000      0   0.000    0.0   0.10   1.60    0.0   
+% very high OSIFF    0.000      0   0.000    0.0   0.00   0.00    0.0   
+% OSIFF Not Found    0.000      0   0.001    0.0   0.00   0.00    0.0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                 0.0  
+% low OSIFF                  0.0                 1.4  
+% medium OSIFF               0.0                 0.2  
+% high OSIFF                 0.0                 0.0  
+% very high OSIFF            0.0                 0.0  
+% OSIFF Not Found            1.0                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                0.099
+% Natural RMs          1.600
+% Synthetic RMs       98.301
+% Base RMs             0.000
+% Nat/Synt Not Found   0.000
+Formula Price: 12.8 USD/Kg. (missing 0.0% of the volume) 
+25/02/2020 14:44:36: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 14:44:39: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 14:44:43: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:44:45: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:45:12: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:45:13: Sensory Prediction of the formula for sex F Using Sub set 
+26/02/2020 12:52:03: connexion of user: EXC9959 
+26/02/2020 12:52:05: Sensory Prediction of the formula for sex F Using Sub set 
+26/02/2020 12:52:45: 
+-------------- OUD TWIST  VP00001497AO ------------------
+0                       BOMItemName BOMItemNumber     Parts
+1  PHEN ETH ALC WHITE EXTRA (MXDEA)      00163895  110.0000
+2                         BENZ ACET      00021005   10.0000
+0              BOMItemName BOMItemNumber     Parts
+55  DIHYDRO MYRCENOL INDIA      00041035  200.0000
+----------------------------------------------------------- 
+26/02/2020 12:52:45: IPC manquant: 00041035 
+26/02/2020 12:52:55: Simple Analysis of the formula: OUD TWIST  VP00001497AO
+-------- OSIFF --------
+                      dosage
+Solvent            55.553043
+% low OSIFF        31.751304
+% medium OSIFF      7.695652
+% high OSIFF        1.773913
+% very high OSIFF   0.965217
+% OSIFF Not Found   2.260870
+--------- SGI ---------
+                  dosage
+Solvent        55.553043
+SGI 1           5.252174
+SGI 2           1.530435
+SGI 3           0.573913
+SGI 5           4.394783
+SGI 6          21.591304
+SGI 7           8.843478
+SGI Not Found   2.260870
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            36.704383
+% medium OSIFF         21.396000
+% high OSIFF            6.935304
+% very high OSIFF       5.921565
+% OSIFF Not Found       2.260870
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               5.340522
+SGI 2               1.812870
+SGI 3               0.606522
+SGI 5               9.926904
+SGI 6              26.655565
+SGI 7              26.614870
+SGI Not Found       2.260870
+----- SGI/OSIFF -------
+                     Solvent     SGI 1     SGI 2     SGI 3     SGI 5  \
+Solvent            55.553043  0.000000  0.000000  0.000000  0.000000   
+% low OSIFF         0.000000  5.217391  1.434783  0.573913  2.786087   
+% medium OSIFF      0.000000  0.017391  0.000000  0.000000  0.026087   
+% high OSIFF        0.000000  0.017391  0.086957  0.000000  1.495652   
+% very high OSIFF   0.000000  0.000000  0.008696  0.000000  0.086957   
+% OSIFF Not Found   0.000000  0.000000  0.000000  0.000000  0.000000   
+
+                       SGI 6     SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000  0.000000        0.00000            0.000000  
+% low OSIFF        19.678261  2.060870        0.00000            6.638261  
+% medium OSIFF      1.913043  5.739130        0.00000            0.191304  
+% high OSIFF        0.000000  0.173913        0.00000            0.191304  
+% very high OSIFF   0.000000  0.869565        0.00000            0.000000  
+% OSIFF Not Found   0.000000  0.000000        2.26087            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               55.553043
+% Natural RMs          7.020870
+% Synthetic RMs       35.686957
+% Base RMs             0.000000
+% Nat/Synt Not Found   1.739130
+Formula Price: 10.26 USD/Kg. (missing 1.7% of the volume) 
+26/02/2020 12:53:41: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+26/02/2020 12:53:52: 
+-------------- USAIN VP00001092AE ------------------
+0    BOMItemName BOMItemNumber    Parts
+1      BENZ ACET      00021005  80.0000
+2  STYRALYL ACET      00198605  30.0000
+0   BOMItemName BOMItemNumber    Parts
+58  OXYPHENYLON      00151793  20.0000
+----------------------------------------------------------- 
+26/02/2020 14:35:10: 
+-------------- DESENSE VP00001454AJ ------------------
+0      BOMItemName BOMItemNumber     Parts
+1    STYRALYL ACET      00198605   20.0000
+2  CITRONELLOL 950      00034733  110.0000
+0      BOMItemName BOMItemNumber    Parts
+38  SANDALORE TOCO      00190259  70.0000
+----------------------------------------------------------- 
+26/02/2020 14:45:55: 
+-------------- PINK MOON VP00001542AJ ------------------
+0      BOMItemName BOMItemNumber    Parts
+1    STYRALYL ACET      00198605  30.0000
+2  CITRONELLOL 950      00034733  30.0000
+0               BOMItemName BOMItemNumber    Parts
+53  LAVANDIN GROSSO OIL LMR      00121139  60.0000
+----------------------------------------------------------- 

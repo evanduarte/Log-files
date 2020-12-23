@@ -1,0 +1,14 @@
+25/02/2020 15:41:23: connexion of user: SDD1234 
+25/02/2020 15:56:49: 
+-------------- FormulaExportExce ------------------
+0         BOMItemName BOMItemNumber   Parts
+1  ORANGE OIL CP TOCO      00158042  6.5000
+2       ALD C-10 TOCO      00013199  0.6000
+0              BOMItemName BOMItemNumber   Parts
+114  FENNEL OIL SWEET PURE      00060695  0.0800
+----------------------------------------------------------- 
+25/02/2020 15:56:49: IPC manquant: 00041033 
+25/02/2020 15:56:49: IPC manquant: 00092032 
+25/02/2020 16:00:04: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 16:16:34: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 16:41:48: looking for ingredients with SGI in: 1 and OSIFF in: medium with price range: 0-10000 

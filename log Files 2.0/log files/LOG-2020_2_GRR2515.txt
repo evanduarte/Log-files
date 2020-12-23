@@ -1,0 +1,205 @@
+25/02/2020 15:41:22: connexion of user: GRR2515 
+25/02/2020 16:00:14: 
+-------------- Coco mademoiselle EDP -  CPA20085 ------------------
+0   BOMItemName BOMItemNumber Parts
+1  ETH VANILLIN      00059310     2
+2      COUMARIN      00036603   3.5
+0              BOMItemName BOMItemNumber Parts
+60  PEPPER OIL BLACK STAFF      00162793   0.8
+----------------------------------------------------------- 
+25/02/2020 16:00:14: IPC manquant: 00062982 
+25/02/2020 16:00:14: IPC manquant: 00040579 
+25/02/2020 16:00:50: Simple Analysis of the formula: Coco mademoiselle EDP -  CPA20085
+-------- OSIFF --------
+                   dosage
+Solvent              4.97
+% low OSIFF         91.63
+% medium OSIFF       1.71
+% high OSIFF         1.08
+% very high OSIFF    0.01
+% OSIFF Not Found    0.60
+--------- SGI ---------
+               dosage
+Solvent          4.97
+SGI 1            2.67
+SGI 2           20.30
+SGI 3            1.67
+SGI 5           14.81
+SGI 6           41.79
+SGI 7           13.19
+SGI Not Found    0.60
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                   0.0000
+% low OSIFF              96.7114
+% medium OSIFF            4.7471
+% high OSIFF              3.6908
+% very high OSIFF         0.0574
+% OSIFF Not Found         0.6000
+---- Impact SGI -------
+               dosage/Impact
+Solvent               0.0000
+SGI 1                 2.9635
+SGI 2                21.7892
+SGI 3                 1.6790
+SGI 5                16.2790
+SGI 6                46.7772
+SGI 7                15.7188
+SGI Not Found         0.6000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent               4.97   0.00   0.00   0.00   0.00   0.00   0.00   
+% low OSIFF           0.00   2.52  19.66   1.67  14.78  40.40  12.60   
+% medium OSIFF        0.00   0.15   0.00   0.00   0.00   1.10   0.46   
+% high OSIFF          0.00   0.00   0.64   0.00   0.03   0.29   0.12   
+% very high OSIFF     0.00   0.00   0.00   0.00   0.00   0.00   0.01   
+% OSIFF Not Found     0.00   0.00   0.00   0.00   0.00   0.00   0.00   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0               13.45  
+% medium OSIFF               0.0                0.03  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            0.6                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent                 4.97
+% Natural RMs          13.48
+% Synthetic RMs        80.95
+% Base RMs              0.00
+% Nat/Synt Not Found    0.60
+Formula Price: 21.94 USD/Kg. (missing 31.6% of the volume) 
+25/02/2020 16:00:54: Simple Analysis of the formula: Coco mademoiselle EDP -  CPA20085
+-------- OSIFF --------
+                   dosage
+Solvent              4.97
+% low OSIFF         91.63
+% medium OSIFF       1.71
+% high OSIFF         1.08
+% very high OSIFF    0.01
+% OSIFF Not Found    0.60
+--------- SGI ---------
+               dosage
+Solvent          4.97
+SGI 1            2.67
+SGI 2           20.30
+SGI 3            1.67
+SGI 5           14.81
+SGI 6           41.79
+SGI 7           13.19
+SGI Not Found    0.60
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                   0.0000
+% low OSIFF              96.7114
+% medium OSIFF            4.7471
+% high OSIFF              3.6908
+% very high OSIFF         0.0574
+% OSIFF Not Found         0.6000
+---- Impact SGI -------
+               dosage/Impact
+Solvent               0.0000
+SGI 1                 2.9635
+SGI 2                21.7892
+SGI 3                 1.6790
+SGI 5                16.2790
+SGI 6                46.7772
+SGI 7                15.7188
+SGI Not Found         0.6000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent               4.97   0.00   0.00   0.00   0.00   0.00   0.00   
+% low OSIFF           0.00   2.52  19.66   1.67  14.78  40.40  12.60   
+% medium OSIFF        0.00   0.15   0.00   0.00   0.00   1.10   0.46   
+% high OSIFF          0.00   0.00   0.64   0.00   0.03   0.29   0.12   
+% very high OSIFF     0.00   0.00   0.00   0.00   0.00   0.00   0.01   
+% OSIFF Not Found     0.00   0.00   0.00   0.00   0.00   0.00   0.00   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0               13.45  
+% medium OSIFF               0.0                0.03  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            0.6                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent                 4.97
+% Natural RMs          13.48
+% Synthetic RMs        80.95
+% Base RMs              0.00
+% Nat/Synt Not Found    0.60
+Formula Price: 21.94 USD/Kg. (missing 31.6% of the volume) 
+25/02/2020 16:00:56: Simple Analysis of the formula: Coco mademoiselle EDP -  CPA20085
+-------- OSIFF --------
+                   dosage
+Solvent              4.97
+% low OSIFF         91.63
+% medium OSIFF       1.71
+% high OSIFF         1.08
+% very high OSIFF    0.01
+% OSIFF Not Found    0.60
+--------- SGI ---------
+               dosage
+Solvent          4.97
+SGI 1            2.67
+SGI 2           20.30
+SGI 3            1.67
+SGI 5           14.81
+SGI 6           41.79
+SGI 7           13.19
+SGI Not Found    0.60
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                   0.0000
+% low OSIFF              96.7114
+% medium OSIFF            4.7471
+% high OSIFF              3.6908
+% very high OSIFF         0.0574
+% OSIFF Not Found         0.6000
+---- Impact SGI -------
+               dosage/Impact
+Solvent               0.0000
+SGI 1                 2.9635
+SGI 2                21.7892
+SGI 3                 1.6790
+SGI 5                16.2790
+SGI 6                46.7772
+SGI 7                15.7188
+SGI Not Found         0.6000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent               4.97   0.00   0.00   0.00   0.00   0.00   0.00   
+% low OSIFF           0.00   2.52  19.66   1.67  14.78  40.40  12.60   
+% medium OSIFF        0.00   0.15   0.00   0.00   0.00   1.10   0.46   
+% high OSIFF          0.00   0.00   0.64   0.00   0.03   0.29   0.12   
+% very high OSIFF     0.00   0.00   0.00   0.00   0.00   0.00   0.01   
+% OSIFF Not Found     0.00   0.00   0.00   0.00   0.00   0.00   0.00   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0               13.45  
+% medium OSIFF               0.0                0.03  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            0.6                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent                 4.97
+% Natural RMs          13.48
+% Synthetic RMs        80.95
+% Base RMs              0.00
+% Nat/Synt Not Found    0.60
+Formula Price: 21.94 USD/Kg. (missing 31.6% of the volume) 
+25/02/2020 16:04:54: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 16:06:43: Comparaison of the formula to the following benches: GUCCI MADE TO MEASURE,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 16:07:27: Comparaison of the formula to the following benches: ALIEN OUD MAJESTUEUX 30F27971(In Data Base),(Uploaded benches) 
+25/02/2020 16:15:57: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 16:37:14: looking at the Ingredients with columns: IPC,Name,SGI,OSIFF,Main Odour 
+25/02/2020 16:41:54: looking at the Benchmarks with columns: Solvent,SGI 1,SGI 2,SGI 3,SGI 5,SGI 6,SGI 7,SGI Not Found,T0,T4,Slope,Sex 
+25/02/2020 16:45:16: looking for ingredients with SGI in: 6 and OSIFF in: very high with Main odour in: citrus 
+25/02/2020 16:48:22: looking for ingredients with SGI in: 5,6,7 and OSIFF in: very high 
+25/02/2020 17:39:37: Sensory Prediction of the formula for sex F Using Sub set 
+26/02/2020 08:52:15: connexion of user: GRR2515 
+26/02/2020 08:52:17: Sensory Prediction of the formula for sex F,U,M Using Sub set 

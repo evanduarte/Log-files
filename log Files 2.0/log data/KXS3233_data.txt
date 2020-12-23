@@ -1,0 +1,13 @@
+name:Kumaresan Sekar
+email:KUMARESAN.SEKAR@IFF.COM
+globaluserid:KXS3233
+deptname:Chennai (Guindy), India
+position:Outsourced Services
+jobfamily:None
+divisionname:None
+countrycode:IN
+countryname:India
+employeecatcode:None
+regioncode:GA
+regionname:Greater Asia
+orgunitname:IT App Development-FR

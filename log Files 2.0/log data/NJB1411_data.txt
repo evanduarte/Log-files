@@ -1,0 +1,13 @@
+name:Nicolas Beaulieu
+email:nicolas.beaulieu@iff.com
+globaluserid:NJB1411
+deptname:Neuilly-sur-Seine cedex,France
+position:Senior Perfumer
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:PF
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR EAME FF

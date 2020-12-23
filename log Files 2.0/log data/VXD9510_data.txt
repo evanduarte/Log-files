@@ -1,0 +1,13 @@
+name:Vanessa DOS SANTOS SILVA
+email:VANESSA.SANTOS@IFF.COM
+globaluserid:VXD9510
+deptname:Neuilly-sur-Seine cedex,France
+position:Scientist I
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR EAME C&A BC Applications

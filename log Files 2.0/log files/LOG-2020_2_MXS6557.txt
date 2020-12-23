@@ -1,0 +1,1123 @@
+03/02/2020 11:53:10: Sensory Prediction of the formula for sex F Using Sub set 
+03/02/2020 11:55:06: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+04/02/2020 12:23:03: connexion of user: MXS6557 
+04/02/2020 13:16:02: IPC manquant: 30215129 
+04/02/2020 13:16:04: IPC manquant: 30215129 
+04/02/2020 13:16:16: Simple Analysis of the formula: ME00011000AA
+-------- OSIFF --------
+                      dosage
+Solvent             8.207339
+% low OSIFF         0.000000
+% medium OSIFF      0.000000
+% high OSIFF        0.049541
+% very high OSIFF   0.000000
+% OSIFF Not Found  91.743119
+--------- SGI ---------
+                  dosage
+Solvent         8.207339
+SGI 1           0.000000
+SGI 2           0.000000
+SGI 3           0.003670
+SGI 5           0.000000
+SGI 6           0.045872
+SGI 7           0.000000
+SGI Not Found  91.743119
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF             0.000000
+% medium OSIFF          0.000000
+% high OSIFF            0.217963
+% very high OSIFF       0.000000
+% OSIFF Not Found      91.743119
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2               0.000000
+SGI 3               0.012917
+SGI 5               0.000000
+SGI 6               0.205046
+SGI 7               0.000000
+SGI Not Found      91.743119
+----- SGI/OSIFF -------
+                    Solvent  SGI 1  SGI 2    SGI 3  SGI 5     SGI 6  SGI 7  \
+Solvent            8.207339      0      0  0.00000      0  0.000000      0   
+% low OSIFF        0.000000      0      0  0.00000      0  0.000000      0   
+% medium OSIFF     0.000000      0      0  0.00000      0  0.000000      0   
+% high OSIFF       0.000000      0      0  0.00367      0  0.045872      0   
+% very high OSIFF  0.000000      0      0  0.00000      0  0.000000      0   
+% OSIFF Not Found  0.000000      0      0  0.00000      0  0.000000      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                 0.000000             0.00000  
+% low OSIFF             0.000000             0.00000  
+% medium OSIFF          0.000000             0.00000  
+% high OSIFF            0.000000             0.00367  
+% very high OSIFF       0.000000             0.00000  
+% OSIFF Not Found      91.743119             0.00000  
+------ Nat/Synth ------
+                         dosage
+Solvent                8.207339
+% Natural RMs          0.003670
+% Synthetic RMs        0.045872
+% Base RMs             0.000000
+% Nat/Synt Not Found  91.743119
+price of formula: 0.52 USD/Kg. (missing 91.7% of the volume) 
+04/02/2020 13:16:38: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+04/02/2020 13:16:41: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+05/02/2020 08:36:04: connexion of user: MXS6557 
+05/02/2020 08:36:06: Simple Analysis of the formula: ME00011000AA
+-------- OSIFF --------
+                      dosage
+Solvent             8.207339
+% low OSIFF         0.000000
+% medium OSIFF      0.000000
+% high OSIFF        0.049541
+% very high OSIFF   0.000000
+% OSIFF Not Found  91.743119
+--------- SGI ---------
+                  dosage
+Solvent         8.207339
+SGI 1           0.000000
+SGI 2           0.000000
+SGI 3           0.003670
+SGI 5           0.000000
+SGI 6           0.045872
+SGI 7           0.000000
+SGI Not Found  91.743119
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF             0.000000
+% medium OSIFF          0.000000
+% high OSIFF            0.217963
+% very high OSIFF       0.000000
+% OSIFF Not Found      91.743119
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               0.000000
+SGI 2               0.000000
+SGI 3               0.012917
+SGI 5               0.000000
+SGI 6               0.205046
+SGI 7               0.000000
+SGI Not Found      91.743119
+----- SGI/OSIFF -------
+                    Solvent  SGI 1  SGI 2    SGI 3  SGI 5     SGI 6  SGI 7  \
+Solvent            8.207339      0      0  0.00000      0  0.000000      0   
+% low OSIFF        0.000000      0      0  0.00000      0  0.000000      0   
+% medium OSIFF     0.000000      0      0  0.00000      0  0.000000      0   
+% high OSIFF       0.000000      0      0  0.00367      0  0.045872      0   
+% very high OSIFF  0.000000      0      0  0.00000      0  0.000000      0   
+% OSIFF Not Found  0.000000      0      0  0.00000      0  0.000000      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                 0.000000             0.00000  
+% low OSIFF             0.000000             0.00000  
+% medium OSIFF          0.000000             0.00000  
+% high OSIFF            0.000000             0.00367  
+% very high OSIFF       0.000000             0.00000  
+% OSIFF Not Found      91.743119             0.00000  
+------ Nat/Synth ------
+                         dosage
+Solvent                8.207339
+% Natural RMs          0.003670
+% Synthetic RMs        0.045872
+% Base RMs             0.000000
+% Nat/Synt Not Found  91.743119
+price of formula: 0.52 USD/Kg. (missing 91.7% of the volume) 
+05/02/2020 08:36:06: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+05/02/2020 08:36:06: IPC manquant: 30215129 
+05/02/2020 11:34:45: IPC manquant: 30215129 
+06/02/2020 10:07:44: connexion of user: MXS6557 
+06/02/2020 10:08:31: IPC manquant: 00072039 
+06/02/2020 10:08:37: IPC manquant: 00072039 
+06/02/2020 10:13:43: 
+-------------- Q500021000AA ------------------
+0                    BOMItemName BOMItemNumber   Parts
+1     GERANIOL NAT EX CITRONELLA      00072039  3.0000
+2  PETITGRAIN CITRONNIER OIL LMR      00162014  5.0000
+0                    BOMItemName BOMItemNumber   Parts
+2  PETITGRAIN CITRONNIER OIL LMR      00162014  5.0000
+----------------------------------------------------------- 
+06/02/2020 10:13:43: IPC manquant: 00072039 
+06/02/2020 10:14:04: Simple Analysis of the formula: Q500021000AA
+-------- OSIFF --------
+                   dosage
+Solvent               0.0
+% low OSIFF          62.5
+% medium OSIFF        0.0
+% high OSIFF          0.0
+% very high OSIFF     0.0
+% OSIFF Not Found    37.5
+--------- SGI ---------
+               dosage
+Solvent           0.0
+SGI 1            62.5
+SGI 2             0.0
+SGI 3             0.0
+SGI 5             0.0
+SGI 6             0.0
+SGI 7             0.0
+SGI Not Found    37.5
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                    0.000
+% low OSIFF               94.375
+% medium OSIFF             0.000
+% high OSIFF               0.000
+% very high OSIFF          0.000
+% OSIFF Not Found         37.500
+---- Impact SGI -------
+               dosage/Impact
+Solvent                0.000
+SGI 1                 94.375
+SGI 2                  0.000
+SGI 3                  0.000
+SGI 5                  0.000
+SGI 6                  0.000
+SGI 7                  0.000
+SGI Not Found         37.500
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent                  0    0.0      0      0      0      0      0   
+% low OSIFF              0   62.5      0      0      0      0      0   
+% medium OSIFF           0    0.0      0      0      0      0      0   
+% high OSIFF             0    0.0      0      0      0      0      0   
+% very high OSIFF        0    0.0      0      0      0      0      0   
+% OSIFF Not Found        0    0.0      0      0      0      0      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                 0.0  
+% low OSIFF                  0.0                62.5  
+% medium OSIFF               0.0                 0.0  
+% high OSIFF                 0.0                 0.0  
+% very high OSIFF            0.0                 0.0  
+% OSIFF Not Found           37.5                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                  0.0
+% Natural RMs           62.5
+% Synthetic RMs          0.0
+% Base RMs               0.0
+% Nat/Synt Not Found    37.5
+price of formula: 97.98 USD/Kg. (missing 37.5% of the volume) 
+06/02/2020 10:15:38: Sensory Prediction of the formula for sex F Using Sub set 
+06/02/2020 10:16:21: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+06/02/2020 10:16:24: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+10/02/2020 09:17:52: connexion of user: MXS6557 
+10/02/2020 09:36:01: IPC manquant: 00072039 
+10/02/2020 09:36:04: IPC manquant: 00072039 
+10/02/2020 09:36:07: IPC manquant: 00072039 
+10/02/2020 09:36:20: IPC manquant: 00072039 
+10/02/2020 09:36:58: IPC manquant: 00072039 
+10/02/2020 09:38:22: Sensory Prediction of the formula for sex F Using Sub set 
+10/02/2020 09:38:23: Sensory Prediction of the formula for sex F Using Sub set 
+10/02/2020 09:38:33: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+11/02/2020 14:01:38: connexion of user: MXS6557 
+11/02/2020 14:09:01: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+price of formula: 22.45 USD/Kg. (missing 0.9% of the volume) 
+11/02/2020 14:10:06: Sensory Prediction of the formula for sex F Using Sub set 
+11/02/2020 14:16:58: Comparaison of the formula to the following benches: Top (6)(In Data Base),(Uploaded benches) 
+13/02/2020 09:37:08: connexion of user: MXS6557 
+13/02/2020 09:39:06: Sensory Prediction of the formula for sex F Using Sub set 
+13/02/2020 09:42:22: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+13/02/2020 10:21:09: Comparaison of the formula to the following benches: Top (9),GUCCI MADE TO MEASURE(In Data Base),(Uploaded benches) 
+13/02/2020 10:25:31: Sensory Prediction of the formula for sex F Using Sub set 
+14/02/2020 04:43:01: connexion of user: MXS6557 
+14/02/2020 04:44:24: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+price of formula: 22.45 USD/Kg. (missing 0.9% of the volume) 
+14/02/2020 04:45:14: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+17/02/2020 08:40:36: connexion of user: MXS6557 
+17/02/2020 09:00:51: IPC manquant: 00072039 
+17/02/2020 09:00:53: IPC manquant: 00072039 
+17/02/2020 09:01:47: Simple Analysis of the formula: Q500021000AA
+-------- OSIFF --------
+                   dosage
+Solvent               0.0
+% low OSIFF          62.5
+% medium OSIFF        0.0
+% high OSIFF          0.0
+% very high OSIFF     0.0
+% OSIFF Not Found    37.5
+--------- SGI ---------
+               dosage
+Solvent           0.0
+SGI 1            62.5
+SGI 2             0.0
+SGI 3             0.0
+SGI 5             0.0
+SGI 6             0.0
+SGI 7             0.0
+SGI Not Found    37.5
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                    0.000
+% low OSIFF               94.375
+% medium OSIFF             0.000
+% high OSIFF               0.000
+% very high OSIFF          0.000
+% OSIFF Not Found         37.500
+---- Impact SGI -------
+               dosage/Impact
+Solvent                0.000
+SGI 1                 94.375
+SGI 2                  0.000
+SGI 3                  0.000
+SGI 5                  0.000
+SGI 6                  0.000
+SGI 7                  0.000
+SGI Not Found         37.500
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent                  0    0.0      0      0      0      0      0   
+% low OSIFF              0   62.5      0      0      0      0      0   
+% medium OSIFF           0    0.0      0      0      0      0      0   
+% high OSIFF             0    0.0      0      0      0      0      0   
+% very high OSIFF        0    0.0      0      0      0      0      0   
+% OSIFF Not Found        0    0.0      0      0      0      0      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                 0.0  
+% low OSIFF                  0.0                62.5  
+% medium OSIFF               0.0                 0.0  
+% high OSIFF                 0.0                 0.0  
+% very high OSIFF            0.0                 0.0  
+% OSIFF Not Found           37.5                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                  0.0
+% Natural RMs           62.5
+% Synthetic RMs          0.0
+% Base RMs               0.0
+% Nat/Synt Not Found    37.5
+price of formula: 97.98 USD/Kg. (missing 37.5% of the volume) 
+17/02/2020 09:02:58: IPC manquant: 00072039 
+17/02/2020 09:03:03: IPC manquant: 00072039 
+17/02/2020 09:03:10: IPC manquant: 00072039 
+17/02/2020 09:04:24: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                      dosage
+Solvent            37.894737
+% low OSIFF        51.578947
+% medium OSIFF     10.526316
+% high OSIFF        0.000000
+% very high OSIFF   0.000000
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent         0.000000
+SGI 1          51.578947
+SGI 2           0.000000
+SGI 3          10.526316
+SGI 5           0.000000
+SGI 6           0.000000
+SGI 7          42.105263
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            55.242105
+% medium OSIFF         24.000000
+% high OSIFF            0.000000
+% very high OSIFF       0.000000
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              55.242105
+SGI 2               0.000000
+SGI 3              24.000000
+SGI 5               0.000000
+SGI 6               0.000000
+SGI 7               0.000000
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                   Solvent      SGI 1  SGI 2      SGI 3  SGI 5  SGI 6  \
+Solvent                  0   0.000000      0   0.000000      0      0   
+% low OSIFF              0  51.578947      0   0.000000      0      0   
+% medium OSIFF           0   0.000000      0  10.526316      0      0   
+% high OSIFF             0   0.000000      0   0.000000      0      0   
+% very high OSIFF        0   0.000000      0   0.000000      0      0   
+% OSIFF Not Found        0   0.000000      0   0.000000      0      0   
+
+                       SGI 7  SGI Not Found  Natural Ingredient  
+Solvent            37.894737              0            0.000000  
+% low OSIFF         0.000000              0           51.578947  
+% medium OSIFF      0.000000              0           10.526316  
+% high OSIFF        0.000000              0            0.000000  
+% very high OSIFF   0.000000              0            0.000000  
+% OSIFF Not Found   0.000000              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               37.894737
+% Natural RMs         62.105263
+% Synthetic RMs        0.000000
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 66.54 USD/Kg. (missing 0.0% of the volume) 
+17/02/2020 09:04:45: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                      dosage
+Solvent            37.894737
+% low OSIFF        51.578947
+% medium OSIFF     10.526316
+% high OSIFF        0.000000
+% very high OSIFF   0.000000
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent        37.894737
+SGI 1          51.578947
+SGI 2           0.000000
+SGI 3          10.526316
+SGI 5           0.000000
+SGI 6           0.000000
+SGI 7           0.000000
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            55.242105
+% medium OSIFF         24.000000
+% high OSIFF            0.000000
+% very high OSIFF       0.000000
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              55.242105
+SGI 2               0.000000
+SGI 3              24.000000
+SGI 5               0.000000
+SGI 6               0.000000
+SGI 7               0.000000
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent      SGI 1  SGI 2      SGI 3  SGI 5  SGI 6  \
+Solvent            37.894737   0.000000      0   0.000000      0      0   
+% low OSIFF         0.000000  51.578947      0   0.000000      0      0   
+% medium OSIFF      0.000000   0.000000      0  10.526316      0      0   
+% high OSIFF        0.000000   0.000000      0   0.000000      0      0   
+% very high OSIFF   0.000000   0.000000      0   0.000000      0      0   
+% OSIFF Not Found   0.000000   0.000000      0   0.000000      0      0   
+
+                   SGI 7  SGI Not Found  Natural Ingredient  
+Solvent                0              0            0.000000  
+% low OSIFF            0              0           51.578947  
+% medium OSIFF         0              0           10.526316  
+% high OSIFF           0              0            0.000000  
+% very high OSIFF      0              0            0.000000  
+% OSIFF Not Found      0              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               37.894737
+% Natural RMs         62.105263
+% Synthetic RMs        0.000000
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 66.54 USD/Kg. (missing 0.0% of the volume) 
+17/02/2020 09:25:43: Sensory Prediction of the formula for sex F Using Sub set 
+17/02/2020 09:27:29: Sensory Prediction of the formula for sex F Using Sub set 
+17/02/2020 09:36:36: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+17/02/2020 09:49:26: looking at the formula with columns: Name,parts,SGI,OSIFF,dosage 
+18/02/2020 04:54:33: connexion of user: MXS6557 
+18/02/2020 05:11:29: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+18/02/2020 05:11:47: looking at the formula with columns: Name,parts,SGI,OSIFF 
+18/02/2020 08:28:06: connexion of user: MXS6557 
+18/02/2020 08:28:10: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                      dosage
+Solvent            37.894737
+% low OSIFF        51.578947
+% medium OSIFF     10.526316
+% high OSIFF        0.000000
+% very high OSIFF   0.000000
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent        37.894737
+SGI 1          51.578947
+SGI 2           0.000000
+SGI 3          10.526316
+SGI 5           0.000000
+SGI 6           0.000000
+SGI 7           0.000000
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            55.242105
+% medium OSIFF         24.000000
+% high OSIFF            0.000000
+% very high OSIFF       0.000000
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              55.242105
+SGI 2               0.000000
+SGI 3              24.000000
+SGI 5               0.000000
+SGI 6               0.000000
+SGI 7               0.000000
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent      SGI 1  SGI 2      SGI 3  SGI 5  SGI 6  \
+Solvent            37.894737   0.000000      0   0.000000      0      0   
+% low OSIFF         0.000000  51.578947      0   0.000000      0      0   
+% medium OSIFF      0.000000   0.000000      0  10.526316      0      0   
+% high OSIFF        0.000000   0.000000      0   0.000000      0      0   
+% very high OSIFF   0.000000   0.000000      0   0.000000      0      0   
+% OSIFF Not Found   0.000000   0.000000      0   0.000000      0      0   
+
+                   SGI 7  SGI Not Found  Natural Ingredient  
+Solvent                0              0            0.000000  
+% low OSIFF            0              0           51.578947  
+% medium OSIFF         0              0           10.526316  
+% high OSIFF           0              0            0.000000  
+% very high OSIFF      0              0            0.000000  
+% OSIFF Not Found      0              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               37.894737
+% Natural RMs         62.105263
+% Synthetic RMs        0.000000
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 66.54 USD/Kg. (missing 0.0% of the volume) 
+18/02/2020 08:28:11: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+18/02/2020 13:19:20: connexion of user: MXS6557 
+18/02/2020 13:19:21: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                      dosage
+Solvent            37.894737
+% low OSIFF        51.578947
+% medium OSIFF     10.526316
+% high OSIFF        0.000000
+% very high OSIFF   0.000000
+% OSIFF Not Found   0.000000
+--------- SGI ---------
+                  dosage
+Solvent        37.894737
+SGI 1          51.578947
+SGI 2           0.000000
+SGI 3          10.526316
+SGI 5           0.000000
+SGI 6           0.000000
+SGI 7           0.000000
+SGI Not Found   0.000000
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            55.242105
+% medium OSIFF         24.000000
+% high OSIFF            0.000000
+% very high OSIFF       0.000000
+% OSIFF Not Found       0.000000
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1              55.242105
+SGI 2               0.000000
+SGI 3              24.000000
+SGI 5               0.000000
+SGI 6               0.000000
+SGI 7               0.000000
+SGI Not Found       0.000000
+----- SGI/OSIFF -------
+                     Solvent      SGI 1  SGI 2      SGI 3  SGI 5  SGI 6  \
+Solvent            37.894737   0.000000      0   0.000000      0      0   
+% low OSIFF         0.000000  51.578947      0   0.000000      0      0   
+% medium OSIFF      0.000000   0.000000      0  10.526316      0      0   
+% high OSIFF        0.000000   0.000000      0   0.000000      0      0   
+% very high OSIFF   0.000000   0.000000      0   0.000000      0      0   
+% OSIFF Not Found   0.000000   0.000000      0   0.000000      0      0   
+
+                   SGI 7  SGI Not Found  Natural Ingredient  
+Solvent                0              0            0.000000  
+% low OSIFF            0              0           51.578947  
+% medium OSIFF         0              0           10.526316  
+% high OSIFF           0              0            0.000000  
+% very high OSIFF      0              0            0.000000  
+% OSIFF Not Found      0              0            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               37.894737
+% Natural RMs         62.105263
+% Synthetic RMs        0.000000
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.000000
+price of formula: 66.54 USD/Kg. (missing 0.0% of the volume) 
+18/02/2020 13:19:22: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+19/02/2020 12:11:51: connexion of user: MXS6557 
+19/02/2020 12:12:41: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+19/02/2020 12:15:55: Sensory Prediction of the formula for sex F Using Sub set 
+20/02/2020 05:24:19: connexion of user: MXS6557 
+20/02/2020 10:16:08: connexion of user: MXS6557 
+20/02/2020 10:19:54: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+20/02/2020 10:37:33: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                   dosage
+Solvent              90.0
+% low OSIFF          10.0
+% medium OSIFF        0.0
+% high OSIFF          0.0
+% very high OSIFF     0.0
+% OSIFF Not Found     0.0
+--------- SGI ---------
+               dosage
+Solvent          90.0
+SGI 1            10.0
+SGI 2             0.0
+SGI 3             0.0
+SGI 5             0.0
+SGI 6             0.0
+SGI 7             0.0
+SGI Not Found     0.0
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                      0.0
+% low OSIFF                 18.7
+% medium OSIFF               0.0
+% high OSIFF                 0.0
+% very high OSIFF            0.0
+% OSIFF Not Found            0.0
+---- Impact SGI -------
+               dosage/Impact
+Solvent                  0.0
+SGI 1                   18.7
+SGI 2                    0.0
+SGI 3                    0.0
+SGI 5                    0.0
+SGI 6                    0.0
+SGI 7                    0.0
+SGI Not Found            0.0
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent               90.0    0.0      0      0      0      0      0   
+% low OSIFF            0.0   10.0      0      0      0      0      0   
+% medium OSIFF         0.0    0.0      0      0      0      0      0   
+% high OSIFF           0.0    0.0      0      0      0      0      0   
+% very high OSIFF      0.0    0.0      0      0      0      0      0   
+% OSIFF Not Found      0.0    0.0      0      0      0      0      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                        0                 0.0  
+% low OSIFF                    0                10.0  
+% medium OSIFF                 0                 0.0  
+% high OSIFF                   0                 0.0  
+% very high OSIFF              0                 0.0  
+% OSIFF Not Found              0                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                 90.0
+% Natural RMs           10.0
+% Synthetic RMs          0.0
+% Base RMs               0.0
+% Nat/Synt Not Found     0.0
+Formula Price: 2.63 USD/Kg. (missing 0.0% of the volume) 
+20/02/2020 10:37:38: Simple Analysis of the formula: Q500101000AA
+-------- OSIFF --------
+                   dosage
+Solvent              90.0
+% low OSIFF          10.0
+% medium OSIFF        0.0
+% high OSIFF          0.0
+% very high OSIFF     0.0
+% OSIFF Not Found     0.0
+--------- SGI ---------
+               dosage
+Solvent          90.0
+SGI 1            10.0
+SGI 2             0.0
+SGI 3             0.0
+SGI 5             0.0
+SGI 6             0.0
+SGI 7             0.0
+SGI Not Found     0.0
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                      0.0
+% low OSIFF                 18.7
+% medium OSIFF               0.0
+% high OSIFF                 0.0
+% very high OSIFF            0.0
+% OSIFF Not Found            0.0
+---- Impact SGI -------
+               dosage/Impact
+Solvent                  0.0
+SGI 1                   18.7
+SGI 2                    0.0
+SGI 3                    0.0
+SGI 5                    0.0
+SGI 6                    0.0
+SGI 7                    0.0
+SGI Not Found            0.0
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent               90.0    0.0      0      0      0      0      0   
+% low OSIFF            0.0   10.0      0      0      0      0      0   
+% medium OSIFF         0.0    0.0      0      0      0      0      0   
+% high OSIFF           0.0    0.0      0      0      0      0      0   
+% very high OSIFF      0.0    0.0      0      0      0      0      0   
+% OSIFF Not Found      0.0    0.0      0      0      0      0      0   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                        0                 0.0  
+% low OSIFF                    0                10.0  
+% medium OSIFF                 0                 0.0  
+% high OSIFF                   0                 0.0  
+% very high OSIFF              0                 0.0  
+% OSIFF Not Found              0                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                 90.0
+% Natural RMs           10.0
+% Synthetic RMs          0.0
+% Base RMs               0.0
+% Nat/Synt Not Found     0.0
+Formula Price: 2.63 USD/Kg. (missing 0.0% of the volume) 
+20/02/2020 10:40:21: Sensory Prediction of the formula for sex F Using Sub set 
+20/02/2020 10:40:57: looking at the formula with columns: Name,parts,SGI,OSIFF,Solvent 
+21/02/2020 09:49:57: connexion of user: MXS6557 
+21/02/2020 12:23:39: connexion of user: MXS6557 
+21/02/2020 12:24:23: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+Formula Price: 22.45 USD/Kg. (missing 0.9% of the volume) 
+21/02/2020 12:24:41: Comparaison of the formula to the following benches: Top (9),HUGO BOSS(In Data Base),(Uploaded benches) 
+24/02/2020 05:50:51: connexion of user: MXS6557 
+24/02/2020 05:51:14: Sensory Prediction of the formula for sex F Using Sub set 
+24/02/2020 06:10:54: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+Formula Price: 22.45 USD/Kg. (missing 0.9% of the volume) 
+24/02/2020 07:22:40: connexion of user: MXS6557 
+24/02/2020 09:16:52: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+24/02/2020 09:17:25: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+24/02/2020 09:18:21: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 05:11:33: connexion of user: MXS6557 
+25/02/2020 05:12:09: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+Formula Price: 22.45 USD/Kg. (missing 0.9% of the volume) 
+25/02/2020 05:14:44: Comparaison of the formula to the following benches: Top (9),Top (6)(In Data Base),(Uploaded benches) 
+26/02/2020 06:38:47: connexion of user: MXS6557 
+26/02/2020 06:39:23: Comparaison of the formula to the following benches: Top (9),Top (6)(In Data Base),(Uploaded benches) 
+26/02/2020 06:39:43: Sensory Prediction of the formula for sex F Using Sub set 
+26/02/2020 06:39:53: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+Formula Price: 22.45 USD/Kg. (missing 0.9% of the volume) 
+26/02/2020 06:40:06: connexion of user: MXS6557 
+26/02/2020 06:40:53: Simple Analysis of the formula: default Formula
+-------- OSIFF --------
+                      dosage
+Solvent            10.175611
+% low OSIFF        63.770735
+% medium OSIFF     13.608846
+% high OSIFF       11.939514
+% very high OSIFF   0.000001
+% OSIFF Not Found   0.505293
+--------- SGI ---------
+                  dosage
+Solvent        10.175611
+SGI 1           5.532918
+SGI 2          22.420248
+SGI 3           4.202935
+SGI 5          19.478518
+SGI 6          19.372269
+SGI 7          18.312209
+SGI Not Found   0.505293
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                 0.000000
+% low OSIFF            74.485153
+% medium OSIFF         30.058226
+% high OSIFF           43.992318
+% very high OSIFF       0.000013
+% OSIFF Not Found       0.505293
+---- Impact SGI -------
+               dosage/Impact
+Solvent             0.000000
+SGI 1               6.422234
+SGI 2              34.209967
+SGI 3               4.236853
+SGI 5              33.220201
+SGI 6              43.332647
+SGI 7              27.113809
+SGI Not Found       0.505293
+----- SGI/OSIFF -------
+                     Solvent     SGI 1      SGI 2     SGI 3      SGI 5  \
+Solvent            10.175611  0.000000   0.000000  0.000000   0.000000   
+% low OSIFF         0.000000  5.294627  13.541528  4.202935  13.528551   
+% medium OSIFF      0.000000  0.178434   8.878720  0.000000   3.354562   
+% high OSIFF        0.000000  0.059857   0.000000  0.000000   2.595405   
+% very high OSIFF   0.000000  0.000000   0.000000  0.000000   0.000000   
+% OSIFF Not Found   0.000000  0.000000   0.000000  0.000000   0.000000   
+
+                       SGI 6      SGI 7  SGI Not Found  Natural Ingredient  
+Solvent             0.000000   0.000000       0.000000            0.000000  
+% low OSIFF        10.331336  16.871758       0.000000            4.807989  
+% medium OSIFF      0.000000   1.197131       0.000000            0.000000  
+% high OSIFF        9.040933   0.243319       0.000000            0.000000  
+% very high OSIFF   0.000000   0.000001       0.000000            0.000000  
+% OSIFF Not Found   0.000000   0.000000       0.505293            0.000000  
+------ Nat/Synth ------
+                         dosage
+Solvent               10.175611
+% Natural RMs          4.807989
+% Synthetic RMs       84.511108
+% Base RMs             0.000000
+% Nat/Synt Not Found   0.505293
+Formula Price: 22.45 USD/Kg. (missing 0.9% of the volume) 
+26/02/2020 11:52:55: connexion of user: MXS6557 

@@ -1,0 +1,13 @@
+name:Meenakshisundaram S
+email:MEENAKSHISUNDARAM.S@IFF.COM
+globaluserid:MXS6557
+deptname:Chennai (Guindy), India
+position:Software Specialist
+jobfamily:None
+divisionname:Corporate
+countrycode:IN
+countryname:India
+employeecatcode:IT
+regioncode:GA
+regionname:Greater Asia
+orgunitname:IT App Development-FR

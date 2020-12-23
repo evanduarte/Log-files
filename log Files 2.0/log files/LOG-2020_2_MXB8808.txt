@@ -1,0 +1,347 @@
+25/02/2020 14:12:03: connexion of user: MXB8808 
+25/02/2020 14:27:47: 
+-------------- AWAKEAJ ------------------
+0                           BOMItemName BOMItemNumber   Parts
+1  PYRAZINE 001 (2,3,5-TRIMETH) 10% DPG      00203003  2.0000
+2   PYRAZINE 004 (2-ETH-3-METH) 10% DPG      00200692  4.0000
+0                            BOMItemName BOMItemNumber   Parts
+29  CARAMEL PENTADIONE (CYCLO502) 1% DPG      00030124  1.0000
+----------------------------------------------------------- 
+25/02/2020 14:27:47: IPC manquant: 00221199 
+25/02/2020 14:28:01: Simple Analysis of the formula: AWAKEAJ
+-------- OSIFF --------
+                   dosage
+Solvent            15.702
+% low OSIFF        79.205
+% medium OSIFF      1.810
+% high OSIFF        0.511
+% very high OSIFF   2.072
+% OSIFF Not Found   0.700
+--------- SGI ---------
+               dosage
+Solvent        15.702
+SGI 1           1.320
+SGI 2           0.002
+SGI 3           0.815
+SGI 5           0.200
+SGI 6          72.500
+SGI 7           8.761
+SGI Not Found   0.700
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             88.57200
+% medium OSIFF           4.71970
+% high OSIFF             2.37702
+% very high OSIFF       12.07002
+% OSIFF Not Found        0.70000
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                1.85740
+SGI 2                0.01642
+SGI 3                2.14125
+SGI 5                0.79800
+SGI 6               76.73000
+SGI 7               26.19567
+SGI Not Found        0.70000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent             15.702   0.00  0.000  0.000    0.0    0.0  0.000   
+% low OSIFF          0.000   1.20  0.000  0.000    0.0   72.0  6.005   
+% medium OSIFF       0.000   0.01  0.000  0.800    0.0    0.5  0.500   
+% high OSIFF         0.000   0.07  0.000  0.015    0.2    0.0  0.226   
+% very high OSIFF    0.000   0.04  0.002  0.000    0.0    0.0  2.030   
+% OSIFF Not Found    0.000   0.00  0.000  0.000    0.0    0.0  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0                9.20  
+% medium OSIFF               0.0                1.31  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            0.7                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent               15.702
+% Natural RMs         10.510
+% Synthetic RMs       73.088
+% Base RMs             0.000
+% Nat/Synt Not Found   0.700
+Formula Price: 15.4 USD/Kg. (missing 20.7% of the volume) 
+25/02/2020 14:28:11: Simple Analysis of the formula: AWAKEAJ
+-------- OSIFF --------
+                   dosage
+Solvent            15.702
+% low OSIFF        79.205
+% medium OSIFF      1.810
+% high OSIFF        0.511
+% very high OSIFF   2.072
+% OSIFF Not Found   0.700
+--------- SGI ---------
+               dosage
+Solvent        15.702
+SGI 1           1.320
+SGI 2           0.002
+SGI 3           0.815
+SGI 5           0.200
+SGI 6          72.500
+SGI 7           8.761
+SGI Not Found   0.700
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             88.57200
+% medium OSIFF           4.71970
+% high OSIFF             2.37702
+% very high OSIFF       12.07002
+% OSIFF Not Found        0.70000
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                1.85740
+SGI 2                0.01642
+SGI 3                2.14125
+SGI 5                0.79800
+SGI 6               76.73000
+SGI 7               26.19567
+SGI Not Found        0.70000
+----- SGI/OSIFF -------
+                   Solvent  SGI 1  SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent             15.702   0.00  0.000  0.000    0.0    0.0  0.000   
+% low OSIFF          0.000   1.20  0.000  0.000    0.0   72.0  6.005   
+% medium OSIFF       0.000   0.01  0.000  0.800    0.0    0.5  0.500   
+% high OSIFF         0.000   0.07  0.000  0.015    0.2    0.0  0.226   
+% very high OSIFF    0.000   0.04  0.002  0.000    0.0    0.0  2.030   
+% OSIFF Not Found    0.000   0.00  0.000  0.000    0.0    0.0  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                      0.0                0.00  
+% low OSIFF                  0.0                9.20  
+% medium OSIFF               0.0                1.31  
+% high OSIFF                 0.0                0.00  
+% very high OSIFF            0.0                0.00  
+% OSIFF Not Found            0.7                0.00  
+------ Nat/Synth ------
+                      dosage
+Solvent               15.702
+% Natural RMs         10.510
+% Synthetic RMs       73.088
+% Base RMs             0.000
+% Nat/Synt Not Found   0.700
+Formula Price: 15.4 USD/Kg. (missing 20.7% of the volume) 
+25/02/2020 14:29:16: Comparaison of the formula to the following benches: Top (9)(In Data Base),(Uploaded benches) 
+25/02/2020 14:35:33: Sensory Prediction of the formula for sex F Using Sub set 
+25/02/2020 14:37:42: Sensory Prediction of the formula for sex F,M Using Sub set 
+25/02/2020 14:41:27: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:41:27: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:41:27: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:41:28: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:41:28: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:41:28: Comparaison of the formula to the following benches: HUGO BOSS,LACOSTE WHITE(In Data Base),(Uploaded benches) 
+25/02/2020 14:43:33: Sensory Prediction of the formula for sex M,F,U Using Sub set 
+25/02/2020 14:43:57: Comparaison of the formula to the following benches: RED DAWN 50(In Data Base),(Uploaded benches) 
+25/02/2020 14:43:58: Comparaison of the formula to the following benches: RED DAWN 50(In Data Base),(Uploaded benches) 
+25/02/2020 14:43:58: Comparaison of the formula to the following benches: RED DAWN 50(In Data Base),(Uploaded benches) 
+25/02/2020 14:43:58: Comparaison of the formula to the following benches: RED DAWN 50(In Data Base),(Uploaded benches) 
+26/02/2020 13:14:03: connexion of user: MXB8808 
+26/02/2020 13:14:04: Comparaison of the formula to the following benches: RED DAWN 50(In Data Base),(Uploaded benches) 
+26/02/2020 13:14:29: 
+-------------- JIMMY CHOO | JIMMY CHOO FEVER | EDP WOMEN 18% | JIMMY CHOO | GPI 124800 | LV.1 BASIC  B100001231AD ------------------
+0              BOMItemName BOMItemNumber Parts
+1  IONONE DIHYDRO BETA BHT      00090536   0.5
+2                 TRIMOFIX      00201737    10
+0            BOMItemName BOMItemNumber   Parts
+73  HEXENOL CIS-3 1% TEC      00080257  5.0000
+----------------------------------------------------------- 
+26/02/2020 13:14:29: IPC manquant: 00010750 
+26/02/2020 13:14:44: Simple Analysis of the formula: JIMMY CHOO | JIMMY CHOO FEVER | EDP WOMEN 18% | JIMMY CHOO | GPI 124800 | LV.1 BASIC  B100001231AD
+-------- OSIFF --------
+                   dosage
+Solvent            11.930
+% low OSIFF        78.280
+% medium OSIFF      4.145
+% high OSIFF        1.430
+% very high OSIFF   1.800
+% OSIFF Not Found   2.415
+--------- SGI ---------
+               dosage
+Solvent        11.930
+SGI 1           0.050
+SGI 2          11.145
+SGI 3           3.400
+SGI 5           5.255
+SGI 6          55.270
+SGI 7          11.735
+SGI Not Found   1.215
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             86.20310
+% medium OSIFF          10.95680
+% high OSIFF             4.78825
+% very high OSIFF       10.33200
+% OSIFF Not Found        2.41500
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                0.10575
+SGI 2               11.42915
+SGI 3                3.64950
+SGI 5                7.71155
+SGI 6               64.08650
+SGI 7               26.49770
+SGI Not Found        1.21500
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              11.93  0.000   0.000    0.0  0.000   0.00  0.000   
+% low OSIFF           0.00  0.035  11.140    3.4  4.705  51.10  7.900   
+% medium OSIFF        0.00  0.015   0.000    0.0  0.400   1.97  1.760   
+% high OSIFF          0.00  0.000   0.005    0.0  0.150   1.00  0.275   
+% very high OSIFF     0.00  0.000   0.000    0.0  0.000   0.00  1.800   
+% OSIFF Not Found     0.00  0.000   0.000    0.0  0.000   1.20  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                    0.000                 0.0  
+% low OSIFF                0.000                 1.6  
+% medium OSIFF             0.000                 0.0  
+% high OSIFF               0.000                 0.0  
+% very high OSIFF          0.000                 0.0  
+% OSIFF Not Found          1.215                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                11.93
+% Natural RMs           1.60
+% Synthetic RMs        85.27
+% Base RMs              0.00
+% Nat/Synt Not Found    1.20
+Formula Price: 15.64 USD/Kg. (missing 8.5% of the volume) 
+26/02/2020 13:16:54: Simple Analysis of the formula: JIMMY CHOO | JIMMY CHOO FEVER | EDP WOMEN 18% | JIMMY CHOO | GPI 124800 | LV.1 BASIC  B100001231AD
+-------- OSIFF --------
+                   dosage
+Solvent            11.930
+% low OSIFF        78.280
+% medium OSIFF      4.145
+% high OSIFF        1.430
+% very high OSIFF   1.800
+% OSIFF Not Found   2.415
+--------- SGI ---------
+               dosage
+Solvent        11.930
+SGI 1           0.050
+SGI 2          11.145
+SGI 3           3.400
+SGI 5           5.255
+SGI 6          55.270
+SGI 7          11.735
+SGI Not Found   1.215
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             86.20310
+% medium OSIFF          10.95680
+% high OSIFF             4.78825
+% very high OSIFF       10.33200
+% OSIFF Not Found        2.41500
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                0.10575
+SGI 2               11.42915
+SGI 3                3.64950
+SGI 5                7.71155
+SGI 6               64.08650
+SGI 7               26.49770
+SGI Not Found        1.21500
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              11.93  0.000   0.000    0.0  0.000   0.00  0.000   
+% low OSIFF           0.00  0.035  11.140    3.4  4.705  51.10  7.900   
+% medium OSIFF        0.00  0.015   0.000    0.0  0.400   1.97  1.760   
+% high OSIFF          0.00  0.000   0.005    0.0  0.150   1.00  0.275   
+% very high OSIFF     0.00  0.000   0.000    0.0  0.000   0.00  1.800   
+% OSIFF Not Found     0.00  0.000   0.000    0.0  0.000   1.20  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                    0.000                 0.0  
+% low OSIFF                0.000                 1.6  
+% medium OSIFF             0.000                 0.0  
+% high OSIFF               0.000                 0.0  
+% very high OSIFF          0.000                 0.0  
+% OSIFF Not Found          1.215                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                11.93
+% Natural RMs           1.60
+% Synthetic RMs        85.27
+% Base RMs              0.00
+% Nat/Synt Not Found    1.20
+Formula Price: 15.64 USD/Kg. (missing 8.5% of the volume) 
+26/02/2020 13:16:55: Simple Analysis of the formula: JIMMY CHOO | JIMMY CHOO FEVER | EDP WOMEN 18% | JIMMY CHOO | GPI 124800 | LV.1 BASIC  B100001231AD
+-------- OSIFF --------
+                   dosage
+Solvent            11.930
+% low OSIFF        78.280
+% medium OSIFF      4.145
+% high OSIFF        1.430
+% very high OSIFF   1.800
+% OSIFF Not Found   2.415
+--------- SGI ---------
+               dosage
+Solvent        11.930
+SGI 1           0.050
+SGI 2          11.145
+SGI 3           3.400
+SGI 5           5.255
+SGI 6          55.270
+SGI 7          11.735
+SGI Not Found   1.215
+---- Impact OSIFF -----
+                   dosage/Impact
+Solvent                  0.00000
+% low OSIFF             86.20310
+% medium OSIFF          10.95680
+% high OSIFF             4.78825
+% very high OSIFF       10.33200
+% OSIFF Not Found        2.41500
+---- Impact SGI -------
+               dosage/Impact
+Solvent              0.00000
+SGI 1                0.10575
+SGI 2               11.42915
+SGI 3                3.64950
+SGI 5                7.71155
+SGI 6               64.08650
+SGI 7               26.49770
+SGI Not Found        1.21500
+----- SGI/OSIFF -------
+                   Solvent  SGI 1   SGI 2  SGI 3  SGI 5  SGI 6  SGI 7  \
+Solvent              11.93  0.000   0.000    0.0  0.000   0.00  0.000   
+% low OSIFF           0.00  0.035  11.140    3.4  4.705  51.10  7.900   
+% medium OSIFF        0.00  0.015   0.000    0.0  0.400   1.97  1.760   
+% high OSIFF          0.00  0.000   0.005    0.0  0.150   1.00  0.275   
+% very high OSIFF     0.00  0.000   0.000    0.0  0.000   0.00  1.800   
+% OSIFF Not Found     0.00  0.000   0.000    0.0  0.000   1.20  0.000   
+
+                   SGI Not Found  Natural Ingredient  
+Solvent                    0.000                 0.0  
+% low OSIFF                0.000                 1.6  
+% medium OSIFF             0.000                 0.0  
+% high OSIFF               0.000                 0.0  
+% very high OSIFF          0.000                 0.0  
+% OSIFF Not Found          1.215                 0.0  
+------ Nat/Synth ------
+                      dosage
+Solvent                11.93
+% Natural RMs           1.60
+% Synthetic RMs        85.27
+% Base RMs              0.00
+% Nat/Synt Not Found    1.20
+Formula Price: 15.64 USD/Kg. (missing 8.5% of the volume) 
+26/02/2020 13:17:06: Comparaison of the formula to the following benches: LA NUIT TRESOR(In Data Base),(Uploaded benches) 
+26/02/2020 13:17:11: Comparaison of the formula to the following benches: LA NUIT TRESOR(In Data Base),(Uploaded benches) 
+26/02/2020 13:17:12: Comparaison of the formula to the following benches: LA NUIT TRESOR(In Data Base),(Uploaded benches) 
+26/02/2020 13:17:21: Comparaison of the formula to the following benches: EUPHORIA 30762543(In Data Base),(Uploaded benches) 
+26/02/2020 13:17:22: Comparaison of the formula to the following benches: EUPHORIA 30762543(In Data Base),(Uploaded benches) 
+26/02/2020 13:19:22: Comparaison of the formula to the following benches: EUPHORIA 30762543(In Data Base),(Uploaded benches) 
+26/02/2020 13:21:03: Sensory Prediction of the formula for sex M,F,U Using Sub set 

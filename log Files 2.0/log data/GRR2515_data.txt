@@ -1,0 +1,13 @@
+name:Gaelle RIOLET MAITRE
+email:GAELLE.RIOLET@IFF.COM
+globaluserid:GRR2515
+deptname:Neuilly-sur-Seine cedex,France
+position:Scientist II
+jobfamily:None
+divisionname:Fragrances
+countrycode:FR
+countryname:France
+employeecatcode:FA
+regioncode:EAME
+regionname:Europe Africa & Middle East
+orgunitname:BUFR EAME C&A FF Applications
